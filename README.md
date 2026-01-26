@@ -3,7 +3,7 @@
 ---
 
 <div align="center">
-  <img src="[https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWxndzllYzMxcGkyajN1azc5bjlzdTNtemRvNm02b2d3OXhqZGd6OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2mvPqu6Rs4Une/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWl3bzNiZWFldzkzZzdrYjdzdXlueHVqNjd4YWZ3MjFiMnMxZ2ZmcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eDMaaVlUV5c4LLS5kR/giphy.gif)" alt="Anime Banner" width="700" />
+  <img src="" width="700" />
 
   <h3>
     MCA student focused on <b>Full-Stack Development</b> and  
@@ -90,7 +90,7 @@
 ---
 <div align="center">
   <img 
-    src="[https://i.pinimg.com/originals/7b/6f/5e/7b6f5e0b8f2d6a6f3c0f7c0d8a6b9e4a.jpg](https://pin.it/2GiAHR5jY)"
+    src="[[https://i.pinimg.com/originals/7b/6f/5e/7b6f5e0b8f2d6a6f3c0f7c0d8a6b9e4a.jpg](https://pin.it/2GiAHR5jY)](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWl3bzNiZWFldzkzZzdrYjdzdXlueHVqNjd4YWZ3MjFiMnMxZ2ZmcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eDMaaVlUV5c4LLS5kR/giphy.gif)"
     alt="Cinematic Anime"
     width="750"
   />
