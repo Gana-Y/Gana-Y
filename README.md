@@ -90,7 +90,7 @@
 ---
 <div align="center">
   <img 
-    src="[[https://i.pinimg.com/originals/7b/6f/5e/7b6f5e0b8f2d6a6f3c0f7c0d8a6b9e4a.jpg](https://pin.it/2GiAHR5jY)](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWl3bzNiZWFldzkzZzdrYjdzdXlueHVqNjd4YWZ3MjFiMnMxZ2ZmcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eDMaaVlUV5c4LLS5kR/giphy.gif)"
+    src="[[[https://i.pinimg.com/originals/7b/6f/5e/7b6f5e0b8f2d6a6f3c0f7c0d8a6b9e4a.jpg](https://pin.it/2GiAHR5jY)](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWl3bzNiZWFldzkzZzdrYjdzdXlueHVqNjd4YWZ3MjFiMnMxZ2ZmcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eDMaaVlUV5c4LLS5kR/giphy.gif)](https://tenor.com/gLtYNLJKa3i.gif)"
     alt="Cinematic Anime"
     width="750"
   />
