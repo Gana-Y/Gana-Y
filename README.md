@@ -22,7 +22,7 @@
 ## 👨‍💻 About Me
 - 🎓 MCA student  
 - 💻 Full-stack web development learner  
-- 📘 Serious about DSA & problem-solving  
+- 📘 DSA & problem-solving  
 - 🔁 Believer in consistency over shortcuts  
 - 🎯 Goal: Big-tech-level engineering skills
 - 🧑‍💻Aspiring AI Engineer
