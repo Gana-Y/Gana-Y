@@ -1,16 +1,87 @@
-<h1 align="center">Hi 👋, I'm Ganesh</h1>
-<h3 align="center">A passionate Full Stack developer</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=38&pause=1000&color=1461FF&vCenter=true&width=700&lines=Hi+there%2C+I'm+Ganesh+Y+%F0%9F%91%8B;MCA+Student+%7C+Full+Stack+Learner;DSA+%7C+Web+Development;Building+Consistency+Every+Day)](https://github.com/Gana-Y)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gana-y&label=Profile%20views&color=0e75b6&style=flat" alt="gana-y" /> </p>
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<div align="center">
+  <!-- 🔴 Replace this with your anime banner / animation link -->
+  <img src="PASTE_ANIME_BANNER_LINK_HERE" alt="Anime Banner" />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+  <h3>
+    MCA student passionate about <b>Full-Stack Development</b> and  
+    strengthening <b>Data Structures & Algorithms</b>.<br/>
+    Focused on learning deeply and building things the right way.
+  </h3>
+</div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gana-y&show_icons=true&locale=en&layout=compact" alt="gana-y" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gana-y&" alt="gana-y" /></p>
+### 👨‍💻 About Me
+- 🎓 MCA student  
+- 💻 Interested in full-stack web development  
+- 📘 Actively learning DSA and core CS fundamentals  
+- 🚀 Improving through consistent practice and projects  
 
+---
+
+### ⚔️ Tech Stack
+
+<div align="center">
+
+#### Languages
+![C++](https://img.shields.io/badge/C++-blue?logo=cplusplus&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white&style=for-the-badge)
+![PHP](https://img.shields.io/badge/PHP-purple?logo=php&logoColor=white&style=for-the-badge)
+
+#### Frontend
+![HTML](https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white&style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS-blue?logo=css3&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/React-blue?logo=react&logoColor=white&style=for-the-badge)
+![Angular](https://img.shields.io/badge/Angular-red?logo=angular&logoColor=white&style=for-the-badge)
+![Vue.js](https://img.shields.io/badge/Vue.js-green?logo=vue.js&logoColor=white&style=for-the-badge)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?logo=tailwindcss&logoColor=white&style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?logo=bootstrap&logoColor=white&style=for-the-badge)
+
+#### Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js&logoColor=white&style=for-the-badge)
+![Express.js](https://img.shields.io/badge/Express.js-black?logo=express&logoColor=white&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?logo=mongodb&logoColor=white&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql&logoColor=white&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=for-the-badge)
+
+#### Tools
+![Git](https://img.shields.io/badge/Git-orange?logo=git&logoColor=white&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white&style=for-the-badge)
+![VS Code](https://img.shields.io/badge/VS_Code-blue?logo=visualstudiocode&logoColor=white&style=for-the-badge)
+
+</div>
+
+---
+
+### 📌 Projects & Learning
+- 🔨 Building and refining full-stack projects  
+- 📘 Practicing DSA (arrays, strings, recursion, trees, etc.)  
+- 🔗 Repositories: https://github.com/Gana-Y?tab=repositories  
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Gana-Y&show_icons=true&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gana-Y&layout=compact&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gana-Y&hide_border=true" />
+
+</div>
+
+---
+
+### 🌐 Connect With Me
+- 💼 LinkedIn: https://www.linkedin.com/in/ganesh-yandigeri-988821287  
+- 💻 GitHub: https://github.com/Gana-Y  
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Gana-Y&label=Profile%20views&color=0e75b6&style=flat" />
+</div>
