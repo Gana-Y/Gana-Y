@@ -1,9 +1,14 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=38&pause=1000&color=1461FF&vCenter=true&width=750&lines=Hi+there%2C+I'm+Ganesh+Y+%F0%9F%91%8B;MCA+Student+%7C+Full+Stack+Learner;DSA+%7C+Web+Development;Consistency+over+Motivation)](https://github.com/Gana-Y)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=36&pause=1000&color=1461FF&vCenter=true&width=750&lines=Hi+there%2C+I'm+Ganesh+Y+%F0%9F%91%8B;MCA+Student+%7C+Full+Stack+Learner;DSA+%7C+Web+Development;Consistency+over+Motivation)](https://github.com/Gana-Y)
 
 ---
 
+<!-- 🔹 TOP INTRO IMAGE -->
 <div align="center">
-  <img src="" width="700" />
+  <img 
+    src="https://c4.wallpaperflare.com/wallpaper/658/804/885/action-adventure-amazing-comics-wallpaper-preview.jpg"
+    width="650"
+    alt="Intro Anime Banner"
+  />
 
   <h3>
     MCA student focused on <b>Full-Stack Development</b> and  
@@ -61,7 +66,7 @@
 - 🔨 Building clean full-stack projects  
 - 📘 Solving DSA problems daily  
 - 🧠 Strengthening fundamentals (OS, DBMS, CN, OOPs)  
-- 🔗 Repos: https://github.com/Gana-Y?tab=repositories  
+- 🔗 Repositories: https://github.com/Gana-Y?tab=repositories  
 
 ---
 
@@ -82,19 +87,24 @@
 ## 🧩 LeetCode Progress
 
 <div align="center">
-
-<img src="https://leetcard.jacoblin.cool/Ganesh_Op?theme=dark&font=Prompt&ext=heatmap" />
-
+  <img 
+    src="https://leetcard.jacoblin.cool/Ganesh_Op?theme=dark&font=Prompt&ext=heatmap"
+    width="600"
+  />
 </div>
 
 ---
+
+<!-- 🔹 TRANSITION ANIMATION BEFORE SNAKE -->
 <div align="center">
   <img 
-    src="[[[https://i.pinimg.com/originals/7b/6f/5e/7b6f5e0b8f2d6a6f3c0f7c0d8a6b9e4a.jpg](https://pin.it/2GiAHR5jY)](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWl3bzNiZWFldzkzZzdrYjdzdXlueHVqNjd4YWZ3MjFiMnMxZ2ZmcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eDMaaVlUV5c4LLS5kR/giphy.gif)](https://tenor.com/gLtYNLJKa3i.gif)"
-    alt="Cinematic Anime"
-    width="750"
+    src="https://media1.tenor.com/m/TOWRxIWV44oAAAAd/the-amazing-spiderman-the-amazing-spiderman-2.gif"
+    width="650"
+    alt="Cinematic Transition"
   />
 </div>
+
+---
 
 ## 🐍 GitHub Contribution Snake
 
