@@ -1,38 +1,38 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=38&pause=1000&color=1461FF&vCenter=true&width=700&lines=Hi+there%2C+I'm+Ganesh+Y+%F0%9F%91%8B;MCA+Student+%7C+Full+Stack+Learner;DSA+%7C+Web+Development;Building+Consistency+Every+Day)](https://github.com/Gana-Y)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=38&pause=1000&color=1461FF&vCenter=true&width=750&lines=Hi+there%2C+I'm+Ganesh+Y+%F0%9F%91%8B;MCA+Student+%7C+Full+Stack+Learner;DSA+%7C+Web+Development;Consistency+over+Motivation)](https://github.com/Gana-Y)
 
 ---
 
 <div align="center">
-  <!-- 🔴 Replace this with your anime banner / animation link -->
-  <img src="PASTE_ANIME_BANNER_LINK_HERE" alt="Anime Banner" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWxndzllYzMxcGkyajN1azc5bjlzdTNtemRvNm02b2d3OXhqZGd6OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2mvPqu6Rs4Une/giphy.gif" alt="Anime Banner" width="100%" />
 
   <h3>
-    MCA student passionate about <b>Full-Stack Development</b> and  
-    strengthening <b>Data Structures & Algorithms</b>.<br/>
-    Focused on learning deeply and building things the right way.
+    MCA student focused on <b>Full-Stack Development</b> and  
+    building strong foundations in <b>Data Structures & Algorithms</b>.<br/>
+    Long-term goal: become an engineer who can <b>build and scale real systems</b>.
   </h3>
 </div>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 - 🎓 MCA student  
-- 💻 Interested in full-stack web development  
-- 📘 Actively learning DSA and core CS fundamentals  
-- 🚀 Improving through consistent practice and projects  
+- 💻 Full-stack web development learner  
+- 📘 Serious about DSA & problem-solving  
+- 🔁 Believer in consistency over shortcuts  
+- 🎯 Goal: Big-tech-level engineering skills (not just certificates)
 
 ---
 
-### ⚔️ Tech Stack
+## ⚔️ Tech Stack
 
 <div align="center">
 
-#### Languages
+### Languages
 ![C++](https://img.shields.io/badge/C++-blue?logo=cplusplus&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white&style=for-the-badge)
 ![PHP](https://img.shields.io/badge/PHP-purple?logo=php&logoColor=white&style=for-the-badge)
 
-#### Frontend
+### Frontend
 ![HTML](https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS](https://img.shields.io/badge/CSS-blue?logo=css3&logoColor=white&style=for-the-badge)
 ![React](https://img.shields.io/badge/React-blue?logo=react&logoColor=white&style=for-the-badge)
@@ -41,14 +41,14 @@
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?logo=tailwindcss&logoColor=white&style=for-the-badge)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?logo=bootstrap&logoColor=white&style=for-the-badge)
 
-#### Backend & Databases
+### Backend & Databases
 ![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js&logoColor=white&style=for-the-badge)
 ![Express.js](https://img.shields.io/badge/Express.js-black?logo=express&logoColor=white&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?logo=mongodb&logoColor=white&style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql&logoColor=white&style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=for-the-badge)
 
-#### Tools
+### Tools
 ![Git](https://img.shields.io/badge/Git-orange?logo=git&logoColor=white&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white&style=for-the-badge)
 ![VS Code](https://img.shields.io/badge/VS_Code-blue?logo=visualstudiocode&logoColor=white&style=for-the-badge)
@@ -57,14 +57,15 @@
 
 ---
 
-### 📌 Projects & Learning
-- 🔨 Building and refining full-stack projects  
-- 📘 Practicing DSA (arrays, strings, recursion, trees, etc.)  
-- 🔗 Repositories: https://github.com/Gana-Y?tab=repositories  
+## 📌 What I’m Working On
+- 🔨 Building clean full-stack projects  
+- 📘 Solving DSA problems daily  
+- 🧠 Strengthening fundamentals (OS, DBMS, CN, OOPs)  
+- 🔗 Repos: https://github.com/Gana-Y?tab=repositories  
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub & Coding Stats
 
 <div align="center">
 
@@ -78,9 +79,30 @@
 
 ---
 
-### 🌐 Connect With Me
+## 🧩 LeetCode Progress
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/Ganesh_Op?theme=dark&font=Prompt&ext=heatmap" />
+
+</div>
+
+---
+
+## 🐍 GitHub Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gana-Y/Gana-Y/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gana-Y/Gana-Y/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Gana-Y/Gana-Y/output/github-snake.svg" />
+</picture>
+
+---
+
+## 🌐 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/ganesh-yandigeri-988821287  
 - 💻 GitHub: https://github.com/Gana-Y  
+- 🧠 LeetCode: https://leetcode.com/u/Ganesh_Op/
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Gana-Y&label=Profile%20views&color=0e75b6&style=flat" />
