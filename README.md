@@ -3,7 +3,7 @@
 ---
 
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWxndzllYzMxcGkyajN1azc5bjlzdTNtemRvNm02b2d3OXhqZGd6OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2mvPqu6Rs4Une/giphy.gif" alt="Anime Banner" width="100%" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWxndzllYzMxcGkyajN1azc5bjlzdTNtemRvNm02b2d3OXhqZGd6OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2mvPqu6Rs4Une/giphy.gif" alt="Anime Banner" width="700" />
 
   <h3>
     MCA student focused on <b>Full-Stack Development</b> and  
