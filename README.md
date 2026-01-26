@@ -5,7 +5,7 @@
 <!-- 🔹 TOP INTRO IMAGE -->
 <div align="center">
   <img 
-    src="https://c4.wallpaperflare.com/wallpaper/658/804/885/action-adventure-amazing-comics-wallpaper-preview.jpg"
+    src="[https://c4.wallpaperflare.com/wallpaper/658/804/885/action-adventure-amazing-comics-wallpaper-preview.jpg](https://images3.alphacoders.com/674/thumb-1920-674442.jpg)"
     width="650"
     alt="Intro Anime Banner"
   />
