@@ -88,6 +88,13 @@
 </div>
 
 ---
+<div align="center">
+  <img 
+    src="https://i.pinimg.com/originals/7b/6f/5e/7b6f5e0b8f2d6a6f3c0f7c0d8a6b9e4a.jpg"
+    alt="Cinematic Anime"
+    width="750"
+  />
+</div>
 
 ## 🐍 GitHub Contribution Snake
 
