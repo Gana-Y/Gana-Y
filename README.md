@@ -5,8 +5,8 @@
 <!-- 🔹 TOP INTRO IMAGE -->
 <div align="center">
   <img 
-    src="https://c4.wallpaperflare.com/wallpaper/658/804/885/action-adventure-amazing-comics-wallpaper-preview.jpg](https://images3.alphacoders.com/674/thumb-1920-674442.jpg"
-    width="650"
+    src="https://images3.alphacoders.com/674/thumb-1920-674442.jpg"
+    width="700"
     alt="Intro Anime Banner"
   />
 
@@ -95,10 +95,10 @@
 
 ---
 
-<!-- 🔹 TRANSITION ANIMATION BEFORE SNAKE -->
+<!-- 🔹 SECOND GIF / TRANSITION BEFORE SNAKE -->
 <div align="center">
   <img 
-    src="https://media1.tenor.com/m/TOWRxIWV44oAAAAd/the-amazing-spiderman-the-amazing-spiderman-2.gif"
+    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3B6MWxkYXd1N3pudmh0dHNyeGF2MHJraHFqZjdmYjJoNWYyc3hkaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/eDMaaVlUV5c4LLS5kR/giphy.gif"
     width="650"
     alt="Cinematic Transition"
   />
@@ -122,5 +122,5 @@
 - 🧠 LeetCode: https://leetcode.com/u/Ganesh_Op/
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Gana-Y&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Gana-Y&label=Profile%20views&color=0e75b6&style=for-the-badge" />
 </div>
