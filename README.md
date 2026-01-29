@@ -1,14 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=36&pause=1000&color=1461FF&vCenter=true&width=750&lines=Hi+there%2C+I'm+Ganesh+Y+%F0%9F%91%8B;MCA+Student+%7C+Full+Stack+Learner;DSA+%7C+Web+Development;Consistency+over+Motivation)](https://github.com/Gana-Y)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=36&pause=1000&color=1461FF&vCenter=true&width=750&lines=Hi+there%2C+I'm+Ganesh+Y+%F0%9F%91%8B;MCA+Student+%7C+Full+Stack+Learner;DSA+%7C+Web+Development)](https://github.com/Gana-Y)
 
 ---
 
 <!-- 🔹 TOP INTRO IMAGE -->
 <div align="center">
-  <img 
-    src="https://images3.alphacoders.com/674/thumb-1920-674442.jpg"
-    width="700"
-    alt="Intro Anime Banner"
-  />
+ 
 
   <h3>
     MCA student focused on <b>Full-Stack Development</b> and  
@@ -97,13 +93,8 @@
 ---
 
 <!-- 🔹 SECOND GIF / TRANSITION BEFORE SNAKE -->
-<div align="center">
-  <img 
-    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3B6MWxkYXd1N3pudmh0dHNyeGF2MHJraHFqZjdmYjJoNWYyc3hkaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/eDMaaVlUV5c4LLS5kR/giphy.gif"
-    width="650"
-    alt="Cinematic Transition"
-  />
-</div>
+
+
 
 ---
 
