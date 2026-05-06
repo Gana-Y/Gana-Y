@@ -7,20 +7,17 @@
  
 
   <h3>
-    MCA student focused on <b>Full-Stack Development</b> and  
+    <b>Full-Stack Development</b> and  
     building strong foundations in <b>Data Structures & Algorithms</b>.<br/>
-    Long-term goal: become an engineer who can <b>build and scale real systems</b>.
+     <b>build and scale real systems</b>.
   </h3>
 </div>
 
 ---
 
 ## 👨‍💻 About Me
-- 🎓 MCA student  
 - 💻 Full-stack web development learner  
-- 📘 DSA & problem-solving  
-- 🔁 Believer in consistency over shortcuts  
-- 🎯 Goal: Big-tech-level engineering skills
+- 📘 DSA & problem-solving   
 - 🧑‍💻Aspiring AI Engineer
 
 ---
