@@ -1,3 +1,4 @@
+```md
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=34&pause=1000&color=1461FF&vCenter=true&width=900&lines=Hey%2C+I'm+Ganesh+Y+%F0%9F%91%8B;Aspiring+AI+Engineer;Machine+Learning+%7C+DSA+%7C+Backend;Python+%7C+Deep+Learning+%7C+AI)](https://github.com/Gana-Y)
 
 ---
@@ -5,20 +6,19 @@
 <!-- 🔹 TOP INTRO IMAGE -->
 <div align="center">
  
-
   <h3>
-    <b>Full-Stack Development</b> and  
-    building strong foundations in <b>Data Structures & Algorithms</b>.<br/>
-     <b>build and scale real systems</b>.
+    Building strong foundations in <b>Machine Learning</b>,  
+    <b>Data Structures & Algorithms</b>, and <b>Backend Systems</b>.<br/>
+    Focused on building intelligent and scalable systems.
   </h3>
 </div>
 
 ---
 
 ## 👨‍💻 About Me
-- 💻 Full-stack web development learner  
-- 📘 DSA & problem-solving   
-- 🧑‍💻Aspiring AI Engineer
+- 🤖 Aspiring AI Engineer  
+- 📘 DSA & problem-solving  
+- 🧠 Exploring Machine Learning & Backend Systems
 
 ---
 
@@ -27,39 +27,37 @@
 <div align="center">
 
 ### Languages
+![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white&style=for-the-badge)
 ![C++](https://img.shields.io/badge/C++-blue?logo=cplusplus&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white&style=for-the-badge)
-![PHP](https://img.shields.io/badge/PHP-purple?logo=php&logoColor=white&style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-red?logo=openjdk&logoColor=white&style=for-the-badge)
 
-### Frontend
-![HTML](https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white&style=for-the-badge)
-![CSS](https://img.shields.io/badge/CSS-blue?logo=css3&logoColor=white&style=for-the-badge)
-![React](https://img.shields.io/badge/React-blue?logo=react&logoColor=white&style=for-the-badge)
-![Angular](https://img.shields.io/badge/Angular-red?logo=angular&logoColor=white&style=for-the-badge)
-![Vue.js](https://img.shields.io/badge/Vue.js-green?logo=vue.js&logoColor=white&style=for-the-badge)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?logo=tailwindcss&logoColor=white&style=for-the-badge)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?logo=bootstrap&logoColor=white&style=for-the-badge)
+### AI / Machine Learning
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)
 
 ### Backend & Databases
 ![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js&logoColor=white&style=for-the-badge)
 ![Express.js](https://img.shields.io/badge/Express.js-black?logo=express&logoColor=white&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?logo=mongodb&logoColor=white&style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql&logoColor=white&style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=for-the-badge)
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-orange?logo=git&logoColor=white&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white&style=for-the-badge)
 ![VS Code](https://img.shields.io/badge/VS_Code-blue?logo=visualstudiocode&logoColor=white&style=for-the-badge)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-badge)
 
 </div>
 
 ---
 
 ## 📌 What I’m Working On
-- 🔨 Building clean full-stack projects  
+- 🤖 Building AI & Machine Learning projects  
 - 📘 Solving DSA problems daily  
 - 🧠 Strengthening fundamentals (OS, DBMS, CN, OOPs)  
+- ⚙️ Exploring backend systems and APIs  
 - 🔗 Repositories: https://github.com/Gana-Y?tab=repositories  
 
 ---
@@ -91,8 +89,6 @@
 
 <!-- 🔹 SECOND GIF / TRANSITION BEFORE SNAKE -->
 
-
-
 ---
 
 ## 🐍 GitHub Contribution Snake
@@ -113,3 +109,4 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Gana-Y&label=Profile%20views&color=0e75b6&style=for-the-badge" />
 </div>
+```
