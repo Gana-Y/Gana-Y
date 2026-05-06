@@ -78,9 +78,7 @@
 
 ## 🧩 LeetCode Progress
 
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/Ganesh_Op?theme=dark&border=0" />
-</div>
+<div align="center"> <img src="https://leetcard.jacoblin.cool/Ganesh_Op?theme=dark&font=Prompt&ext=heatmap" width="600" /> </div>
 
 ---
 
