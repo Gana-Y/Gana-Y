@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=36&pause=1000&color=1461FF&vCenter=true&width=750&lines=Hi+there%2C+I'm+Ganesh+Y+%F0%9F%91%8B;MCA+Student+%7C+Full+Stack+Learner;DSA+%7C+Web+Development)](https://github.com/Gana-Y)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=34&pause=1000&color=1461FF&vCenter=true&width=900&lines=Hi+there%2C+I'm+Ganesh+Y+%F0%9F%91%8B;AI+%7C+Full+Stack+Development;Machine+Learning+%7C+DSA+%7C+Backend)](https://github.com/Gana-Y)
 
 ---
 
