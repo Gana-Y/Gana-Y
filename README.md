@@ -1,6 +1,4 @@
-My bad bro. Here is the absolute full code from line 1 to the end, exactly as you had it, with only the simplified header and the fixed stats applied. Copy and paste this directly.
 
-```markdown
 <!-- ============================================================ -->
 <!--            GANESH Y — AI/ML ENGINEER           -->
 <!-- ============================================================ -->
