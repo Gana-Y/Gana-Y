@@ -3,10 +3,13 @@
 <!-- ============================================================ -->
 
 <!-- NEURAL NETWORK PARTICLE HEADER BANNER -->
+<!-- NEURAL NETWORK HEADER BANNER -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0a0a2e,60:0d1b4b,100:1461FF&height=300&section=header&text=GANESH%20Y&fontSize=90&fontColor=ffffff&fontAlignY=40&desc=⚡%20AI%20Engineer%20%7C%20Deep%20Learning%20%7C%20ML%20Architect&descAlignY=62&descSize=22&animation=fadeIn&stroke=1461FF&strokeWidth=2" width="100%"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0a0a2e,60:0d1b4b,100:1461FF&height=320&section=header&text=Ganesh%20Y&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=⚡%20Aspiring%20AI%20Engineer%20%7C%20Machine%20Learning%20%7C%20Deep%20Learning%20%7C%20LLMs&descAlignY=60&descSize=22&animation=fadeIn"
+    width="100%"
+  />
 </div>
-
 <!-- SOCIAL BADGES ROW -->
 <div align="center">
   <a href="https://www.linkedin.com/in/ganesh-yandigeri-988821287">
