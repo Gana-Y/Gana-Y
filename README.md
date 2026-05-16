@@ -1,48 +1,15 @@
-<!-- ================================================================ -->
-<!--         GANESH Y — TOP AI/ML ENGINEER GITHUB PROFILE           -->
-<!-- ================================================================ -->
-
-<!-- ██████████████ HEADER — ELECTRIC VENOM STYLE ██████████████ -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,40:0a0a2e,70:0d1b4b,100:1461FF&height=280&section=header&text=GANESH%20Y&fontSize=85&fontColor=ffffff&fontAlignY=45&desc=AI%20Engineer%20%E2%80%A2%20Deep%20Learning%20%E2%80%A2%20LLMs%20%E2%80%A2%20Problem%20Solver&descSize=20&descAlignY=65&animation=fadeIn&stroke=1461FF&strokeWidth=3" width="100%"/>
-</div>
-
-<!-- ██████████████ BADGES ██████████████ -->
-<div align="center">
-  <a href="https://www.linkedin.com/in/ganesh-yandigeri-988821287">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>&nbsp;
-  <a href="https://github.com/Gana-Y">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>&nbsp;
-  <a href="https://leetcode.com/u/Ganesh_Op/">
-    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Gana-Y&label=Profile+Views&color=1461FF&style=for-the-badge"/>
-</div>
-
-<br/>
-
-<!-- ██████████████ TERMINAL INTRO ██████████████ -->
 <div align="center">
 
-```bash
-┌─────────────────────────────────────────────────────────────────────┐
-│                                                                     │
-│   $ whoami                                                          │
-│   ▶  Ganesh Y — Aspiring AI Engineer 🤖                             │
-│                                                                     │
-│   $ cat mission.txt                                                 │
-│   ▶  Build and scale real-world AI systems that actually matter 🚀  │
-│                                                                     │
-│   $ ls skills/                                                      │
-│   ▶  machine_learning/  deep_learning/  llms/  dsa/  backend/       │
-│                                                                     │
-│   $ ./status.sh                                                     │
-│   ▶  Grinding 24/7. No days off. 💀                                 │
-│                                                                     │
-└─────────────────────────────────────────────────────────────────────┘
-```
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1461FF,100:00c6ff&height=220&section=header&text=Ganesh%20Y&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20ML%20Architect%20%7C%20Problem%20Solver&descAlignY=58&descSize=20&animation=fadeIn)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=1461FF&center=true&vCenter=true&width=900&lines=Hey+%F0%9F%91%8B+I'm+Ganesh+Y;Aspiring+AI+Engineer+%F0%9F%A4%96;Machine+Learning+%7C+DSA+%7C+Backend;Python+%7C+Deep+Learning+%7C+AI;Building+the+Future%2C+One+Model+at+a+Time+%F0%9F%9A%80)](https://github.com/Gana-Y)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Gana-Y&label=Profile+Views&color=1461FF&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Gana-Y?label=Followers&style=for-the-badge&color=1461FF&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%2F%20ML-1461FF?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-India%20🇮🇳-1461FF?style=for-the-badge" />
+</p>
 
 </div>
 
@@ -52,24 +19,19 @@
 
 ```python
 class GaneshY:
-    """
-    Aspiring AI Engineer | ML Architect | Problem Solver
-    Location : India 🇮🇳 | Status: Building 🔨
-    """
     def __init__(self):
-        self.name      = "Ganesh Y"
-        self.role      = "Aspiring AI Engineer"
-        self.focus     = ["AI/ML Model Development", "Deep Learning", "Backend Systems"]
-        self.grinding  = ["DSA daily 💪", "OS · DBMS · CN · OOPs fundamentals"]
-        self.stack     = ["Python", "PyTorch", "HuggingFace", "LangChain", "FastAPI"]
-        self.learning  = ["LLM Fine-tuning", "RAG Pipelines", "MLOps"]
-        self.goal      = "Build and scale real-world AI systems 🚀"
+        self.name        = "Ganesh Y"
+        self.role        = "Aspiring AI Engineer"
+        self.focus       = ["AI/ML Model Development", "Deep Learning", "Backend Systems"]
+        self.grinding    = ["DSA daily", "OS · DBMS · CN · OOPs fundamentals"]
+        self.languages   = ["Python", "C++", "SQL"]
+        self.goal        = "Build and scale real-world AI systems 🚀"
 
     def say_hi(self):
-        print("Thanks for stopping by! Let's build the future together. 🤝")
+        print("Thanks for stopping by! Let's build the future together.")
 
 me = GaneshY()
-me.say_hi()  # → Thanks for stopping by! Let's build the future together. 🤝
+me.say_hi()
 ```
 
 ---
@@ -78,7 +40,7 @@ me.say_hi()  # → Thanks for stopping by! Let's build the future together. 🤝
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Gana-Y&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Gana-Y&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -89,137 +51,55 @@ me.say_hi()  # → Thanks for stopping by! Let's build the future together. 🤝
 <div align="center">
 
 ### 🗣️ Languages
-<img src="https://skillicons.dev/icons?i=python,cpp,mysql&theme=dark"/>
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white&style=for-the-badge)
 
-### 🤖 AI / ML
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark"/>
-
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white)
+### 🤖 AI / ML Frameworks
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)
+![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white&style=for-the-badge)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=black&style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white&style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge)
 
 ### 🛠️ Backend & Databases
-<img src="https://skillicons.dev/icons?i=fastapi,flask,mongodb,mysql,postgresql&theme=dark"/>
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=for-the-badge)
 
 ### 🔧 Tools & DevOps
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker&theme=dark"/>
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 
 </div>
 
 ---
 
-## 📊 Skill Levels
+## 📊 Skill Proficiency
 
 <div align="center">
 
-| Domain | Stack | Level |
-|:---|:---|:---|
-| 🐍 Python | Core Language | `████████████████████` 95% |
-| 🤖 Machine Learning | PyTorch · sklearn | `███████████████████░` 90% |
-| 🧠 Deep Learning | CNNs · RNNs · Transformers | `██████████████████░░` 85% |
-| ⚡ DSA | LeetCode Grind | `████████████████████` 95% |
-| 🔗 LLMs & RAG | HuggingFace · LangChain | `████████████████░░░░` 78% |
-| 🛠️ Backend | FastAPI · Flask | `███████████████░░░░░` 75% |
-| 🗃️ Databases | SQL · MongoDB · PostgreSQL | `████████████████░░░░` 80% |
-
-> *Bars updated as I level up — going to 100% 💀*
+| Skill | Proficiency |
+|:--|:--|
+| 🐍 Python | `████████████████████` 95% |
+| 🤖 Machine Learning | `███████████████████░` 90% |
+| 🧠 Deep Learning | `██████████████████░░` 85% |
+| ⚡ DSA & Problem Solving | `████████████████████` 95% |
+| 🔗 LLMs / LangChain | `████████████████░░░░` 78% |
+| 🛠️ Backend (FastAPI/Flask) | `███████████████░░░░░` 75% |
+| 🗃️ Databases | `████████████████░░░░` 80% |
 
 </div>
 
 ---
 
-## 🔭 Current Mission
+## 🔨 Currently Working On
 
 <div align="center">
-
-| Status | Task |
-|:---:|:---|
-| 🔥 **ACTIVE** | Building AI/ML projects end-to-end |
-| 🔥 **ACTIVE** | Solving DSA problems daily on LeetCode |
-| 🧠 **LEARNING** | LLM Fine-tuning & RAG Pipelines |
-| 🧠 **LEARNING** | HuggingFace Transformers deep dive |
-| 📖 **GRINDING** | CS Fundamentals — OS · DBMS · CN · OOPs |
-| 🚀 **GOAL** | Land AI Engineer role & ship real products |
-
-</div>
-
----
-
-## 📈 GitHub Stats
-
-<!--
-  ⚠️  IMPORTANT — github-readme-stats.vercel.app public instance is permanently down.
-  ✅  REPLACE "YOUR-VERCEL-URL" below with YOUR own deployed instance URL.
-  📖  How to self-host (free, 5 mins):
-        1. Fork → github.com/anuraghazra/github-readme-stats
-        2. Deploy on vercel.com (import your fork)
-        3. Add PAT_1 = your GitHub token in Vercel Environment Variables
-        4. Your URL = https://your-project-name.vercel.app
--->
-
-<div align="center">
-
-  <img height="180em" src="https://YOUR-VERCEL-URL/api?username=Gana-Y&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=1461FF&icon_color=1461FF&text_color=c9d1d9&count_private=true&include_all_commits=true"/>
-
-  <img height="180em" src="https://streak-stats.demolab.com?user=Gana-Y&theme=tokyonight&hide_border=true&background=0d1117&ring=1461FF&fire=ff6b35&currStreakLabel=1461FF&sideLabels=c9d1d9&dates=c9d1d9"/>
-
-</div>
-
-<div align="center">
-  <img height="180em" src="https://YOUR-VERCEL-URL/api/top-langs/?username=Gana-Y&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=1461FF&text_color=c9d1d9&langs_count=8"/>
-</div>
-
----
-
-## 🔥 Contribution Graph
-
-<div align="center">
-
-[![Ganesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gana-Y&bg_color=0d1117&color=1461FF&line=1461FF&point=ffffff&area_color=1461FF&area=true&hide_border=true&custom_title=Ganesh's%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🧩 LeetCode
-
-<div align="center">
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Ganesh_Op?theme=dark&font=Fira+Code&ext=heatmap&border=0&radius=10&width=600)](https://leetcode.com/u/Ganesh_Op/)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gana-Y/Gana-Y/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gana-Y/Gana-Y/output/github-snake.svg"/>
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Gana-Y/Gana-Y/output/github-snake.svg"/>
-</picture>
-
-</div>
-
----
-
-## 💡 Dev Quote
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-<!-- ██████████████ FOOTER ██████████████ -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1461FF,50:0d1b4b,100:0d0d0d&height=130&section=footer&animation=fadeIn" width="100%"/>
-
-**`> print("The grind never stops. 🚀")`**
-
-</div>
