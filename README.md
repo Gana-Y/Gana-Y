@@ -2,9 +2,7 @@
 <!--         GANESH Y — TOP AI/ML ENGINEER GITHUB PROFILE           -->
 <!-- ================================================================ -->
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd4eTZtaGR6azlxNXI3ZzB6dGk2aW50ZGp0aWZ6eHZyNnpxdHpkMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
-</div>
+
 
 <h1 align="center">
   Hey there, I'm Ganesh
