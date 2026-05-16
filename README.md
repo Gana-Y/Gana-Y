@@ -41,16 +41,16 @@
 ┌─────────────────────────────────────────────────────────────────────┐
 │                                                                     │
 │   $ whoami                                                          │
-│   ▶  Ganesh Y — Aspiring AI Engineer 🤖                             │
+│   ▶  Ganesh Y — Aspiring AI Engineer 🤖                            │
 │                                                                     │
 │   $ cat mission.txt                                                 │
-│   ▶  Build and scale real-world AI systems that actually matter 🚀  │
+│   ▶  Build and scale real-world AI systems that actually matter 🚀 │
 │                                                                     │
 │   $ ls skills/                                                      │
-│   ▶  machine_learning/  deep_learning/  llms/  dsa/  backend/       │
+│   ▶  machine_learning/  deep_learning/  llms/  dsa/  backend        │
 │                                                                     │
 │   $ ./status.sh                                                     │
-│   ▶  Grinding 24/7. No days off. 💀                                 │
+│   ▶  Grinding 24/7. No days off. 💀                                │
 │                                                                     │
 └─────────────────────────────────────────────────────────────────────┘
 ```
