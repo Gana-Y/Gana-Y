@@ -1,217 +1,204 @@
+<!-- ============================================================ -->
+<!--           GANESH Y — AI/ML ENGINEER          -->
+<!-- ============================================================ -->
+
+<!-- NEURAL NETWORK PARTICLE HEADER BANNER -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0a0a2e,60:0d1b4b,100:1461FF&height=300&section=header&text=GANESH%20Y&fontSize=90&fontColor=ffffff&fontAlignY=40&desc=⚡%20AI%20Engineer%20%7C%20Deep%20Learning%20%7C%20ML%20Architect&descAlignY=62&descSize=22&animation=fadeIn&stroke=1461FF&strokeWidth=2" width="100%"/>
+</div>
+
+<!-- SOCIAL BADGES ROW -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/ganesh-yandigeri-988821287">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Gana-Y">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/Ganesh_Op/">
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Gana-Y&label=Profile+Views&color=1461FF&style=for-the-badge"/>
+</div>
+
+<br/>
+
+<!-- MATRIX / TERMINAL STYLE INTRO -->
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   CAPSULE RENDER — TOP WAVE                    -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1461FF,100:00c6ff&height=220&section=header&text=Ganesh%20Y&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20ML%20Architect%20%7C%20Problem%20Solver&descAlignY=58&descSize=20&animation=fadeIn)
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     ANIMATED TYPING HERO                       -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=1461FF&center=true&vCenter=true&width=900&lines=Hey+%F0%9F%91%8B+I'm+Ganesh+Y;Aspiring+AI+Engineer+%F0%9F%A4%96;Machine+Learning+%7C+DSA+%7C+Backend;Python+%7C+Deep+Learning+%7C+AI;Building+the+Future%2C+One+Model+at+a+Time+%F0%9F%9A%80)](https://github.com/Gana-Y)
-
-<!-- PROFILE VIEWS + FOLLOWERS BADGES -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Gana-Y&label=Profile+Views&color=1461FF&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/Gana-Y?label=Followers&style=for-the-badge&color=1461FF&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Focus-AI%20%2F%20ML-1461FF?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Location-India%20🇮🇳-1461FF?style=for-the-badge" />
-</p>
+```
+╔═══════════════════════════════════════════════════════════════════════╗
+║                                                                       ║
+║    > whoami                                                           ║
+║    Ganesh Y — Aspiring AI Engineer                                    ║
+║                                                                       ║
+║    > cat mission.txt                                                  ║
+║    Build and scale real-world AI systems that actually matter 🚀      ║
+║                                                                       ║
+║    > ls skills/                                                       ║
+║    machine_learning/  deep_learning/  dsa/  backend/  llms/           ║
+║                                                                       ║
+║    > uptime                                                           ║
+║    Grinding 24/7. No days off. 💀                                     ║
+║                                                                       ║
+╚═══════════════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       ABOUT ME — MATRIX                        -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🧬 About Me
+## 🧬 `init(GaneshY)`
 
 ```python
 class GaneshY:
+    """
+    Aspiring AI Engineer | ML Architect | Problem Solver
+    Location: India 🇮🇳 | Status: Building 🔨
+    """
     def __init__(self):
         self.name        = "Ganesh Y"
         self.role        = "Aspiring AI Engineer"
         self.focus       = ["AI/ML Model Development", "Deep Learning", "Backend Systems"]
-        self.grinding    = ["DSA daily", "OS · DBMS · CN · OOPs fundamentals"]
-        self.languages   = ["Python", "C++", "SQL"]
+        self.grinding    = ["DSA daily 💪", "OS · DBMS · CN · OOPs fundamentals"]
+        self.stack       = ["Python", "PyTorch", "HuggingFace", "LangChain", "FastAPI"]
+        self.learning    = ["LLM Fine-tuning", "RAG Pipelines", "MLOps"]
         self.goal        = "Build and scale real-world AI systems 🚀"
+        self.links       = {
+            "github"  : "https://github.com/Gana-Y",
+            "linkedin": "https://linkedin.com/in/ganesh-yandigeri-988821287",
+            "leetcode": "https://leetcode.com/u/Ganesh_Op/"
+        }
 
     def say_hi(self):
-        print("Thanks for stopping by! Let's build the future together.")
+        print("Thanks for stopping by! Let's build the future together. 🤝")
 
 me = GaneshY()
-me.say_hi()
+me.say_hi()  # → Thanks for stopping by! Let's build the future together. 🤝
 ```
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       GITHUB TROPHIES                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Gana-Y&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Gana-Y&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=7&rank=SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         TECH STACK                             -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## ⚔️ Tech Arsenal
 
 <div align="center">
 
 ### 🗣️ Languages
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white&style=for-the-badge)
+<img src="https://skillicons.dev/icons?i=python,cpp,mysql&theme=dark" />
 
-### 🤖 AI / ML Frameworks
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)
-![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white&style=for-the-badge)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=black&style=for-the-badge)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white&style=for-the-badge)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge)
+### 🤖 AI / ML
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" />
+
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-FFD21E?style=for-the-badge&logoColor=black)
+![LangChain](https://img.shields.io/badge/🦜%20LangChain-1C3C3C?style=for-the-badge&logoColor=white)
 
 ### 🛠️ Backend & Databases
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge)
-![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=for-the-badge)
+<img src="https://skillicons.dev/icons?i=fastapi,flask,mongodb,mysql,postgresql&theme=dark" />
 
-### 🔧 Tools & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+### 🔧 DevOps & Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker&theme=dark" />
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   SKILLS PROFICIENCY BARS                      -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 📊 Skill Proficiency
+## 📊 Skill Levels
 
 <div align="center">
 
-| Skill | Proficiency |
-|:--|:--|
-| 🐍 Python | `████████████████████` 95% |
-| 🤖 Machine Learning | `███████████████████░` 90% |
-| 🧠 Deep Learning | `██████████████████░░` 85% |
-| ⚡ DSA & Problem Solving | `████████████████████` 95% |
-| 🔗 LLMs / LangChain | `████████████████░░░░` 78% |
-| 🛠️ Backend (FastAPI/Flask) | `███████████████░░░░░` 75% |
-| 🗃️ Databases | `████████████████░░░░` 80% |
+| Domain | Stack | Level |
+|:---|:---|:---|
+| 🐍 Python | Core Language | `████████████████████` 95% |
+| 🤖 Machine Learning | PyTorch · sklearn | `███████████████████░` 90% |
+| 🧠 Deep Learning | CNNs · RNNs · Transformers | `██████████████████░░` 85% |
+| ⚡ DSA | LeetCode Grind | `████████████████████` 95% |
+| 🔗 LLMs & RAG | HuggingFace · LangChain | `████████████████░░░░` 78% |
+| 🛠️ Backend | FastAPI · Flask | `███████████████░░░░░` 75% |
+| 🗃️ Databases | SQL · MongoDB · PostgreSQL | `████████████████░░░░` 80% |
+
+> ⬆️ *Updated as I level up — these bars are going to 100% eventually 💀*
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      CURRENTLY WORKING ON                      -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🔨 Currently Working On
+## 🔭 Current Mission
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════╗
-║  🔬  Building AI/ML projects end-to-end                 ║
-║  📘  Solving DSA problems daily on LeetCode              ║
-║  🧠  Strengthening CS fundamentals (OS, DBMS, CN, OOPs) ║
-║  🤗  Experimenting with HuggingFace Transformers         ║
-║  ⚡  Exploring LLM fine-tuning & RAG pipelines           ║
-╚══════════════════════════════════════════════════════════╝
-```
+| Status | Task |
+|:---:|:---|
+| 🔥 **ACTIVE** | Building AI/ML projects end-to-end |
+| 🔥 **ACTIVE** | Solving DSA problems daily on LeetCode |
+| 🧠 **LEARNING** | LLM Fine-tuning & RAG Pipelines |
+| 🧠 **LEARNING** | HuggingFace Transformers deep dive |
+| 📖 **GRINDING** | CS Fundamentals — OS · DBMS · CN · OOPs |
+| 🚀 **GOAL** | Land AI Engineer role & ship real products |
 
 </div>
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       GITHUB STATS                             -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Gana-Y&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=1461FF&icon_color=1461FF&text_color=ffffff&ring_color=1461FF" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Gana-Y&hide_border=true&theme=tokyonight&background=0d1117&ring=1461FF&fire=1461FF&currStreakLabel=1461FF" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gana-Y&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=1461FF&icon_color=1461FF&text_color=c9d1d9&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://streak-stats.demolab.com/?user=Gana-Y&hide_border=true&theme=tokyonight&background=0d1117&ring=1461FF&fire=ff6b35&currStreakLabel=1461FF&sideLabels=c9d1d9&dates=c9d1d9"/>
 </div>
 
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gana-Y&layout=donut&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=1461FF&text_color=ffffff" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gana-Y&layout=donut-vertical&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=1461FF&text_color=c9d1d9&langs_count=8"/>
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   ACTIVITY GRAPH (DARK)                        -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🔥 Contribution Activity
+## 🔥 Contribution Graph
 
 <div align="center">
 
-[![Ganesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gana-Y&bg_color=0d1117&color=1461FF&line=1461FF&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ganesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gana-Y&bg_color=0d1117&color=1461FF&line=1461FF&point=ffffff&area_color=1461FF&area=true&hide_border=true&custom_title=Ganesh%27s%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    3D CONTRIBUTION CALENDAR                    -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🌐 3D Contribution Calendar
+## 🧩 LeetCode
 
 <div align="center">
 
-> ⚙️ *To enable this, add the [github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) GitHub Action to your profile repo.*
-
-![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Ganesh_Op?theme=dark&font=Fira+Code&ext=heatmap&border=0&radius=10&width=600)](https://leetcode.com/u/Ganesh_Op/)
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       LEETCODE STATS                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🧩 LeetCode Progress
+## 🐍 Contribution Snake
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Ganesh_Op?theme=dark&font=Fira+Code&ext=heatmap&border=0&radius=10)](https://leetcode.com/u/Ganesh_Op/)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gana-Y/Gana-Y/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gana-Y/Gana-Y/output/github-snake.svg"/>
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Gana-Y/Gana-Y/output/github-snake.svg"/>
+</picture>
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   AI QUOTE OF THE DAY                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 💡 Random Dev Quote
+## 💡 Dev Quote
 
 <div align="center">
 
@@ -221,48 +208,11 @@ me.say_hi()
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      GITHUB SNAKE                              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🐍 GitHub Contribution Snake
-
+<!-- FOOTER WAVE -->
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gana-Y/Gana-Y/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gana-Y/Gana-Y/output/github-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Gana-Y/Gana-Y/output/github-snake.svg" />
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1461FF,50:0d1b4b,100:000000&height=130&section=footer&animation=fadeIn" width="100%"/>
 
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       CONNECT WITH ME                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ganesh_Yandigeri-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ganesh-yandigeri-988821287)
-[![GitHub](https://img.shields.io/badge/GitHub-Gana--Y-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gana-Y)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Ganesh__Op-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Ganesh_Op/)
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     FOOTER WAVE                                -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:1461FF,100:0d1117&height=120&section=footer&animation=fadeIn)
-
-**"The best way to predict the future is to build it." — Alan Kay**
+**`> print("The grind never stops. 🚀")`**
 
 </div>
