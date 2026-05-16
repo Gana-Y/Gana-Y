@@ -1,30 +1,50 @@
-
 <!-- ============================================================ -->
-<!--            GANESH Y — AI/ML ENGINEER           -->
+<!--           GANESH Y — AI/ML ENGINEER          -->
 <!-- ============================================================ -->
 
-<!-- CLEAN MINIMALIST HEADER -->
+<!-- NEURAL NETWORK PARTICLE HEADER BANNER -->
 <div align="center">
-  <h1>Ganesh Y</h1>
-  <h3>Aspiring AI Engineer | Deep Learning | ML Architect</h3>
-  <p>Building and scaling real-world AI systems that actually matter 🚀</p>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0a0a2e,60:0d1b4b,100:1461FF&height=300&section=header&text=GANESH%20Y&fontSize=90&fontColor=ffffff&fontAlignY=40&desc=⚡%20AI%20Engineer%20%7C%20Deep%20Learning%20%7C%20ML%20Architect&descAlignY=62&descSize=22&animation=fadeIn&stroke=1461FF&strokeWidth=2" width="100%"/>
 </div>
 
 <!-- SOCIAL BADGES ROW -->
 <div align="center">
   <a href="https://www.linkedin.com/in/ganesh-yandigeri-988821287">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/Gana-Y">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=flat-square&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/u/Ganesh_Op/">
-    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=flat-square&logo=leetcode&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Gana-Y&label=Profile+Views&color=1461FF&style=flat-square"/>
+  <img src="https://komarev.com/ghpvc/?username=Gana-Y&label=Profile+Views&color=1461FF&style=for-the-badge"/>
 </div>
 
 <br/>
+
+<!-- MATRIX / TERMINAL STYLE INTRO -->
+<div align="center">
+
+```
+╔═══════════════════════════════════════════════════════════════════════╗
+║                                                                       ║
+║    > whoami                                                           ║
+║    Ganesh Y — Aspiring AI Engineer                                    ║
+║                                                                       ║
+║    > cat mission.txt                                                  ║
+║    Build and scale real-world AI systems that actually matter 🚀      ║
+║                                                                       ║
+║    > ls skills/                                                       ║
+║    machine_learning/  deep_learning/  dsa/  backend/  llms/           ║
+║                                                                       ║
+║    > uptime                                                           ║
+║    Grinding 24/7. No days off. 💀                                     ║
+║                                                                       ║
+╚═══════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
 
 ---
 
@@ -45,9 +65,9 @@ class GaneshY:
         self.learning    = ["LLM Fine-tuning", "RAG Pipelines", "MLOps"]
         self.goal        = "Build and scale real-world AI systems 🚀"
         self.links       = {
-            "github"  : "[https://github.com/Gana-Y](https://github.com/Gana-Y)",
-            "linkedin": "[https://linkedin.com/in/ganesh-yandigeri-988821287](https://linkedin.com/in/ganesh-yandigeri-988821287)",
-            "leetcode": "[https://leetcode.com/u/Ganesh_Op/](https://leetcode.com/u/Ganesh_Op/)"
+            "github"  : "https://github.com/Gana-Y",
+            "linkedin": "https://linkedin.com/in/ganesh-yandigeri-988821287",
+            "leetcode": "https://leetcode.com/u/Ganesh_Op/"
         }
 
     def say_hi(self):
@@ -134,12 +154,12 @@ me.say_hi()  # → Thanks for stopping by! Let's build the future together. 🤝
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Gana-Y&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=1461FF&icon_color=1461FF&text_color=c9d1d9&count_private=true&include_all_commits=true"/>
-  <img height="165" src="https://streak-stats.demolab.com/?user=Gana-Y&hide_border=true&theme=tokyonight&background=0d1117&ring=1461FF&fire=ff6b35&currStreakLabel=1461FF&sideLabels=c9d1d9&dates=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gana-Y&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=1461FF&icon_color=1461FF&text_color=c9d1d9&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://streak-stats.demolab.com/?user=Gana-Y&hide_border=true&theme=tokyonight&background=0d1117&ring=1461FF&fire=ff6b35&currStreakLabel=1461FF&sideLabels=c9d1d9&dates=c9d1d9"/>
 </div>
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gana-Y&layout=donut-vertical&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=1461FF&text_color=c9d1d9&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gana-Y&layout=donut-vertical&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=1461FF&text_color=c9d1d9&langs_count=8"/>
 </div>
 
 ---
@@ -196,5 +216,3 @@ me.say_hi()  # → Thanks for stopping by! Let's build the future together. 🤝
 **`> print("The grind never stops. 🚀")`**
 
 </div>
-
-```
