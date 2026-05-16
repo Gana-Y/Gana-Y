@@ -4,7 +4,20 @@
 
 <!-- ██████████████ HEADER — ELECTRIC VENOM STYLE ██████████████ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,40:0a0a2e,70:0d1b4b,100:1461FF&height=280&section=header&text=GANESH%20Y&fontSize=85&fontColor=ffffff&fontAlignY=45&desc=AI%20Engineer%20%E2%80%A2%20Deep%20Learning%20%E2%80%A2%20LLMs%20%E2%80%A2%20Problem%20Solver&descSize=20&descAlignY=65&animation=fadeIn&stroke=1461FF&strokeWidth=3" width="100%"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd4eTZtaGR6azlxNXI3ZzB6dGk2aW50ZGp0aWZ6eHZyNnpxdHpkMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
+</div>
+
+<h1 align="center">
+  Hey there, I'm Ganesh 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
+</h1>
+
+<h3 align="center">
+  ⚡ Aspiring AI Engineer &nbsp;•&nbsp; Machine Learning &nbsp;•&nbsp; Deep Learning &nbsp;•&nbsp; LLMs
+</h3>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=1461FF&center=true&vCenter=true&width=600&lines=Building+real-world+AI+systems+%F0%9F%9A%80;Deep+Learning+%7C+LLMs+%7C+RAG+Pipelines;Grinding+DSA+daily+%F0%9F%92%AA;Python+%7C+PyTorch+%7C+HuggingFace+%7C+LangChain" alt="Typing SVG"/>
 </div>
 
 <!-- ██████████████ BADGES ██████████████ -->
