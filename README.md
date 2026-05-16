@@ -36,23 +36,15 @@
 
 <br/>
 
-                                                                 ```bash
-                                             ┌─────────────────────────────────────────────────────────────────────┐
-                                             │                                                                     │
-                                             │   $ whoami                                                          │
-                                             │   ▶  Ganesh Y — Aspiring AI Engineer 🤖                            │
-                                             │                                                                     │
-                                             │   $ cat mission.txt                                                 │
-                                             │   ▶  Build and scale real-world AI systems that actually matter 🚀 │
-                                             │                                                                     │
-                                             │   $ ls skills/                                                      │
-                                             │   ▶  machine_learning/  deep_learning/  llms/  dsa/  backend/       │
-                                             │                                                                     │
-                                             │   $ ./status.sh                                                     │
-                                             │   ▶  Grinding 24/7. No days off. 💀                                │
-                                             │                                                                     │
-                                             └─────────────────────────────────────────────────────────────────────┘
-                                              ```
+<div align="center">
+
+![](https://img.shields.io/badge/Focus-Artificial%20Intelligence-1461FF?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/Domain-Deep%20Learning-1461FF?style=flat-square)
+![](https://img.shields.io/badge/Specialty-LLMs%20%26%20RAG-1461FF?style=flat-square)
+![](https://img.shields.io/badge/Grind-DSA%20Daily-1461FF?style=flat-square)
+![](https://img.shields.io/badge/Status-Building%20%F0%9F%94%A8-1461FF?style=flat-square)
+
+</div>
 
 ---
 
@@ -86,7 +78,7 @@ me.say_hi()  # → Thanks for stopping by! Let's build the future together. 🤝
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Gana-Y&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Gana-Y&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
