@@ -163,3 +163,50 @@ me.say_hi()  # → Thanks for stopping by! Let's build the future together. 🤝
 ## 🔥 Contribution Graph
 
 <div align="center">
+
+[![Ganesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gana-Y&bg_color=0d1117&color=1461FF&line=1461FF&point=ffffff&area_color=1461FF&area=true&hide_border=true&custom_title=Ganesh's%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🧩 LeetCode
+
+<div align="center">
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Ganesh_Op?theme=dark&font=Fira+Code&ext=heatmap&border=0&radius=10&width=600)](https://leetcode.com/u/Ganesh_Op/)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gana-Y/Gana-Y/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gana-Y/Gana-Y/output/github-snake.svg"/>
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Gana-Y/Gana-Y/output/github-snake.svg"/>
+</picture>
+
+</div>
+
+---
+
+## 💡 Dev Quote
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1461FF,50:0d1b4b,100:0d0d0d&height=130&section=footer&animation=fadeIn" width="100%"/>
+
+**`> print("The grind never stops. 🚀")`**
+
+</div>
