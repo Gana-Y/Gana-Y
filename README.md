@@ -114,12 +114,12 @@ me.say_hi()  # → Thanks for stopping by! Let's build the future together. 🤝
 | Domain | Stack | Level |
 |:---|:---|:---|
 | 🐍 Python | Core Language | `████████████████████` 95% |
-| 🤖 Machine Learning | PyTorch · sklearn | `███░` 30% |
-| 🧠 Deep Learning | CNNs · RNNs · Transformers | `███░░` 30% |
-| ⚡ DSA | LeetCode Grind | `████` 40% |
-| 🔗 LLMs & RAG | HuggingFace · LangChain | `██░░░` 20% |
+| 🤖 Machine Learning | PyTorch · sklearn | `██████░░░░░░░░░░░░░░` 30% |
+| 🧠 Deep Learning | CNNs · RNNs · Transformers | `██████░░░░░░░░░░░░░░` 30% |
+| ⚡ DSA | LeetCode Grind | `████████░░░░░░░░░░░░` 40% |
+| 🔗 LLMs & RAG | HuggingFace · LangChain | `████░░░░░░░░░░░░░░░░` 20% |
 | 🛠️ Backend | FastAPI · Flask | `███████████████░░░░░` 75% |
-| 🗃️ Databases | SQL · MongoDB · PostgreSQL | `█████████████████░░` 80% |
+| 🗃️ Databases | SQL · MongoDB · PostgreSQL | `████████████████░░░░` 80% |
 
 > *Bars updated as I level up — going to 100% 💀*
 
