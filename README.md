@@ -29,6 +29,9 @@
   <a href="https://leetcode.com/u/Ganesh_Op/">
     <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>&nbsp;
+  <a href="https://ganesh-portfolio-zjcx.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-%231461FF.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>&nbsp;
   <img src="https://komarev.com/ghpvc/?username=Gana-Y&label=Profile+Views&color=1461FF&style=for-the-badge"/>
 </div>
 
@@ -148,14 +151,14 @@ me.say_hi()  # → Thanks for stopping by! Let's build the future together. 🤝
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Gana-Y&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=1461FF&icon_color=1461FF&text_color=c9d1d9&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gana-Y&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=1461FF&icon_color=1461FF&text_color=c9d1d9&count_private=true&include_all_commits=true"/>
 
   <img height="180em" src="https://streak-stats.demolab.com?user=Gana-Y&theme=tokyonight&hide_border=true&background=0d1117&ring=1461FF&fire=ff6b35&currStreakLabel=1461FF&sideLabels=c9d1d9&dates=c9d1d9"/>
 
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Gana-Y&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=1461FF&text_color=c9d1d9&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gana-Y&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=1461FF&text_color=c9d1d9&langs_count=8"/>
 </div>
 
 ---
