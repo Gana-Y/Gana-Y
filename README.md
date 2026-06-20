@@ -78,17 +78,7 @@ ganesh.say_hi()
 
 </div>
 
----
 
-## 📌 Projects
-
-> *(Add 2–4 of your best projects here — name, one-line description, tech used, and a link.)*
-
-- **Project Name** — short description of what it does and what you used. [Link](#)
-- **Project Name** — short description of what it does and what you used. [Link](#)
-- **Project Name** — short description of what it does and what you used. [Link](#)
-
----
 
 ## 🔭 Currently
 
