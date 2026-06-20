@@ -1,17 +1,20 @@
 <!-- ================================================================ -->
-<!--                     GANESH Y — GITHUB PROFILE                  -->
+<!--         GANESH Y — TOP AI/ML ENGINEER GITHUB PROFILE           -->
 <!-- ================================================================ -->
 
+
+
 <h1 align="center">
-  Hey, I'm Ganesh 👋
+  Hey there, I'm Ganesh
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
 </h1>
 
 <h3 align="center">
-  Learning AI/ML &nbsp;•&nbsp; Building Projects &nbsp;•&nbsp; Looking for an Internship/Role
+  ⚡ Aspiring AI Engineer &nbsp;•&nbsp; Machine Learning &nbsp;•&nbsp; Deep Learning &nbsp;•&nbsp; LLMs
 </h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=1461FF&center=true&vCenter=true&width=600&lines=Learning+ML+%2F+DL+%2F+LLMs;Practicing+DSA+every+day;Python+%7C+PyTorch+%7C+HuggingFace+%7C+LangChain;Open+to+internships+and+entry-level+roles" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=1461FF&center=true&vCenter=true&width=600&lines=Building+real-world+AI+systems+%F0%9F%9A%80;Deep+Learning+%7C+LLMs+%7C+RAG+Pipelines;Grinding+DSA+daily+%F0%9F%92%AA;Python+%7C+PyTorch+%7C+HuggingFace+%7C+LangChain" alt="Typing SVG"/>
 </div>
 
 <br/>
@@ -32,37 +35,64 @@
   <img src="https://komarev.com/ghpvc/?username=Gana-Y&label=Profile+Views&color=1461FF&style=for-the-badge"/>
 </div>
 
+<br/>
+
+<div align="center">
+
+![](https://img.shields.io/badge/Focus-Artificial%20Intelligence-1461FF?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/Domain-Deep%20Learning-1461FF?style=flat-square)
+![](https://img.shields.io/badge/Specialty-LLMs%20%26%20RAG-1461FF?style=flat-square)
+![](https://img.shields.io/badge/Grind-DSA%20Daily-1461FF?style=flat-square)
+![](https://img.shields.io/badge/Status-Building%20%F0%9F%94%A8-1461FF?style=flat-square)
+
+</div>
+
 ---
 
 ## 🧬 About Me
 
 ```python
-class Ganesh:
+class GaneshY:
+    """
+    Aspiring AI Engineer | ML Architect | Problem Solver
+    Location : India 🇮🇳 | Status: Building 🔨
+    """
     def __init__(self):
-        self.role     = "Student / Aspiring AI Engineer"
-        self.location = "India"
-        self.learning = ["Machine Learning", "Deep Learning", "LLMs", "RAG Pipelines"]
-        self.stack    = ["Python", "PyTorch", "HuggingFace", "LangChain", "FastAPI"]
-        self.daily    = "Solving DSA problems + building small AI projects"
-        self.goal     = "Get my first internship/job in AI or software development"
+        self.name      = "Ganesh Y"
+        self.role      = "Aspiring AI Engineer"
+        self.focus     = ["AI/ML Model Development", "Deep Learning", "Backend Systems"]
+        self.grinding  = ["DSA daily 💪", "OS · DBMS · CN · OOPs fundamentals"]
+        self.stack     = ["Python", "PyTorch", "HuggingFace", "LangChain", "FastAPI"]
+        self.learning  = ["LLM Fine-tuning", "RAG Pipelines", "MLOps"]
+        self.goal      = "Build and scale real-world AI systems 🚀"
 
     def say_hi(self):
-        print("Thanks for checking out my profile. Always open to feedback or opportunities!")
+        print("Thanks for stopping by! Let's build the future together. 🤝")
 
-ganesh = Ganesh()
-ganesh.say_hi()
+me = GaneshY()
+me.say_hi()  # → Thanks for stopping by! Let's build the future together. 🤝
 ```
 
 ---
 
-## 🛠️ What I'm Working With
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-### Languages
+[![trophy](https://github-profile-trophy.vercel.app/?username=Gana-Y&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## ⚔️ Tech Arsenal
+
+<div align="center">
+
+### 🗣️ Languages
 <img src="https://skillicons.dev/icons?i=python,cpp,mysql&theme=dark"/>
 
-### AI / ML
+### 🤖 AI / ML
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark"/>
 
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
@@ -70,33 +100,50 @@ ganesh.say_hi()
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white)
 
-### Backend & Databases
+### 🛠️ Backend & Databases
 <img src="https://skillicons.dev/icons?i=fastapi,flask,mongodb,mysql,postgresql&theme=dark"/>
 
-### Tools
+### 🔧 Tools & DevOps
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker&theme=dark"/>
 
 </div>
 
 ---
 
-## 📌 Projects
+## 📊 Skill Levels
 
-> *(Add 2–4 of your best projects here — name, one-line description, tech used, and a link.)*
+<div align="center">
 
-- **Project Name** — short description of what it does and what you used. [Link](#)
-- **Project Name** — short description of what it does and what you used. [Link](#)
-- **Project Name** — short description of what it does and what you used. [Link](#)
+| Domain | Stack | Level |
+|:---|:---|:---|
+| 🐍 Python | Core Language | `████████████████████` 95% |
+| 🤖 Machine Learning | PyTorch · sklearn | `██████░░░░░░░░░░░░░░` 30% |
+| 🧠 Deep Learning | CNNs · RNNs · Transformers | `██████░░░░░░░░░░░░░░` 30% |
+| ⚡ DSA | LeetCode Grind | `████████░░░░░░░░░░░░` 40% |
+| 🔗 LLMs & RAG | HuggingFace · LangChain | `████░░░░░░░░░░░░░░░░` 20% |
+| 🛠️ Backend | FastAPI · Flask | `███████████████░░░░░` 75% |
+| 🗃️ Databases | SQL · MongoDB · PostgreSQL | `████████████████░░░░` 80% |
+
+> *Bars updated as I level up — going to 100% 💀*
+
+</div>
 
 ---
 
-## 🔭 Currently
+## 🔭 Current Mission
 
-- Practicing DSA daily on LeetCode
-- Learning LLM fine-tuning and RAG pipelines
-- Brushing up on OS, DBMS, CN, and OOP fundamentals
-- Building small AI/ML projects to apply what I learn
-- Actively looking for an internship or entry-level role in AI/software
+<div align="center">
+
+| Status | Task |
+|:---:|:---|
+| 🔥 **ACTIVE** | Building AI/ML projects end-to-end |
+| 🔥 **ACTIVE** | Solving DSA problems daily on LeetCode |
+| 🧠 **LEARNING** | LLM Fine-tuning & RAG Pipelines |
+| 🧠 **LEARNING** | HuggingFace Transformers deep dive |
+| 📖 **GRINDING** | CS Fundamentals — OS · DBMS · CN · OOPs |
+| 🚀 **GOAL** | Land AI Engineer role & ship real products |
+
+</div>
 
 ---
 
@@ -116,11 +163,11 @@ ganesh.say_hi()
 
 ---
 
-## 🔥 Contribution Activity
+## 🔥 Contribution Graph
 
 <div align="center">
 
-[![Ganesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gana-Y&bg_color=0d1117&color=1461FF&line=1461FF&point=ffffff&area_color=1461FF&area=true&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ganesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gana-Y&bg_color=0d1117&color=1461FF&line=1461FF&point=ffffff&area_color=1461FF&area=true&hide_border=true&custom_title=Ganesh's%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -136,9 +183,33 @@ ganesh.say_hi()
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1461FF,50:0d1b4b,100:0d0d0d&height=120&section=footer&animation=fadeIn" width="100%"/>
+## 🐍 Contribution Snake
 
-**`Always learning, always building.`**
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gana-Y/Gana-Y/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gana-Y/Gana-Y/output/github-snake.svg"/>
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Gana-Y/Gana-Y/output/github-snake.svg"/>
+</picture>
+
+</div>
+
+---
+
+## 💡 Dev Quote
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1461FF,50:0d1b4b,100:0d0d0d&height=130&section=footer&animation=fadeIn" width="100%"/>
+
+**`> print("The grind never stops. 🚀")`**
 
 </div>
