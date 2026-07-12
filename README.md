@@ -49,15 +49,11 @@
 
 ---
 
-## 🧬 About Me
-
-<div align="center">
-
 <div align="center">
 <table border="0" cellpadding="0" cellspacing="0">
 <tr>
 <td valign="top" width="45%">
-<pre style="font-family: 'Courier New', monospace; font-size: 5px; line-height: 3.5px; font-weight: 900; background: #0d1117; color: #ffffff; padding: 15px; border-radius: 6px; letter-spacing: 0.8px; display: inline-block; text-align: left;">
+<pre style="font-family: 'Courier New', monospace; font-size: 4px; line-height: 3px; font-weight: 900; background: #000000; color: #ffffff; padding: 10px; border-radius: 6px; letter-spacing: 0.5px; display: inline-block; text-align: left;">
                                                                                                                                                                                                         
                                                                                                                                                                                                         
                                                                                                                                                                                                         
@@ -185,13 +181,13 @@
 </pre>
 </td>
 
-<td valign="top" width="55%" style="padding-left: 30px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">
+<td valign="top" width="55%" style="padding-left: 25px; font-family: monospace; color: #c9d1d9; text-align: left;">
 
 ### ganeshyandigeri @ main
 ```text
 OS.................. Windows 11 / Linux
 Uptime.............. Learning 24/7
 Languages........... JavaScript, C++, HTML, CSS
-Focus............... Full-Stack Web Development & Low-Latency Systems
-Data Structures..... Following Striver's SDE Sheet
+Focus............... Full-Stack Web Development
+Data Structures..... Striver's SDE Sheet
 Tools............... VS Code, Notion, Git
