@@ -52,3 +52,29 @@
 ## 🧬 About Me
 
 <div align="center">
+
+ganesh@dev
+    ,MMM8&&&.            ---------------------------------
+_...MMMMMMMMMMM...        OS ..................... Ubuntu 24.04 LTS
+.::::::MMMMMMMMM::::.      Host .................... Aspiring AI Engineer
+::::::::MMMMMMMMM::::::     Kernel .................. Deep-Learning 6.9.0
+:::::::mMMMMMMMMMm:::::     Uptime .................. Grinding since 2023
+:::::::MMMMMMMMM:::::      Shell ................... python3 -m ai_engineer
+:::::::MMMMMMM:::::       IDE ..................... VS Code
+':::::MMMMM:::::'       -----------------------------------
+':::MMM:::'          Languages.Programming ... Python, C++, SQL
+jgs   'MMM'               Languages.Real .......... English, Kannada, Hindi
+Hobbies.Software ........ RAG Pipelines, Fine-tuning
+Hobbies.Grind ........... DSA daily on LeetCode
+-----------------------------------
+Contact
+Email.Personal .......... ganeshyandigeri1@gmail.com
+LinkedIn ................ ganesh-yandigeri-988821287
+GitHub .................. Gana-Y
+LeetCode ................ Ganesh_Op
+Portfolio ............... ganesh-portfolio-zjcx.vercel.app
+-----------------------------------
+GitHub Stats
+Repos ................... [update] | Stars: [update]
+Commits ................. [update] | Followers: [update]
+Lines of Code ........... [update]
