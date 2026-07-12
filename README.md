@@ -49,93 +49,167 @@
 
 ---
 
+## 🧬 About Me
+
+```python
+class GaneshY:
+    """
+    Aspiring AI Engineer | ML Architect | Problem Solver
+    Location : India 🇮🇳 | Status: Building 🔨
+    """
+    def __init__(self):
+        self.name      = "Ganesh Y"
+        self.role      = "Aspiring AI Engineer"
+        self.focus     = ["AI/ML Model Development", "Deep Learning", "Backend Systems"]
+        self.grinding  = ["DSA daily 💪", "OS · DBMS · CN · OOPs fundamentals"]
+        self.stack     = ["Python", "PyTorch", "HuggingFace", "LangChain", "FastAPI"]
+        self.learning  = ["LLM Fine-tuning", "RAG Pipelines", "MLOps"]
+        self.goal      = "Build and scale real-world AI systems 🚀"
+
+    def say_hi(self):
+        print("Thanks for stopping by! Let's build the future together. 🤝")
+
+me = GaneshY()
+me.say_hi()  # → Thanks for stopping by! Let's build the future together. 🤝
+```
+
+---
+
+## 🏆 GitHub Trophies
+
 <div align="center">
-<table border="0" cellpadding="0" cellspacing="0">
-<tr>
-<td valign="top" width="45%">
-<pre style="font-family: 'Courier New', monospace; font-size: 4px; line-height: 3px; font-weight: 900; background: #000000; color: #ffffff; padding: 10px; border-radius: 6px; letter-spacing: 0.5px; display: inline-block; text-align: left;">
-                                                                                                                                             
-                                                                                           
-                                                                                     
-                                                                                     
-                                                                                     
-                               .           .  .                                      
-                                             .           -.                          
-                                               .    -.     -.                        
-                                             .-        ..    . :                     
-                                                 :-            . .                   
-                           +                        -      .       .:                
-                            ~.                      .::         :                    
-                                                       .-     .:.                    
-                            . :      .                  :~                           
-                                                         : .                         
-                                 .:.                                                 
-                                                                                     
-                                         .::::.:.-::-  .                             
-                                      .::-+++****oo**~--:. : :                       
-                                     :-~++***ooooooo***+~::-  :                      
-                                    :-~++***ooooooo*o**+*-:::        .               
-                                   :-~~++*ooooooooooo****+~-::                       
-                                   :-~~+ooooaaaaoaaaoo****+~-.                       
-                                  .:-~+*ooooaaaaaaaaooo***+~~                        
-                                  .-~+++oooooaooooooooo***+~.                        
-                                  .-~+++*ooooaaooooooo***++~.                        
-                                  .-~~++*ooooaooooooo****++~:                        
-                                  :-~~+ooooaaaoooaaaoo****+~~:                       
-                                  :-~+*oaoaaaaaooo**+****+~~++-                      
-                                  :-~+*~*ooEaaEo**~-~~++-+~-~+~:                     
-                               - .. .::::~aoaaE+~*:---~~-.~--~~-.     M              
-                                 .  ..: .-*ooEa**++~oaao*+:::~~~.                    
-                                  :-~++~--~**Ea*****ooooo**--~-~:                    
-                                  -~*~-+~+~~+ao*++-~.::~:+*+~~---                    
-                                 :~- ~  .+~~+a*++~~# - +.-+*+---:                    
-                                 -~ aE  *#-~*o*++~~*- --:-+*+~--:    .               
-                                .~~.:~.*o*+~oo*++*+**o*+~-~++~--:   +*+-             
-                              ~-:~--~++o**~+oao***o**+++~++++~-::  oa+**             
-                             :~*-~~~+++**+~+ao****o*********++-:- ~*oaoo             
-                             ~o+~~~+++***+~+ao**oooooooooo**++--: ~+EE*a             
-                             +a+~++*ooooo*+oao*~*aaaoaaaao**++~:- :-aE*a             
-                             ~a*~+*oaaaao+*oEo*++*oaoaEEaa**+~-:: ~ooaoa             
-                              Eo~+oaEEEE*~*E#aooo+aoaEE#Eao**~--: +*oo**             
-                              *+-*oaEEEa+++oao*oo*EEoaEEEao*+~--: ~*oo*~             
-                               +~*ooaEa*+~++o+oo~+aEa*oEaoo*+~-:..*++ao              
-                               *-+*oao***~-++*+++*oao*+oaoo**~-::.~o*oo              
-                               +:++oo~~-.  .*:   :.:. -+ooo**~~-.:+*oo+              
-                               ~-++o* .    .+. -.:--.- -aoo*+~-..~*ooo               
-                                -+~**..   :+*o+.--:..-:.ao*+*~:..oooa*               
-                                -++*:..:.-~+*****+~+*~:.o*o**~:..aaao                
-                                +-*--:----+ooo#o******-:ooo*+-:. :~                  
-                                 :+:.~~~++*+*oEaaao*+*++****~::...                   
-                                 --..:-~~+~+~*~+o*ooo+.-~+*~-.. ::                   
-                                   + ::~~~~~.:~o+oo*~~-:-*-::. .-:                   
-                                    - :-~-~~-:+a*oo+~- .-:-.:  --.                   
-                                   .   :-++++-~*ooo~..  ..:.. :--.                   
-                                        .--+a*oa+~+~     .   .--:.:                  
-                                         :~+a+~*-~:.        .:~-:.:                  
-                                         .::-....:         .:~~-:::.                 
-                                           .-  .   .     ..-~~~----:                 
-                                                         -~~+~~-~~~~-~               
-                                      :                 -++++~-~~~+~+~               
-                                                       -*+++~~~~~+++++:~+~+          
-                                       .              ~~*+~++~+++~++~~-~+++~~        
-                                       :.           -+o+~*++~++++++~+~~.+*+++++      
-                                       ::::.:::---++o**o**+-++++++++++-~******++~~   
-                                       -:--:--~~~~++*aaoo*~+++++++++~~+**************
-                                      --:----~~~~~+*ooooo~++++++++~+~~+**************
-                                     --.:---~~~+++++*ooa*++*++++~~+++++**+~++~~+*o*+*
-                                   ~~~-.:-~~~+++++++*ooa~++++++~++++~+++++++++++~+*~~
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Gana-Y&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-</pre>
-</td>
+</div>
 
-<td valign="top" width="55%" style="padding-left: 25px; font-family: monospace; color: #c9d1d9; text-align: left;">
+---
 
-### ganeshyandigeri @ main
-```text
-OS.................. Windows 11 / Linux
-Uptime.............. Learning 24/7
-Languages........... JavaScript, C++, HTML, CSS
-Focus............... Full-Stack Web Development
-Data Structures..... Striver's SDE Sheet
-Tools............... VS Code, Notion, Git
+## ⚔️ Tech Arsenal
+
+<div align="center">
+
+### 🗣️ Languages
+<img src="https://skillicons.dev/icons?i=python,cpp,mysql&theme=dark"/>
+
+### 🤖 AI / ML
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark"/>
+
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white)
+
+### 🛠️ Backend & Databases
+<img src="https://skillicons.dev/icons?i=fastapi,flask,mongodb,mysql,postgresql&theme=dark"/>
+
+### 🔧 Tools & DevOps
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker&theme=dark"/>
+
+</div>
+
+---
+
+## 📊 Skill Levels
+
+<div align="center">
+
+| Domain | Stack | Level |
+|:---|:---|:---|
+| 🐍 Python | Core Language | `████████████████████` 95% |
+| 🤖 Machine Learning | PyTorch · sklearn | `██████░░░░░░░░░░░░░░` 30% |
+| 🧠 Deep Learning | CNNs · RNNs · Transformers | `██████░░░░░░░░░░░░░░` 30% |
+| ⚡ DSA | LeetCode Grind | `████████░░░░░░░░░░░░` 40% |
+| 🔗 LLMs & RAG | HuggingFace · LangChain | `████░░░░░░░░░░░░░░░░` 20% |
+| 🛠️ Backend | FastAPI · Flask | `███████████████░░░░░` 75% |
+| 🗃️ Databases | SQL · MongoDB · PostgreSQL | `████████████████░░░░` 80% |
+
+> *Bars updated as I level up — going to 100% 💀*
+
+</div>
+
+---
+
+## 🔭 Current Mission
+
+<div align="center">
+
+| Status | Task |
+|:---:|:---|
+| 🔥 **ACTIVE** | Building AI/ML projects end-to-end |
+| 🔥 **ACTIVE** | Solving DSA problems daily on LeetCode |
+| 🧠 **LEARNING** | LLM Fine-tuning & RAG Pipelines |
+| 🧠 **LEARNING** | HuggingFace Transformers deep dive |
+| 📖 **GRINDING** | CS Fundamentals — OS · DBMS · CN · OOPs |
+| 🚀 **GOAL** | Land AI Engineer role & ship real products |
+
+</div>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gana-Y&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=1461FF&icon_color=1461FF&text_color=c9d1d9&count_private=true&include_all_commits=true"/>
+
+  <img height="180em" src="https://streak-stats.demolab.com?user=Gana-Y&theme=tokyonight&hide_border=true&background=0d1117&ring=1461FF&fire=ff6b35&currStreakLabel=1461FF&sideLabels=c9d1d9&dates=c9d1d9"/>
+
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gana-Y&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=1461FF&text_color=c9d1d9&langs_count=8"/>
+</div>
+
+---
+
+## 🔥 Contribution Graph
+
+<div align="center">
+
+[![Ganesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gana-Y&bg_color=0d1117&color=1461FF&line=1461FF&point=ffffff&area_color=1461FF&area=true&hide_border=true&custom_title=Ganesh's%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🧩 LeetCode
+
+<div align="center">
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Ganesh_Op?theme=dark&font=Fira+Code&ext=heatmap&border=0&radius=10&width=600)](https://leetcode.com/u/Ganesh_Op/)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gana-Y/Gana-Y/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gana-Y/Gana-Y/output/github-snake.svg"/>
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Gana-Y/Gana-Y/output/github-snake.svg"/>
+</picture>
+
+</div>
+
+---
+
+## 💡 Dev Quote
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1461FF,50:0d1b4b,100:0d0d0d&height=130&section=footer&animation=fadeIn" width="100%"/>
+
+**`> print("The grind never stops. 🚀")`**
+
+</div>
