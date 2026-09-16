@@ -112,7 +112,7 @@ me.say_hi()  # → Thanks for stopping by! Let's build the future together. 🤝
 
 ## 📊 Skill Levels
 
-<div align="center">
+<div align="center"> 
 
 | Domain | Stack | Level |
 |:---|:---|:---|
