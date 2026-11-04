@@ -1,8 +1,6 @@
 <!-- ================================================================ -->
-<!--         Ganesh profile    -->
+<!--         Ganesh Yandigeri — Autonomous AI & Systems Engineer       -->
 <!-- ================================================================ -->
-
-
 
 <h1 align="center">
   Hey there, I'm Ganesh
@@ -10,11 +8,11 @@
 </h1>
 
 <h3 align="center">
-  ⚡ Aspiring AI Engineer &nbsp;•&nbsp; Machine Learning &nbsp;•&nbsp; Deep Learning &nbsp;•&nbsp; LLMs
+  ⚡ Autonomous Systems &nbsp;•&nbsp; Applied AI Engineer &nbsp;•&nbsp; High-Throughput Engines
 </h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=1461FF&center=true&vCenter=true&width=600&lines=Building+real-world+AI+systems+%F0%9F%9A%80;Deep+Learning+%7C+LLMs+%7C+RAG+Pipelines;Grinding+DSA+daily+%F0%9F%92%AA;Python+%7C+PyTorch+%7C+HuggingFace+%7C+LangChain" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=1461FF&center=true&vCenter=true&width=620&lines=Building+production-grade+AI+systems+%F0%9F%9A%80;Hybrid+RAG+%7C+Vector+Embeddings+%7C+Quantized+Inference;High-Throughput+Matching+Engines+%28136k+ops%2Fs%29;Grinding+DSA+Daily+%F0%9F%92%AA+%7C+LeetCode+Top+Tier" alt="Typing SVG"/>
 </div>
 
 <br/>
@@ -41,11 +39,33 @@
 
 ![](https://img.shields.io/badge/Focus-Artificial%20Intelligence-1461FF?style=flat-square&logoColor=white)
 ![](https://img.shields.io/badge/Domain-Deep%20Learning-1461FF?style=flat-square)
-![](https://img.shields.io/badge/Specialty-LLMs%20%26%20RAG-1461FF?style=flat-square)
-![](https://img.shields.io/badge/Grind-DSA%20Daily-1461FF?style=flat-square)
-![](https://img.shields.io/badge/Status-Building%20%F0%9F%94%A8-1461FF?style=flat-square)
+![](https://img.shields.io/badge/Specialty-LLMs%20%26%20Hybrid%20RAG-1461FF?style=flat-square)
+![](https://img.shields.io/badge/Architecture-High%20Throughput-1461FF?style=flat-square)
+![](https://img.shields.io/badge/Status-Shipping%20%F0%9F%94%A8-1461FF?style=flat-square)
 
 </div>
+
+---
+
+## 🖥️ Terminal Diagnostics & Binary Matrix
+
+```text
+                 01100011000110                 ganesh@neural-core
+             011000000000000000110             ------------------
+           010001111111111111100010            OS: Neural Arch Linux x86_64
+         0100110000000000000000110010          Host: Tensor Core HPC Cluster [H100 NVL]
+        010110001111111111111100011010         Kernel: Linux 6.12.0-ai-accelerated
+       0101000110000000000000110001010         Uptime: 99.99% (Non-stop engineering grind)
+       01100011001111111111110011000110        Shell: zsh 5.9 (CUDA 12.6 · PyTorch 2.5)
+       01100011001000000000010011000110        Editor: Cursor / Neovim (Vim keybindings)
+       01100001100101111110100110000110        Role: Autonomous Systems & AI Engineer
+       01010000110000000000001100001010        Domain: Deep Learning · Hybrid RAG · Low-Latency
+        010110000111100001111000011010         Flagship: Florix AI (Multimodal Academic RAG)
+         0100110000011111100000110010          Engine: OrderCore (136k orders/s · 4.3µs)
+           0100011100000000011100010           LeetCode: @Ganesh_Op | Top Percentile
+             0110000011111100000110            Contributions: 975+ Verified Commits (2026)
+                 01100011000110                 Status: Shipping production-grade AI systems
+```
 
 ---
 
@@ -54,23 +74,66 @@
 ```python
 class GaneshY:
     """
-    Aspiring AI Engineer | ML Architect | Problem Solver
-    Location : India 🇮🇳 | Status: Building 🔨
+    Aspiring AI Engineer | Systems Architect | Problem Solver
+    Location: India 🇮🇳 | Status: Building Production AI 🚀
     """
     def __init__(self):
         self.name      = "Ganesh Y"
-        self.role      = "Aspiring AI Engineer"
-        self.focus     = ["AI/ML Model Development", "Deep Learning", "Backend Systems"]
-        self.grinding  = ["DSA daily 💪", "OS · DBMS · CN · OOPs fundamentals"]
-        self.stack     = ["Python", "PyTorch", "HuggingFace", "LangChain", "FastAPI"]
-        self.learning  = ["LLM Fine-tuning", "RAG Pipelines", "MLOps"]
-        self.goal      = "Build and scale real-world AI systems 🚀"
+        self.role      = "Applied AI & Systems Engineer"
+        self.focus     = ["Multimodal RAG Pipelines", "High-Throughput Engines", "Distributed Systems"]
+        self.grinding  = ["DSA daily (LeetCode) 💪", "OS · DBMS · Computer Networks · System Design"]
+        self.stack     = ["Python", "PyTorch", "HuggingFace", "LangChain", "FastAPI", "PostgreSQL", "ChromaDB"]
+        self.research  = ["LLM Quantization", "HNSW Vector Retrieval", "Sub-microsecond Matching Engines"]
+        self.metrics   = {"cgpa": "9.35/10", "contributions": "975+", "production_tests": "555+ passing"}
 
-    def say_hi(self):
-        print("Thanks for stopping by! Let's build the future together. 🤝")
+    def ship_code(self):
+        return "Transforming complex research into production-grade, sub-millisecond systems. 🤝"
 
 me = GaneshY()
-me.say_hi()  # → Thanks for stopping by! Let's build the future together. 🤝
+print(me.ship_code())
+```
+
+---
+
+## 🚀 Flagship Systems & Architecture
+
+<div align="center">
+
+| Project | Core Architecture | Key Metric / Highlight | Repository |
+|:---|:---|:---:|:---:|
+| 🧠 **Florix AI** | Full-Stack Multimodal RAG · ChromaDB · Gemini Fallback Cascade | **555+ Passing Regression Tests** | [View Repo →](https://github.com/Gana-Y/Florix_AI) |
+| ⚡ **OrderCore** | Heap-Indexed Matching Engine · Lock-Free Concurrency | **136k orders/sec · 4.3µs latency** | [View Repo →](https://github.com/Gana-Y/OrderCore) |
+| 🛰️ **vesper-engine** | High-Performance Asynchronous Python Execution Runtime | **Low-latency I/O Multiplexing** | [View Repo →](https://github.com/Gana-Y/vesper-engine) |
+
+</div>
+
+```text
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│                               HYBRID RAG SYSTEM PIPELINE                               │
+└───────────────────────────────────────────┬────────────────────────────────────────────┘
+                                            │
+    ┌───────────────────┬───────────────────┼───────────────────┬───────────────────┐
+    ▼                   ▼                   ▼                   ▼                   ▼
+ [PDF Parser]    [Audio/Whisper]     [Video Stream]       [Web Scraper]      [Raw Text/Code]
+    │                   │                   │                   │                   │
+    └───────────────────┴───────────────────┼───────────────────┴───────────────────┘
+                                            ▼
+                       [Text Normalizer & Semantic Chunker]
+                                            │
+                                            ▼
+                     ┌──────────────────────┴──────────────────────┐
+                     ▼                                             ▼
+          [Dense Vector Index (ChromaDB)]                [BM25 Lexical Keyword Engine]
+                     │                                             │
+                     └──────────────────────┬──────────────────────┘
+                                            ▼
+                            [Reciprocal Rank Fusion (RRF)]
+                                            │
+                                            ▼
+                       [Cascaded LLM Engine + Strict Grounding]
+                                            │
+                                            ▼
+                          [Synthesized Answer + Fact Citations]
 ```
 
 ---
@@ -92,7 +155,7 @@ me.say_hi()  # → Thanks for stopping by! Let's build the future together. 🤝
 ### 🗣️ Languages
 <img src="https://skillicons.dev/icons?i=python,cpp,mysql&theme=dark"/>
 
-### 🤖 AI / ML
+### 🤖 AI / Machine Learning
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark"/>
 
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
@@ -110,70 +173,60 @@ me.say_hi()  # → Thanks for stopping by! Let's build the future together. 🤝
 
 ---
 
-## 📊 Skill Levels
+## 📊 Skill Benchmarks
 
 <div align="center">
 
-| Domain | Stack | Level |
+| Domain | Stack | Benchmark Level |
 |:---|:---|:---|
-| 🐍 Python | Core Language | `████████████████████` 100% |
-| 🤖 Machine Learning | PyTorch · sklearn | `███████░░░░░░░░░░░░░` 35% |
-| 🧠 Deep Learning | CNNs · RNNs · Transformers | `███████░░░░░░░░░░░░░` 35% |
-| ⚡ DSA | LeetCode Grind | `█████████░░░░░░░░░░░` 45% |
-| 🔗 LLMs & RAG | HuggingFace · LangChain | `█████░░░░░░░░░░░░░░░` 25% |
-| 🛠️ Backend | FastAPI · Flask | `████████████████░░░░` 80% |
-| 🗃️ Databases | SQL · MongoDB · PostgreSQL | `█████████████████░░░` 85% |
+| 🐍 Python | Core Language & Async Runtime | `████████████████████` 100% |
+| 🤖 Machine Learning | PyTorch · scikit-learn · Optimization | `███████░░░░░░░░░░░░░` 35% |
+| 🧠 Deep Learning | CNNs · RNNs · Attention & Transformers | `███████░░░░░░░░░░░░░` 35% |
+| ⚡ DSA | LeetCode Patterns · Advanced Algorithms | `█████████░░░░░░░░░░░` 45% |
+| 🔗 LLMs & RAG | HuggingFace · LangChain · Vector Retrieval | `█████░░░░░░░░░░░░░░░` 25% |
+| 🛠️ Backend | FastAPI · High-Concurrency Services | `████████████████░░░░` 80% |
+| 🗃️ Databases | SQL · PostgreSQL · ChromaDB · Redis | `█████████████████░░░` 85% |
 
-> *Bars updated as I level up — going to 100% 💀*
-
-</div>
-
----
-
-## 🔭 Current Mission
-
-<div align="center">
-
-| Status | Task |
-|:---:|:---|
-| 🔥 **ACTIVE** | Building AI/ML projects end-to-end |
-| 🔥 **ACTIVE** | Solving DSA problems daily on LeetCode |
-| 🧠 **LEARNING** | LLM Fine-tuning & RAG Pipelines |
-| 🧠 **LEARNING** | HuggingFace Transformers deep dive |
-| 📖 **GRINDING** | CS Fundamentals — OS · DBMS · CN · OOPs |
-| 🚀 **GOAL** | Land AI Engineer role & ship real products |
+> *Benchmarks dynamically updated as production milestones are unlocked 💀*
 
 </div>
 
 ---
 
-## 📈 GitHub Stats
+## 🔭 Active Research & Engineering Focus
 
 <div align="center">
 
-  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Gana-Y&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=1461FF&icon_color=1461FF&text_color=c9d1d9&count_private=true&include_all_commits=true&cache_seconds=86400"/>
+| Status | Focus Area | Objective |
+|:---:|:---|:---|
+| 🔥 **ACTIVE** | Production AI / Multimodal RAG | Scaling Florix AI with zero-hallucination grounded citation architecture |
+| 🔥 **ACTIVE** | DSA & Algorithmic Problem Solving | LeetCode grind across dynamic programming, trees, graphs, and greedy intervals |
+| 🧠 **RESEARCH** | LLM Quantization & Inference | Exploring AWQ, GGUF, and FlashAttention-2 speedups on consumer hardware |
+| 🧠 **RESEARCH** | Vector Retrieval Optimization | Deep dive into HNSW graph indexing, cosine distance, and reranking trade-offs |
+| 📖 **FOUNDATION** | CS Core Architecture | OS (Concurrency, Page Replacement) · DBMS (B+ Trees, ACID) · Computer Networks |
+| 🚀 **MISSION** | Top 0.000001% AI Engineer | Building resilient, scalable AI infrastructure ready for top tech startups |
+
+</div>
+
+---
+
+## 📈 Engineering Activity & Metrics
+
+<div align="center">
+
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Gana-Y&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=1461FF&icon_color=1461FF&text_color=c9d1d9&count_private=true&include_all_commits=true"/>
 
   <img height="180em" src="https://streak-stats.demolab.com?user=Gana-Y&theme=tokyonight&hide_border=true&background=0d1117&ring=1461FF&fire=ff6b35&currStreakLabel=1461FF&sideLabels=c9d1d9&dates=c9d1d9"/>
 
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Gana-Y&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=1461FF&text_color=c9d1d9&langs_count=8&cache_seconds=86400"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Gana-Y&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=1461FF&text_color=c9d1d9&langs_count=8"/>
 </div>
 
 ---
 
-## 🔥 Contribution Graph
-
-<div align="center">
-
-[![Ganesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gana-Y&bg_color=0d1117&color=1461FF&line=1461FF&point=ffffff&area_color=1461FF&area=true&hide_border=true&custom_title=Ganesh's%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🧩 LeetCode
+## 🧩 LeetCode Analytics
 
 <div align="center">
 
@@ -183,7 +236,7 @@ me.say_hi()  # → Thanks for stopping by! Let's build the future together. 🤝
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Dynamic Contribution Timeline
 
 <div align="center">
 
@@ -197,7 +250,7 @@ me.say_hi()  # → Thanks for stopping by! Let's build the future together. 🤝
 
 ---
 
-## 💡 Dev Quote
+## 💡 Engineering Axiom
 
 <div align="center">
 
@@ -210,6 +263,6 @@ me.say_hi()  # → Thanks for stopping by! Let's build the future together. 🤝
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1461FF,50:0d1b4b,100:0d0d0d&height=130&section=footer&animation=fadeIn" width="100%"/>
 
-**`> print("The grind never stops. 🚀")`**
+**`> print("Building the future with first-principles engineering. 🚀")`**
 
 </div>
