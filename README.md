@@ -19,32 +19,7 @@
 
 <br/>
 
-<!-- ================================================================ -->
-<!--                     GitASCII Style Bio Card                      -->
-<!-- ================================================================ -->
 
-<table>
-  <tr>
-    <td width="140" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/Gana-Y/Gana-Y/main/avatar.png" width="125" style="border-radius: 12px;"/>
-    </td>
-    <td valign="middle">
-      <h2 style="margin: 0; padding-bottom: 4px;">Ganesh Yandigeri <sub style="font-size: 13px; color: #1461FF;">@Gana-Y</sub></h2>
-      <p style="margin: 4px 0; font-size: 13px;"><code>[ BIOGRAPHY ]</code></p>
-      <p style="margin: 4px 0; font-size: 14px;">
-        ⚡ <b>Applied AI Engineer &nbsp;|&nbsp; Building LLMs & High-Throughput Systems &nbsp;|&nbsp; 📚 Lifelong Learner</b>
-      </p>
-      <p style="margin: 6px 0; font-size: 13px;">
-        📍 <b>Bangalore, India</b> &nbsp;&nbsp;•&nbsp;&nbsp;
-        🌐 <a href="https://ganesh-portfolio-zjcx.vercel.app"><b>ganesh-portfolio-zjcx.vercel.app</b></a> &nbsp;&nbsp;•&nbsp;&nbsp;
-        💼 <a href="https://www.linkedin.com/in/ganesh-yandigeri-988821287"><b>LinkedIn</b></a> &nbsp;&nbsp;•&nbsp;&nbsp;
-        ⚡ <a href="https://leetcode.com/u/Ganesh_Op/"><b>LeetCode</b></a>
-      </p>
-    </td>
-  </tr>
-</table>
-
-<br/>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ganesh-yandigeri-988821287">
