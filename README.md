@@ -10,30 +10,64 @@
 </h1>
 
 <h3 align="center">
-  🚀 Autonomous Systems &nbsp;•&nbsp; Applied AI Engineer &nbsp;•&nbsp; High-Throughput Engines
+  ⚡ Autonomous Systems &nbsp;•&nbsp; Applied AI Engineer &nbsp;•&nbsp; High-Throughput Engines
 </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=1461FF&center=true&vCenter=true&width=650&lines=Building+production-grade+AI+systems+%F0%9F%9A%80;Hybrid+RAG+%7C+Vector+Embeddings+%7C+Quantized+Inference;High-Throughput+Matching+Engines+%28136k+ops%2Fs%29;Grinding+DSA+Daily+%F0%9F%92%AA+%7C+LeetCode+Top+Tier" alt="Typing SVG"/>
 </p>
 
+<!-- ================================================================ -->
+<!--                         [ SOCIAL MEDIA ]                         -->
+<!-- ================================================================ -->
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/ganesh-yandigeri-988821287">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>&nbsp;
+  <code>[ SOCIAL MEDIA ]</code>
+</p>
+
+<p align="center">
   <a href="https://github.com/Gana-Y">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GITHUB-%23000000.svg?style=for-the-badge&logo=github&logoColor=white"/>
   </a>&nbsp;
-  <a href="https://leetcode.com/u/Ganesh_Op/">
-    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  <a href="https://www.linkedin.com/in/ganesh-yandigeri-988821287">
+    <img src="https://img.shields.io/badge/LINKEDIN-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>&nbsp;
   <a href="https://x.com/Ganesh821060">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/>
+    <img src="https://img.shields.io/badge/X_(TWITTER)-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/>
+  </a>&nbsp;
+  <a href="mailto:ganeshyandigeri1@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>&nbsp;
   <a href="https://ganesh-portfolio-zjcx.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-%231461FF.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PORTFOLIO-%230077B5.svg?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>&nbsp;
   <img src="https://komarev.com/ghpvc/?username=Gana-Y&label=Profile+Views&color=1461FF&style=for-the-badge"/>
+</p>
+
+<!-- ================================================================ -->
+<!--                          SKILL PILLS                             -->
+<!-- ================================================================ -->
+
+<p align="center">
+  <img src="https://img.shields.io/badge/python-161b22?style=for-the-badge&logo=python&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Git-161b22?style=for-the-badge&logo=git&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Docker-161b22?style=for-the-badge&logo=docker&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Linux-161b22?style=for-the-badge&logo=linux&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/React-161b22?style=for-the-badge&logo=react&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/TypeScript-161b22?style=for-the-badge&logo=typescript&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-161b22?style=for-the-badge&logo=javascript&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/FastAPI-161b22?style=for-the-badge&logo=fastapi&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/PostgreSQL-161b22?style=for-the-badge&logo=postgresql&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Next.js-161b22?style=for-the-badge&logo=nextdotjs&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Tailwind-161b22?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+</p>
+
+<!-- ================================================================ -->
+<!--               ELECTRIC CYAN NEURAL NETWORK GRAPH                 -->
+<!-- ================================================================ -->
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Gana-Y/Gana-Y/main/gitascii_neural.svg" width="800" alt="Neural Network Map"/>
 </p>
 
 <p align="center">
