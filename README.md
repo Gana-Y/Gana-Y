@@ -47,25 +47,10 @@
 
 ---
 
-## 🖥️ Terminal Diagnostics & Binary Matrix
-
-```text
-                 01100011000110                 ganesh@neural-core
-             011000000000000000110             ------------------
-           010001111111111111100010            OS: Neural Arch Linux x86_64
-         0100110000000000000000110010          Host: Tensor Core HPC Cluster [H100 NVL]
-        010110001111111111111100011010         Kernel: Linux 6.12.0-ai-accelerated
-       0101000110000000000000110001010         Uptime: 99.99% (Non-stop engineering grind)
-       01100011001111111111110011000110        Shell: zsh 5.9 (CUDA 12.6 · PyTorch 2.5)
-       01100011001000000000010011000110        Editor: Cursor / Neovim (Vim keybindings)
-       01100001100101111110100110000110        Role: Autonomous Systems & AI Engineer
-       01010000110000000000001100001010        Domain: Deep Learning · Hybrid RAG · Low-Latency
-        010110000111100001111000011010         Flagship: Florix AI (Multimodal Academic RAG)
-         0100110000011111100000110010          Engine: OrderCore (136k orders/s · 4.3µs)
-           0100011100000000011100010           LeetCode: @Ganesh_Op | Top Percentile
-             0110000011111100000110            Contributions: 975+ Verified Commits (2026)
-                 01100011000110                 Status: Shipping production-grade AI systems
-```
+<!-- 3D Neural Matrix Terminal Portrait, types itself in like an authentic terminal -->
+<div align="center">
+  <img src="./ascii-portrait.svg" width="500" alt="3D Neural ASCII portrait of Ganesh Yandigeri" />
+</div>
 
 ---
 
