@@ -47,9 +47,13 @@
 
 ---
 
-<!-- 3D Neural Matrix Terminal Portrait, types itself in like an authentic terminal -->
+<!-- Animated ASCII Card with Floating Thought Symbols (Inspired by Samir Shrestha / CodeSawMir) -->
 <div align="center">
-  <img src="./ascii-portrait.svg" width="500" alt="3D Neural ASCII portrait of Ganesh Yandigeri" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg">
+    <source media="(prefers-color-scheme: light)" srcset="light_mode.svg">
+    <img alt="Ganesh Yandigeri Animated ASCII Terminal Profile Card" src="dark_mode.svg" width="850">
+  </picture>
 </div>
 
 ---

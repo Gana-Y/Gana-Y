@@ -1,0 +1,59 @@
+# ascii-profile-card configuration for Ganesh Yandigeri
+
+title: ganesh@neural-core
+
+info:
+  - OS: Neural Linux x86_64
+  - Host: Autonomous Systems Cluster [H100 NVL]
+  - Uptime: 99.99% (Non-stop engineering grind)
+  - Kernel: Applied AI 1.0.0-LTS
+  - ""
+  - Languages.Programming: Python, C++, SQL
+  - Stack.AI_ML: PyTorch, HuggingFace, LangChain
+  - Stack.Backend: FastAPI, PostgreSQL, ChromaDB
+  - ""
+  - Flagship.RAG: Florix AI (555+ tests · Multimodal)
+  - Flagship.Engine: OrderCore (136k ops/s · 4.3µs)
+  - LeetCode.Profile: "@Ganesh_Op | Top Percentile"
+  - Contributions: 975+ Verified Commits (2026)
+  - ""
+  - section: Contact
+  - Email.Personal: ganeshyandigeri1@gmail.com
+  - GitHub: Gana-Y
+  - Portfolio: ganesh-portfolio-zjcx.vercel.app
+  - ""
+  - section: Status
+  - Currently: shipping_ai_systems() // top 0.000001%
+
+portrait:
+  photo: photo.png
+  ascii: ascii.txt
+  columns: 80
+  rows: 45
+  framing: head
+  gamma: 1.35
+  edges: 2.8
+  ramp: " .,:;-=+*#%@"
+
+thoughts:
+  rise_seconds: [6, 9]
+  symbols: [
+    "AI", "LLM", "RAG", "PyTorch", "FastAPI",
+    "ChromaDB", "HNSW", "136k ops/s", "4.3µs",
+    "CUDA", "loss", "weights", "e^iπ", "O(log n)",
+    "def", "async", "await", "optimizer.step()",
+    "MCP", "agent.run()", "Grounded",
+  ]
+
+layout:
+  info_width: 64
+  info_offset: 25
+
+style:
+  theme: tokyo-night
+  layout: side
+  info_style: dots
+  charset: classic
+  invert: false
+  frame: window
+  animations: [thoughts]
