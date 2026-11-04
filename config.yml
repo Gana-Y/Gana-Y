@@ -12,8 +12,8 @@ info:
   - Stack.AI_ML: PyTorch, HuggingFace, LangChain
   - Stack.Backend: FastAPI, PostgreSQL, ChromaDB
   - ""
-  - Flagship.RAG: Florix AI (555+ tests · Multimodal)
-  - Flagship.Engine: OrderCore (136k ops/s · 4.3µs)
+  - Flagship.RAG: Florix AI (555+ tests | Multimodal)
+  - Flagship.Engine: OrderCore (136k ops/s | 4.3µs)
   - LeetCode.Profile: "@Ganesh_Op | Top Percentile"
   - Contributions: 975+ Verified Commits (2026)
   - ""
@@ -30,7 +30,7 @@ portrait:
   ascii: ascii.txt
   columns: 80
   rows: 45
-  framing: head
+  framing: shoulders
   gamma: 1.35
   edges: 2.8
   ramp: " .,:;-=+*#%@"
@@ -41,8 +41,8 @@ thoughts:
     "AI", "LLM", "RAG", "PyTorch", "FastAPI",
     "ChromaDB", "HNSW", "136k ops/s", "4.3µs",
     "CUDA", "loss", "weights", "e^iπ", "O(log n)",
-    "def", "async", "await", "optimizer.step()",
-    "MCP", "agent.run()", "Grounded",
+    "def", "async", "await", "optimizer.step",
+    "MCP", "agent.run", "Grounded",
   ]
 
 layout:
