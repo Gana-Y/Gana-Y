@@ -38,6 +38,7 @@ portrait:
 thoughts:
   rise_seconds: [6, 9]
   symbols: [
+    "AI Engineer",
     "AI", "LLM", "RAG", "PyTorch", "FastAPI",
     "ChromaDB", "HNSW", "136k ops/s", "4.3µs",
     "CUDA", "loss", "weights", "e^iπ", "O(log n)",

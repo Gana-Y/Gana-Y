@@ -147,4 +147,6 @@ text, tspan {white-space: pre;}
 <text class="thought" x="156" y="152" font-size="13px" fill="#bb9af7" style="--drift: -9px; animation-duration: 6.45s; animation-delay: -4.25s">MCP</text>
 <text class="thought" x="193" y="147" font-size="14px" fill="#7dcfff" style="--drift: 10px; animation-duration: 6.01s; animation-delay: -2.52s">agent.run</text>
 <text class="thought" x="230" y="154" font-size="16px" fill="#565f89" style="--drift: -9px; animation-duration: 8.07s; animation-delay: -4.16s">Grounded</text>
+<text class="thought" x="145" y="152" font-size="16px" font-weight="bold" fill="#7dcfff" style="--drift: 8px; animation-duration: 6.80s; animation-delay: -1.80s">AI Engineer</text>
+<text class="thought" x="180" y="148" font-size="15px" font-weight="bold" fill="#bb9af7" style="--drift: -10px; animation-duration: 7.40s; animation-delay: -5.10s">AI Engineer</text>
 </svg>
