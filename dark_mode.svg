@@ -26,52 +26,80 @@ text, tspan {white-space: pre;}
 <path d="M15 0H993A15 15 0 0 1 1008 15V34H0V15A15 15 0 0 1 15 0Z" fill="#c0caf5" fill-opacity="0.07"/>
 <circle cx="24" cy="17" r="6" fill="#ff5f56"/><circle cx="42" cy="17" r="6" fill="#ffbd2e"/><circle cx="60" cy="17" r="6" fill="#27c93f"/>
 <text x="504" y="21" font-size="12px" text-anchor="middle" fill="#565f89">ganesh@neural-core — zsh</text>
-<text fill="#c0caf5" font-size="9px">
-<tspan x="24.0" y="147.0">        .________________________________________________.</tspan>
-<tspan x="24.0" y="157.5">       /                                                /|</tspan>
-<tspan x="24.0" y="168.0">      +------------------------------------------------+ |</tspan>
-<tspan x="24.0" y="178.5">      |  ____________________________________________  | |</tspan>
-<tspan x="24.0" y="189.0">      | | [#] NEURAL WORKSTATION           [SYS: OK] | | |</tspan>
-<tspan x="24.0" y="199.5">      | |============================================| | |</tspan>
-<tspan x="24.0" y="210.0">      | |           |  |  |  |  |  |  |  |           | | |</tspan>
-<tspan x="24.0" y="220.5">      | |         --+--+--+--+--+--+--+--+--         | | |</tspan>
-<tspan x="24.0" y="231.0">      | |       .---======================---.       | | |</tspan>
-<tspan x="24.0" y="241.5">      | |      /  :  :  :  :  :  :  :  :  :   \      | | |</tspan>
-<tspan x="24.0" y="252.0">      | |    |==================================|    | | |</tspan>
-<tspan x="24.0" y="262.5">      | |  --|  .----------------------------.  |--  | | |</tspan>
-<tspan x="24.0" y="273.0">      | | ===|  |     .================.     |  |=== | | |</tspan>
-<tspan x="24.0" y="283.5">      | | ---|  |    /   NEURAL CORE    \   |  |---| | | |</tspan>
-<tspan x="24.0" y="294.0">      | | ===|  |   +--------------------+   |  |=== | | |</tspan>
-<tspan x="24.0" y="304.5">      | |  --|  |   |    [#]   AI   [#]  |   |  |--  | | |</tspan>
-<tspan x="24.0" y="315.0">      | |    |  |   |     ENGINEER       |   |  |    | | |</tspan>
-<tspan x="24.0" y="325.5">      | |  --|  |   +--------------------+   |  |--  | | |</tspan>
-<tspan x="24.0" y="336.0">      | | ===|  |   |  TENSOR PROCESSOR  |   |  |=== | | |</tspan>
-<tspan x="24.0" y="346.5">      | | ---|  |   |  H100 NVL MATRIX   |  |  |---| | | |</tspan>
-<tspan x="24.0" y="357.0">      | | ===|  |   |  136k ops | 4.3us  |   |  |=== | | |</tspan>
-<tspan x="24.0" y="367.5">      | |  --|  |    \  ================ /   |  |--  | | |</tspan>
-<tspan x="24.0" y="378.0">      | |    |  |     &#x27;----------------&#x27;     |  |    | | |</tspan>
-<tspan x="24.0" y="388.5">      | |  --|  |  [L1: 64MB]    [L2: 512MB] |  |--  | | |</tspan>
-<tspan x="24.0" y="399.0">      | | ===|  |  [BUS: 1024-BIT HBM3e]     |  |=== | | |</tspan>
-<tspan x="24.0" y="409.5">      | | ---|  &#x27;----------------------------&#x27; |---| | | |</tspan>
-<tspan x="24.0" y="420.0">      | |    |==================================|    | | |</tspan>
-<tspan x="24.0" y="430.5">      | |      \  :  :  :  :  :  :  :  :  :   /      | | |</tspan>
-<tspan x="24.0" y="441.0">      | |       &#x27;---======================---&#x27;       | | |</tspan>
-<tspan x="24.0" y="451.5">      | |         --+--+--+--+--+--+--+--+--         | | |</tspan>
-<tspan x="24.0" y="462.0">      | |           |  |  |  |  |  |  |  |           | | |</tspan>
-<tspan x="24.0" y="472.5">      | |____________________________________________| | |</tspan>
-<tspan x="24.0" y="483.0">      |                                                | |</tspan>
-<tspan x="24.0" y="493.5">      +------------------------------------------------+ |</tspan>
-<tspan x="24.0" y="504.0">      |   [PWR]  (O)  (O)     ||||||||||||||    [BUS]  |/</tspan>
-<tspan x="24.0" y="514.5">      +------------------------------------------------+</tspan>
-<tspan x="24.0" y="525.0">              \                                /</tspan>
-<tspan x="24.0" y="535.5">               \______________________________/</tspan>
-<tspan x="24.0" y="546.0">                             |  |</tspan>
-<tspan x="24.0" y="556.5">                          .--+--+--.</tspan>
-<tspan x="24.0" y="567.0">          .---------------&#x27;        &#x27;---------------.</tspan>
-<tspan x="24.0" y="577.5">         /  [ESC] [1] [2] [3] [4] [5] [6] [7] [DEL] \</tspan>
-<tspan x="24.0" y="588.0">        /   [TAB]  [Q] [W] [E] [R] [T] [Y]  [ENTER]  \</tspan>
-<tspan x="24.0" y="598.5">       /    [CTRL]    [    SPACE BAR    ]   [SHIFT]   \</tspan>
-<tspan x="24.0" y="609.0">      /________________________________________________\</tspan>
+<g transform="translate(18, 168) scale(0.295)">
+<g font-family="'JetBrains Mono', Consolas, monospace" font-size="16" xml:space="preserve">
+<text x="13" y="25.80" textLength="1142.40" lengthAdjust="spacingAndGlyphs"><tspan fill="#c0caf5">⠢⡑⢌⠢⡑⠌⠦⡑⢌⠢⡑⢌⠢⡑⢌⠢⠱⠌⠦⠱⠌⠦⡱⢌⢢⠱⢌⡒⣉⠦⡑⡌⢆⡱⢌⠢⡑⢌⠢⡑⢌⠰⣁⠒⡌⡐⢢⠁⢎⠰⢡⠘⡄⢢⠁⢎⡐⠢⣁⠒⢌⡐⠢⡁⢆⠱⣈⠒⡄⠣⡐⠂⢆⡘⢄⠣⠜⠤⠣⡜⠤⠓⡌⠦⡑⠌⠦⡑⠌⠦⡑⢊⠴⡁⠎⡔⠡⢎⠰⢡⠊⡔⢡⠊⡔⢡⠊⡔⢡⠊⡔⡈⢆⠱⡈⢆⠱⣈⠒</tspan></text>
+<text x="13" y="41.80" textLength="1142.40" lengthAdjust="spacingAndGlyphs"><tspan fill="#c0caf5">⡑⢌⠢⡑⢌⡘⠤⡑⢌⠢⣁⢂⠒⡈⢄⢃⠱⡈⢆⠡⢋⡔⢡⠊⣄⠣⠒⡌⡔⢢⡑⣌⠲⣐⢊⡱⢈⠆⡱⢈⠆⣡⠂⡜⢠⠑⢢⠉⢆⡘⡄⢣⢐⠡⢊⠔⡠⢃⠔⡨⢄⠢⡑⠌⡄⠣⢄⠣⡐⢡⠐⣁⠂⠌⡄⢣⠘⡄⢣⠘⠤⣉⠔⡡⠜⣈⢆⡑⢪⡐⣡⠃⢆⠱⡈⠔⡡⢊⠔⡡⢊⠔⡡⢊⠔⡡⢊⠔⣡⠊⡔⢡⠊⡔⢡⠊⡔⠤⢃</tspan></text>
+<text x="13" y="57.80" textLength="1142.40" lengthAdjust="spacingAndGlyphs"><tspan fill="#c0caf5">⡱⢊⠵⣉⠦⡙⢦⡙⢢⠓⡤⢃⡎⡱⢊⡜⢢⡑⢎⡱⢣⠜⣡⠏⡴⣉⢳⡘⣌⠣⡜⢤⡓⢬⠒⡥⢋⡜⡰⣉⠚⣄⠓⡌⢆⡙⠢⢍⠢⡑⠬⣁⠎⠬⣁⠚⡄⢣⠘⡰⢈⠆⡱⢈⢌⠱⢌⢢⢉⠆⡱⢀⠎⡰⠘⣄⠣⠜⣠⢋⢒⡡⢎⡑⠎⡔⢊⠌⡅⡒⢡⠚⡌⢢⢉⢒⢡⠊⡔⢡⠊⡔⢡⢊⠴⡑⠬⡘⢄⡓⢌⠢⢱⢈⠆⡓⠬⣘⠡</tspan></text>
+<text x="13" y="73.80" textLength="1142.40" lengthAdjust="spacingAndGlyphs"><tspan fill="#c0caf5">⡱⣉⠖⣡⠚⡍⢦⠙⢦⡙⡔⢫⠔⣡⠣⠜⣡⠚⣌⠲⣡⢋⠴⣉⠖⣡⢒⡱⢌⡱⢌⠣⢜⠢⣙⡐⢣⠐⡡⢂⠍⡄⢣⠘⠤⣈⠱⡈⢆⡑⢢⠐⡌⠒⡄⠃⠌⠄⠣⠐⡡⢂⠅⠊⡄⠣⠌⠂⠌⢂⠱⠈⠄⠡⢃⠄⡃⢎⠰⡈⢆⠰⢂⠜⡨⠔⣉⠒⡌⠬⣁⠎⡰⢁⠎⡌⢢⠱⡈⡅⢎⡐⠣⢌⢆⠱⢂⠍⡢⠜⡠⢍⠂⢎⡘⠔⠣⢌⠱</tspan></text>
+<text x="13" y="89.80" textLength="1142.40" lengthAdjust="spacingAndGlyphs"><tspan fill="#c0caf5">⠰⣁⠚⠤⡙⠌⣆⠩⢂⡜⠨⣅⠚⣄⢃⠚⡄⢃⠦⣑⠢⣉⠦⡑⢪⠔⡡⢎⠒⡔⣊⠱⢊⡔⢢⠘⡄⢣⠐⡡⢊⠔⡁⠎⢐⠠⢁⠒⠄⠘⠠⠑⠈⠄⠄⠄⠄⠄⠄⠄⠄⠄⠈⠐⠄⠄⠄⠁⠄⠄⠄⠄⠄⠄⠄⠐⠄⠂⠄⠁⠂⠌⢀⠊⠄⡑⠠⢃⠘⡰⢀⠎⡐⢡⢊⠰⡁⢆⡑⢨⠐⡨⠑⡌⠢⡑⠌⢢⠑⡌⠰⡈⠜⡠⠘⡌⠱⣈⠒</tspan></text>
+<text x="13" y="105.80" textLength="1142.40" lengthAdjust="spacingAndGlyphs"><tspan fill="#c0caf5">⠱⢠⠉⢆⠱⡨⢄⠣⡡⢌⡱⢠⢋⠔⡨⠑⡌⢂⠖⣠⠓⡰⢂⡍⠦⡙⢤⠣⣍⠒⡬⢑⠢⡜⢢⡑⢌⠢⠥⡑⠌⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠠⠠⠄⠄⠄⠄⠄⠠⠄⡠⠄⠄⠄⠄⠒⠠⢀⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠁⠂⠡⠐⡡⠌⡰⢁⠢⣁⠒⠤⡘⢠⠑⡄⢣⠐⡡⠘⡌⠰⡈⠔⡡⠘⠤⣁⠣⢌⠡⢂⠥</tspan></text>
+<text x="13" y="121.80" textLength="1142.40" lengthAdjust="spacingAndGlyphs"><tspan fill="#c0caf5">⢃⠣⣉⠆⡓⡰⢉⡒⠥⢊⡔⠣⢎⠜⡡⠓⣌⠱⢊⠤⡙⡔⢣⡘⢥⡙⣂⠳⢠⢋⠴⣉⠒⠥⠒⡌⡄⠣⡘⢌⠂⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠂⠄⠤⠄⣀⠄⠄⠄⠁⠄⠐⠄⠄⠄⠈⠄⠂⠄⠐⠄⢀⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠁⠂⠐⠌⡰⢁⡒⠤⣉⢆⠱⣂⠱⠌⣆⠣⣅⠓⡬⡑⡜⢢⠱⣉⠖⢤⢃⢎⠲⡡⢎</tspan></text>
+<text x="13" y="137.80" textLength="1142.40" lengthAdjust="spacingAndGlyphs"><tspan fill="#c0caf5">⢌⠱⡀⢎⠰⣁⠒⡌⠢⠅⡌⠓⣌⠒⡡⢃⠤⠓⡌⢢⠑⡌⠥⡘⠤⢒⠡⢊⠅⡊⠴⣀⠋⡔⢩⠐⠤⡑⠰⣈⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠐⠂⣀⠄⠄⠄⠄⠄⠠⢀⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠈⠐⠠⢃⠜⡰⢡⢊⠵⣈⠧⡙⢤⠓⡬⡑⢦⠱⣌⢣⠓⣌⠚⡤⢋⣌⢣⡑⢎</tspan></text>
+<text x="13" y="153.80" textLength="1142.40" lengthAdjust="spacingAndGlyphs"><tspan fill="#c0caf5">⢌⠢⡑⢌⠒⡄⠣⢌⠱⣈⠴⡉⠤⢃⠴⡁⢎⠱⡨⢅⠚⡄⢣⢑⠊⡴⢉⠒⡌⡑⠢⢅⠚⡄⢣⠘⠤⣁⢃⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠈⢁⠂⡀⠄⠄⠄⠄⠄⠐⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠡⢈⠎⣡⢃⢎⠲⡡⢎⡱⢊⡕⢢⡙⠤⡓⡌⠦⡙⢤⢋⠴⣉⢆⠣⡜⢢</tspan></text>
+<text x="13" y="169.80" textLength="1142.40" lengthAdjust="spacingAndGlyphs"><tspan fill="#c0caf5">⢌⠒⡡⢊⠔⡨⠑⡌⠒⡄⢢⢁⠣⠌⣂⠱⡈⢆⠱⣈⠒⢌⠢⢌⡘⠄⢣⠘⠤⣁⠣⢌⠒⡌⢢⢉⠒⡄⢢⠈⠄⠐⠄⠠⢀⠄⢀⠄⠁⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠉⠄⠁⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⢂⠘⡰⢌⡊⢥⠓⣌⠲⡡⠎⡅⢎⡱⡘⡔⢣⡉⢆⠎⣒⠡⢎⡱⠘⡤</tspan></text>
+<text x="13" y="185.80" textLength="1142.40" lengthAdjust="spacingAndGlyphs"><tspan fill="#c0caf5">⡌⢆⡱⢈⠆⡡⢃⠜⡰⢈⠆⣌⠢⡑⢄⠢⡑⢌⠒⠤⡉⢆⡘⢤⡘⠌⡆⢍⠲⢄⢣⠊⠖⡘⠤⢊⠴⡘⠤⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⡀⢀⠄⡀⢀⠄⢀⠄⣀⡀⣀⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⡘⢄⠣⡜⢢⠍⣢⠱⢡⡙⢌⠦⡑⡱⢌⠣⠜⠢⡜⢠⢋⠴⣈⢓⡰</tspan></text>
+<text x="13" y="201.80" textLength="1142.40" lengthAdjust="spacingAndGlyphs"><tspan fill="#c0caf5">⡘⢢⠑⡊⢌⠱⡈⢆⠱⡈⠜⣀⠣⡘⢄⠣⡘⠤⡉⢆⡑⢢⠘⠤⡘⢰⠈⢆⠱⡈⢆⡉⢆⡉⠦⠡⢆⠱⣘⠄⠁⠄⠄⠄⠄⠄⠄⠄⡀⢤⡰⣡⢜⣧⢳⡝⣯⢽⣲⣟⣶⣻⡼⢯⣝⢮⡱⢆⡢⠄⡀⢆⠈⠄⠄⠄⠄⠄⠄⠄⠄⢀⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⢂⠱⠌⣅⠚⡄⢣⠡⠜⣂⠒⡱⢌⠢⢍⢊⡕⢌⢃⠎⢆⠱⢂⡒</tspan></text>
+<text x="13" y="217.80" textLength="1142.40" lengthAdjust="spacingAndGlyphs"><tspan fill="#c0caf5">⠄⡃⠜⡰⠈⠆⡑⡈⠆⡑⠌⠤⡑⠰⡈⢆⡑⢢⠑⢢⠘⠤⡉⢆⡑⢢⠉⢆⠱⡈⠆⡜⡠⠜⡠⠓⡌⣒⠡⠎⡄⠄⠄⠄⠄⠄⡀⢆⡙⢦⠳⣥⢻⡼⣧⣟⡾⣯⢷⣞⡶⣯⣽⣳⠾⣭⢻⡭⣳⢅⡎⢤⠂⡁⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⢊⠔⢢⡑⢌⠢⡑⠬⣐⠱⡐⡌⢒⠌⣆⠸⢠⠎⡘⡌⢆⠣⡘</tspan></text>
+<text x="13" y="233.80" textLength="1142.40" lengthAdjust="spacingAndGlyphs"><tspan fill="#c0caf5">⡘⢄⠣⡐⢩⠐⠤⢑⡈⠔⡩⠐⡌⡑⢌⠰⢈⠆⡉⢆⡉⢆⡑⢢⠘⠤⡉⠆⡱⢈⠒⠤⡑⢌⡐⢣⠘⡄⠓⡬⢐⠁⠄⠄⢀⠠⡑⢪⡙⣬⢳⡽⢯⣷⣻⢾⣽⣯⢿⣾⡽⣷⢯⣟⡿⣭⢷⡹⢧⡞⢼⣁⠓⡄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠠⢈⠰⡩⢜⡡⢜⢢⠱⣌⠱⣌⠲⡡⢎⠥⡚⢤⢃⠧⣘⠱⡘⢆⢣⠱</tspan></text>
+<text x="13" y="249.80" textLength="1142.40" lengthAdjust="spacingAndGlyphs"><tspan fill="#c0caf5">⡐⡊⠴⡁⠦⡉⢆⠡⡘⠤⢁⠣⢐⡁⠊⢄⠃⡌⡐⠢⢌⡐⠌⣂⠩⡐⠤⠑⡠⢁⠎⡐⢌⠠⡘⠠⠡⢌⠱⣀⠣⡀⠄⠄⠄⢢⠙⢦⠽⣌⠷⣛⣟⡾⣽⢯⡷⣯⣟⡾⣽⢯⣟⡾⣽⢫⣯⡝⣧⣛⠶⣌⠡⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⡁⠄⢣⡑⢎⠴⣉⢆⠳⣈⠕⢢⢣⡑⢎⠲⣉⠦⣉⠖⣡⢋⡜⡌⠦⡙</tspan></text>
+<text x="13" y="265.80" textLength="1142.40" lengthAdjust="spacingAndGlyphs"><tspan fill="#c0caf5">⡐⢡⢂⡑⠢⢁⠢⢡⠐⣂⠡⡘⢠⠐⡉⢄⠊⠤⣁⠣⡐⢄⠣⢄⠣⡐⢌⠱⣀⢃⠒⡌⢄⠣⠐⠡⠃⡌⠒⡀⠆⡁⠄⠄⠄⢢⠙⣎⠳⣬⢻⡽⣮⡽⣞⣯⣿⣳⢯⡿⣭⣿⣾⡽⣾⣹⢖⡻⢶⢭⡚⣜⢢⠄⠄⡀⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⢌⠢⡜⢌⡒⣡⢊⠦⣑⠪⣑⠢⡍⣌⠳⣌⠲⣡⠚⢤⠣⡰⢌⡱⢌</tspan></text>
+<text x="13" y="281.80" textLength="1142.40" lengthAdjust="spacingAndGlyphs"><tspan fill="#c0caf5">⡘⠤⠒⡌⢱⠈⢆⠡⢊⠤⡑⢄⠣⢘⠰⡈⠜⡰⢀⠣⠘⠄⡃⠌⡐⢁⠊⡐⠄⢊⠰⠈⠄⢂⠡⢁⠂⠄⠡⠐⠠⠐⠄⠄⠠⢁⠫⡜⣳⠽⢯⡟⣷⣻⣿⣯⣷⣿⣯⣟⠹⡧⣹⢎⢳⡹⢫⡝⢧⢫⡜⣌⢣⡛⡴⡀⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⡁⢂⠳⡘⢦⡑⢆⠣⡜⠤⠓⣌⠱⡘⢤⠓⡬⢑⢢⡙⢢⢣⢑⠢⢒⠌</tspan></text>
+<text x="13" y="297.80" textLength="1142.40" lengthAdjust="spacingAndGlyphs"><tspan fill="#c0caf5">⠘⡰⠉⡔⢁⠊⠄⠃⠌⡐⢀⠂⠌⡀⠆⢠⠡⠐⢂⠡⢁⠊⡐⠠⢁⠂⢌⡐⠌⡂⢅⠊⡌⢄⠂⢆⠨⡐⢡⠘⡄⢃⠄⠄⠂⠁⠂⠌⡐⡈⠂⠘⣌⢳⡿⢯⣷⡿⣇⢏⢶⣁⠖⣌⣢⣴⣧⣚⡤⣁⠚⢄⠣⡜⣡⢓⡈⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠠⢀⠍⡲⢉⠦⡘⠬⡑⡌⢎⡱⢌⡒⢍⠦⡙⠴⣉⠦⡘⢥⢂⢣⢊⠥⢊</tspan></text>
+<text x="13" y="313.80" textLength="1142.40" lengthAdjust="spacingAndGlyphs"><tspan fill="#c0caf5">⢡⠐⡡⢒⡈⠔⣈⠡⠒⡀⠆⡌⠰⡐⠨⢄⠢⢑⠢⠌⣂⠱⣀⠣⢌⡘⢄⠢⡑⢌⠢⡑⢌⠢⢉⠢⠑⡌⢢⠑⡌⢂⠆⠐⠠⢌⡵⡺⠵⠲⡼⣔⢢⠧⣹⢛⣾⢿⡹⣞⢣⡞⡹⡙⠫⠟⢓⠫⠽⣳⢏⡦⣑⠸⣄⠳⡈⠄⠄⠄⡀⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⢀⠢⡘⢥⡉⢖⡩⢒⡱⡘⢦⡘⢦⡙⣌⠲⣉⠶⡡⢎⡱⢊⡜⠰⣊⠜⢢</tspan></text>
+<text x="13" y="329.80" textLength="1142.40" lengthAdjust="spacingAndGlyphs"><tspan fill="#c0caf5">⢂⡃⠆⠥⡘⠰⣀⠣⡑⢌⠒⡈⠥⣈⠑⢢⠑⡌⠢⢑⠠⢃⠄⡃⢆⡘⠄⢣⠘⡄⢃⠌⢢⠘⠤⡁⢣⠐⣁⠒⡈⠆⠂⠄⣝⠢⢁⣰⡆⠄⠄⢨⣧⠓⣤⢛⡾⣧⢛⡬⡗⡬⡵⣷⠄⢀⡰⢎⠐⡡⢞⡵⣋⠖⡌⡱⢌⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⢂⠍⢦⡙⢦⣑⢣⠒⡍⢦⡙⢦⡘⡤⢓⠥⢎⡱⢊⡔⠣⣌⠓⡤⣉⠆</tspan></text>
+<text x="13" y="345.80" textLength="1142.40" lengthAdjust="spacingAndGlyphs"><tspan fill="#c0caf5">⢂⠜⡈⢆⠡⢃⠄⡃⢌⢂⠱⠈⡔⢠⠉⢆⠡⢂⠱⠈⡔⡈⠰⢈⠄⡒⠨⠄⡒⢈⠔⡈⠆⢡⠂⡑⢠⠃⡰⠈⡔⡉⠄⡑⢎⡅⢢⣩⡙⡤⢶⡯⢷⣋⢦⣻⣽⣳⢏⡶⣹⢧⣝⢮⡟⢾⡱⣋⢮⣑⢮⡱⣍⠞⡰⢁⠎⡀⠄⣈⣴⡾⣙⡶⡀⠄⠄⠄⠄⠄⠄⠄⠈⠄⠌⠢⢜⠲⣌⢣⠏⡜⢦⡙⠦⡱⢌⢣⠚⡤⢃⠧⡘⣅⠢⢍⡰⢄⢊</tspan></text>
+<text x="13" y="361.80" textLength="1142.40" lengthAdjust="spacingAndGlyphs"><tspan fill="#c0caf5">⠂⡌⠰⢈⠢⡁⠎⡐⠌⡠⢂⠑⡠⢂⡉⢄⠊⡄⠣⡑⠰⣈⠱⢈⠒⣈⠑⢢⠁⢎⠠⡑⢌⠢⢘⠠⡁⠆⡡⠑⣬⡝⢧⡘⣲⠸⣥⠲⣭⡹⢧⣛⠧⢎⡲⣯⣷⣛⠾⣵⣏⡾⣽⢮⡽⣎⣷⡽⣞⡽⣎⠷⢮⣙⢆⠣⡘⠄⠰⣭⢣⣿⣧⢿⡗⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠂⣌⠳⡌⢖⡩⢜⢢⡑⢣⡑⢎⠦⡙⠴⣉⠦⡑⠢⢍⠢⠔⡈⢆</tspan></text>
+<text x="13" y="377.80" textLength="1142.40" lengthAdjust="spacingAndGlyphs"><tspan fill="#c0caf5">⠡⡐⢡⠊⡐⠄⢃⡐⢈⠐⠠⢁⠰⠄⡔⠈⡔⢈⠡⡐⠡⡐⣈⠂⢡⠂⡉⢄⠊⠤⠑⡈⠤⠘⡀⠆⣁⢂⠡⠌⣷⡯⡗⡸⣥⢿⣼⣻⣶⣟⣯⢯⡛⢶⡽⣿⡾⣝⢮⡱⢫⣿⢯⣿⣽⣿⣽⣿⢯⣷⣏⠿⣱⠎⡎⠔⡱⠄⢢⢣⣻⣿⣿⢺⡏⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⡁⢂⠳⡘⣌⠲⣉⠆⡹⠤⡙⢌⡒⣉⠖⡰⢂⠍⡱⡈⢆⠱⣈⠂</tspan></text>
+<text x="13" y="393.80" textLength="1142.40" lengthAdjust="spacingAndGlyphs"><tspan fill="#c0caf5">⠡⠐⠂⡄⠡⡈⠄⡐⠠⢈⠐⠠⢂⠡⠄⢃⠰⢈⡐⠄⢃⠰⠄⡜⢀⠢⠡⠌⡂⠅⡂⠅⡂⡑⠐⡈⠄⢂⢂⠂⡹⣗⡇⡳⣝⡾⣿⣿⣿⣿⣿⢫⡜⣹⢿⡿⣟⡟⣾⣽⣳⢾⣿⣺⣽⣾⣿⣿⣿⢷⣯⢻⡥⣛⠤⡙⡐⠠⢙⠦⣿⢳⡿⣹⠁⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠤⡉⢖⡱⢌⡱⢂⠭⡰⣑⡘⠆⡜⢄⠎⡱⢌⢊⡱⢈⠆⡱⢀⠃</tspan></text>
+<text x="13" y="409.80" textLength="1142.40" lengthAdjust="spacingAndGlyphs"><tspan fill="#c0caf5">⢀⠃⠡⣀⠡⠐⡐⢈⠐⡠⢁⠒⡀⠆⢨⠐⢂⢂⠐⠌⡠⢁⢊⠐⡠⢁⠣⢘⠠⡑⠰⢈⡐⠠⣁⠢⠘⡠⠌⡐⠠⢹⠆⡳⣭⢟⡷⣿⡟⣷⡹⢦⡙⠶⣩⣛⡱⡞⢷⢊⡵⣞⡿⡿⡶⣭⢻⡿⣯⣟⣮⠷⣱⢃⠎⡔⠡⠐⣌⣻⢧⣻⢷⡏⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⢂⠱⡈⠔⡊⠔⡉⢆⠱⠠⠜⡨⢐⠊⡔⢡⠊⡔⢠⠃⡜⢠⠁⠎</tspan></text>
+<text x="13" y="425.80" textLength="1142.40" lengthAdjust="spacingAndGlyphs"><tspan fill="#c0caf5">⢠⠘⡠⠄⡂⠥⡐⢌⠰⡐⢂⠆⡡⢘⠠⢌⠂⡄⢊⠔⡠⢂⠆⡱⠐⡌⠰⣁⠒⠌⡑⠢⠌⡑⢄⠢⡑⠄⡃⠌⡑⡈⣧⠱⣎⢯⡽⢧⠙⠠⠉⠁⠄⠄⠄⡼⡁⠈⢄⡀⢌⡐⣀⡁⠄⡁⠣⢹⣷⡞⣵⢯⡓⣏⠚⠤⢁⠢⣜⢾⣻⡼⡏⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⡐⠌⢢⢉⠒⡉⢆⡉⠦⣁⠋⡔⠡⢎⠰⢌⠢⡑⢌⠢⡑⢄⠣⡘⡐</tspan></text>
+<text x="13" y="441.80" textLength="1142.40" lengthAdjust="spacingAndGlyphs"><tspan fill="#c0caf5">⠢⠑⡄⢃⠘⡐⢈⠢⠑⡈⠆⡘⢀⠃⠜⣀⢃⡘⣀⠊⡐⠤⡈⢄⠃⡌⠡⢄⡘⠤⡑⠢⡑⢨⠐⠢⢌⠒⠌⡂⠥⢐⠠⢓⡼⣒⢿⠃⠄⠡⢀⠐⡠⣑⢮⣙⡟⡷⣄⡞⣤⢓⡤⣡⢶⡐⢠⠸⣷⡻⣝⢦⡟⢤⠋⠄⠂⣼⣟⣾⡷⠟⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⡐⢠⠉⠆⡌⠢⢑⠢⡘⡐⢄⠣⢌⠱⣈⠒⡌⢒⠡⢊⠔⡡⢊⠔⡁⠆</tspan></text>
+<text x="13" y="457.80" textLength="1142.40" lengthAdjust="spacingAndGlyphs"><tspan fill="#c0caf5">⠄⡡⠐⡄⢢⠐⡄⢢⢁⠒⡌⠰⡁⢎⠰⢄⠢⢔⡠⢃⡜⠤⡑⢊⠜⡰⡉⢆⡘⠤⢡⠑⡈⠆⣉⠒⠤⢉⠂⡅⠒⡌⢌⠃⡜⢧⠂⢡⢢⡍⡲⣜⡰⣍⡞⣯⣛⣿⡿⣽⢮⡷⣞⡵⢏⡞⣤⠣⣏⣷⢻⣜⢣⠣⢘⠄⠠⡐⠈⠁⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⡀⢂⠌⠤⢉⠢⡐⢡⠊⠔⡡⠘⡄⢊⡄⠣⢄⠣⡘⠤⡉⢆⡘⢄⠣⠌⡐⠌</tspan></text>
+<text x="13" y="473.80" textLength="1142.40" lengthAdjust="spacingAndGlyphs"><tspan fill="#c0caf5">⡘⡄⠓⡌⢢⠑⡌⠢⢌⠒⡌⠱⡈⢆⡉⢆⡉⢆⠰⡁⢆⠱⡈⢆⠊⡔⢡⠒⡌⢢⠁⢎⠰⡁⢆⡉⢆⠱⢊⡔⢩⡐⢊⡜⢠⠣⣈⠄⠇⡰⢓⡬⢓⠮⡙⡌⡙⣎⢽⡹⢏⣷⡻⣜⠯⡜⠰⠑⡎⣼⠣⢎⠢⢁⠂⠈⡔⢠⠁⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⢀⠐⡠⠈⠔⢂⠡⠐⠡⡈⠒⢠⠃⡜⠠⢌⠱⡈⢆⡑⢢⠑⠢⢌⠢⡘⠄⡡⢈</tspan></text>
+<text x="13" y="489.80" textLength="1142.40" lengthAdjust="spacingAndGlyphs"><tspan fill="#c0caf5">⠰⣈⠱⢈⢂⠱⢈⠱⢈⠒⣈⠡⡐⠂⢌⠰⢈⠄⢣⠘⡄⢣⠐⡌⢒⢌⠢⢱⢈⠆⣍⠢⢃⡍⢒⡸⢈⡜⢢⠌⡥⡘⢥⡘⢆⠦⡀⠎⠄⠐⢩⢒⡍⡶⣹⠰⡅⡞⡸⣟⣻⣼⡳⢍⠒⠄⠁⠘⡐⠨⠑⠠⠑⠄⣀⢣⠘⡄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠰⡈⠔⣉⠒⣌⠢⢍⠢⡑⢌⢂⠒⡌⠱⣈⠆⣑⠢⢌⠤⣉⠒⠤⡑⢄⠣⡐⠄</tspan></text>
+<text x="13" y="505.80" textLength="1142.40" lengthAdjust="spacingAndGlyphs"><tspan fill="#c0caf5">⠡⡐⢂⠡⢂⠂⡌⠰⠈⡔⢀⠒⡠⢉⠰⡈⢆⡘⠄⢣⠘⡄⢣⠘⡌⢢⠉⢆⠜⡨⢄⠣⠥⣘⠢⢅⠣⡜⢢⡙⠴⣉⠦⡙⣌⠲⣡⠄⠄⠄⠄⢁⠊⡴⢱⣟⡳⢝⠻⡕⠣⢆⠃⠊⠄⠠⠄⠄⠄⠄⠁⠁⢀⠂⡆⢎⡱⠄⢄⡀⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠡⢈⠱⢠⠩⢄⠃⢎⠱⡈⢆⠩⡘⢌⡑⢆⢩⢂⡍⠲⡘⢤⣉⠒⠥⡊⡔⠡⢎</tspan></text>
+<text x="13" y="521.80" textLength="1142.40" lengthAdjust="spacingAndGlyphs"><tspan fill="#c0caf5">⡁⠆⡡⠒⠠⢁⠢⢁⠃⡐⠈⠄⡁⢂⠡⠐⠂⢌⠘⣀⠒⠨⢄⠣⠘⠤⡉⢆⢊⠱⢌⠣⢜⢠⠓⡌⢣⠜⡡⢎⠱⣌⠲⣉⢆⠳⣄⠣⠄⠄⠄⠄⠂⠘⠠⢊⠔⠈⠐⠈⠃⠈⠄⠁⠄⠄⠄⠄⠁⢀⢀⠰⣨⢓⡜⢢⠆⡩⢄⡐⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠠⢈⠂⡱⢈⠜⡠⢃⠜⡠⢃⠜⡠⡘⢄⠒⠢⢌⠱⡘⠄⢆⡉⠖⡡⢌⠃⢆</tspan></text>
+<text x="13" y="537.80" textLength="1142.40" lengthAdjust="spacingAndGlyphs"><tspan fill="#c0caf5">⠠⠁⠄⡁⠂⠄⠂⠄⠂⠠⠁⢂⠐⡀⢂⡉⠌⢄⠊⠄⡌⢡⠂⡌⡑⢢⠑⡌⢢⠑⡌⠲⡌⢦⠩⡜⡡⢎⡱⢊⠵⣈⢧⠱⣪⠱⢬⡙⣌⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⡠⢎⠶⣙⢦⢋⡜⢡⢎⡱⢆⡍⢖⡢⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠐⠠⢈⠐⠄⠡⠒⢠⠁⠆⡑⠌⢢⢉⠒⡌⢢⠑⡌⢢⠘⠤⡑⢌⡘⠤</tspan></text>
+<text x="13" y="553.80" textLength="1142.40" lengthAdjust="spacingAndGlyphs"><tspan fill="#c0caf5">⠠⢁⠂⠄⡁⢂⠁⢂⠁⢂⠁⠢⠘⠠⡁⠰⢈⠂⡜⠐⡄⢣⠘⠤⡑⢢⠑⡌⠆⣍⠲⠱⣘⢂⠳⢌⡱⢊⠴⣉⠖⡩⢆⠫⡔⡩⢆⡱⢢⠩⡄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⡠⢞⣭⢏⡳⣍⠶⢩⢔⡣⢎⡵⢪⡜⢎⡱⢍⡰⢒⡱⣲⠤⣀⠄⠄⠄⠄⠄⠄⠄⠄⠈⠄⠁⠂⠌⠰⢈⡘⠄⡌⠒⡈⠔⡈⠤⢁⡘⠄⡡⢂⠐⢂</tspan></text>
+<text x="13" y="569.80" textLength="1142.40" lengthAdjust="spacingAndGlyphs"><tspan fill="#c0caf5">⠐⠠⢈⠐⢀⠂⡈⠄⡈⠄⡌⡐⢡⠡⡐⢡⠊⡔⣈⠒⢌⠢⢉⠆⡑⢢⠉⡔⠩⢄⠣⡑⢢⠉⣆⠃⡖⣉⠲⠌⣎⠱⣊⠵⣨⠑⡎⠴⣁⠣⡐⠄⢢⢀⠄⡀⢀⠄⣀⢀⡀⡄⡤⣔⡶⢷⣛⡾⣴⢫⢶⠩⡜⡥⢎⡵⣩⢒⠧⣚⡱⢎⠦⠡⣌⠷⣥⢻⣬⣓⠶⣠⢄⣀⡀⠄⠄⠄⠄⠄⠄⠄⠁⠄⠐⠠⠄⠃⠌⡐⠁⠎⡐⠄⢊⠰⠠⣉⠂</tspan></text>
+<text x="13" y="585.80" textLength="1142.40" lengthAdjust="spacingAndGlyphs"><tspan fill="#c0caf5">⠌⡐⢂⠌⠄⠒⢠⠘⡠⢘⠠⠘⠄⡂⢁⠆⠡⡐⠠⠌⢂⡘⠤⠘⡠⢁⠎⡐⢡⠊⡔⢡⠢⣉⠤⡙⡰⢌⡡⢋⠤⢓⡌⣒⠡⡍⠜⣂⠦⡑⡰⢈⠖⡌⢆⡙⢆⠳⣢⠓⡬⢓⡹⡼⣽⣻⣽⣳⢯⡛⢤⡛⣬⢱⣋⠴⣃⢏⡼⢱⡸⢬⢓⠳⣎⢿⣘⡳⣆⣏⣞⣱⢫⡼⣹⢏⣟⣳⢳⠖⡦⠤⢤⣀⡀⠄⠄⠄⠄⠄⠈⠄⠄⠈⠄⠂⠁⠄⢊</tspan></text>
+<text x="13" y="601.80" textLength="1142.40" lengthAdjust="spacingAndGlyphs"><tspan fill="#c0caf5">⡘⠄⡃⠌⠌⡑⢂⠡⢀⡁⢂⠅⢒⡈⠤⢈⠒⠄⡃⠜⣀⠒⣈⠱⢀⠣⡘⢄⠃⡒⠨⠄⡃⠔⢢⢡⢑⠢⢒⡉⢆⠣⡔⢌⡱⢨⢑⢢⢒⠡⠐⣈⠚⡜⣢⠹⣌⡳⢥⡛⡼⣩⠳⣝⣳⣻⢾⡽⢃⡎⢧⡹⣔⢣⢎⠳⣉⠶⣌⠳⣌⢣⢞⡙⣎⢣⢣⡕⢮⡔⠮⣥⢋⡳⢣⡛⢦⢍⠫⡜⡱⢋⡶⢤⣭⢓⠤⣀⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄</tspan></text>
+<text x="13" y="617.80" textLength="1142.40" lengthAdjust="spacingAndGlyphs"><tspan fill="#c0caf5">⠐⢠⠐⣈⠐⡀⢂⠐⡠⠐⡈⢌⠂⡄⠣⡈⠆⠱⢈⠂⠤⢁⠂⡄⠃⠤⡁⢆⡘⠄⢣⠘⡠⢉⠆⣂⠎⣡⠃⡜⣈⠖⡌⣂⠖⡥⢊⢦⠩⣀⠑⠠⡙⣌⢧⠳⣌⡳⣝⢮⡵⣣⢟⡼⣳⣽⢋⡴⢫⡜⣣⠳⣌⡓⣎⢳⠩⡖⢥⢋⡴⣩⢎⡵⢊⢧⠳⣘⢇⠞⣱⢊⡵⢣⠇⡑⡎⣌⢳⡼⣙⠏⣴⢣⣎⡽⣲⣍⠲⣄⠄⠄⠄⠄⠄⠄⠄⠄⠄</tspan></text>
+<text x="13" y="633.80" textLength="1142.40" lengthAdjust="spacingAndGlyphs"><tspan fill="#c0caf5">⠘⠄⡌⢀⠂⣁⠂⢌⠠⠑⡈⢄⢃⠰⡁⠔⡨⢁⠆⣩⠐⡌⠒⡌⡑⢢⠑⠤⡘⢌⠢⡑⠰⢃⡜⢠⠚⠤⡙⠤⣃⠜⡰⣍⢚⡬⡙⠦⡑⠄⢀⢣⠐⡜⢮⣳⣭⢳⡝⣮⢳⡭⢞⣱⡟⢤⣋⠖⣧⢚⡥⣛⢤⡙⢤⢃⡳⠜⡡⢎⣖⢣⢏⡴⣋⢎⡳⣉⠮⡜⣥⠚⡔⠣⣌⡱⣚⡼⢣⢓⡵⣺⢵⣫⢞⡵⣳⢞⡳⣌⠳⣄⠄⠄⠄⠄⠄⠄⠄</tspan></text>
+<text x="13" y="649.80" textLength="1142.40" lengthAdjust="spacingAndGlyphs"><tspan fill="#c0caf5">⢌⠰⡀⠎⡐⠤⡘⢄⢊⠱⡈⠦⡘⢤⠑⣊⠔⢣⡘⢄⠣⠜⡡⢒⡉⢆⡉⢆⠱⡈⡐⢁⠃⢆⡸⢄⢋⠴⣉⠶⣩⢞⡱⢎⡣⢞⡡⢃⠔⠄⢠⢋⡖⢈⡗⣧⢿⣧⢻⠜⠳⠘⠉⢠⡜⢦⡙⡞⡴⢋⡴⢃⠦⡙⡌⢧⢊⡱⣱⢫⡜⣣⠞⡴⣩⢎⡵⣙⢞⡱⣆⢫⡘⡱⢆⡷⡹⢌⠓⣍⠚⢥⠛⣼⢫⡞⣵⣫⠷⣭⢚⡔⢣⠄⠄⠄⠄⠄⠄</tspan></text>
+<text x="13" y="665.80" textLength="1142.40" lengthAdjust="spacingAndGlyphs"><tspan fill="#c0caf5">⢌⠒⣡⠊⡔⢡⠘⡄⢊⠱⣈⠱⡈⢆⠩⡐⡘⠤⡘⢄⠣⡘⢄⠣⡘⠤⡘⢄⢢⡑⡌⢦⠹⣄⠲⣌⠮⣖⡹⢞⡡⢮⡱⣋⠶⣡⠚⡀⠄⠄⠄⠋⠜⠄⠛⠈⠉⠄⠄⠄⠄⠄⣔⢣⠞⣥⠛⡬⢱⡉⢖⡩⢖⡹⢸⠡⢎⠶⣱⢣⠞⣥⢛⡴⣓⠮⡖⣭⠪⡕⡬⢢⡱⢭⡻⠜⣡⢊⠖⣬⡙⢦⡹⣐⢫⡜⢣⣏⠿⣜⣳⣌⢣⢋⡄⠄⠄⠄⠄</tspan></text>
+<text x="13" y="681.80" textLength="1142.40" lengthAdjust="spacingAndGlyphs"><tspan fill="#c0caf5">⠌⡜⢠⠑⡌⢢⠑⡌⢢⠑⡄⢣⠘⡄⢣⠑⡌⢢⠑⡌⢂⠅⡊⠔⢡⢂⡱⢊⢦⡱⡜⢦⣓⠮⡝⢮⣙⠦⡝⢮⡱⢣⢳⡩⠖⡁⠎⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⢠⠹⣌⢳⠚⣤⢫⡔⣣⢞⢢⡕⢮⡔⢣⡙⣎⡳⢥⣫⢟⡬⣓⡞⣥⠻⡼⣅⠳⣍⠲⣥⣛⠧⣑⢞⡰⣋⠞⡴⣙⢦⢳⡩⢖⡹⢆⢺⡹⣝⢶⡹⢦⡙⡔⠄⠄⠄⠄</tspan></text>
+<text x="13" y="697.80" textLength="1142.40" lengthAdjust="spacingAndGlyphs"><tspan fill="#c0caf5">⡘⢄⠣⡘⢠⠃⢌⠰⢁⡘⠄⢣⠘⡠⢁⠒⡨⠐⡌⡰⢁⠎⡐⣉⢆⢧⠚⡥⢲⣡⢛⠼⣌⠳⣍⠳⣌⢷⡹⢣⡝⣥⢣⢣⡙⢌⠂⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⢤⢣⢛⡌⢣⢛⠴⢣⢞⡱⢎⡳⡜⣣⠎⢧⡙⣦⢝⡲⣝⢮⡳⣱⠞⡵⣫⠷⣌⢳⡜⣳⢧⡋⡼⡱⢎⡵⣩⢚⠥⣍⠎⡥⡓⢭⠲⡍⢆⢳⡙⣮⣛⢧⡳⡘⡄⠄⠄⠄</tspan></text>
+<text x="13" y="713.80" textLength="1142.40" lengthAdjust="spacingAndGlyphs"><tspan fill="#c0caf5">⠌⡂⢅⠢⢁⠌⢂⠢⠡⡐⢌⢂⠱⡀⢣⠘⢄⠣⡐⢡⢊⠴⠱⣌⢎⢎⡝⢆⣇⠲⡍⣞⢬⢳⢬⠳⣌⠲⣌⠧⡜⣤⠓⢦⡉⠂⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⢀⡘⣆⠯⣘⢎⣓⣋⠞⡥⢎⡱⢍⢖⡩⢆⡛⢦⡝⢦⢫⡕⣎⣳⢣⣓⢯⢳⣣⠟⣬⢓⡾⡹⢆⣱⢳⡹⢭⡲⢥⣋⢞⡤⣛⠴⣙⠬⢣⡹⠌⢦⡙⢦⡹⢎⣗⢳⡐⠄⠄⠄</tspan></text>
+<text x="13" y="729.80" textLength="1142.40" lengthAdjust="spacingAndGlyphs"><tspan fill="#c0caf5">⠂⡅⢂⠌⠄⠌⢂⠔⡁⠒⡌⠂⡅⢂⠡⠌⢂⠱⣈⠵⣊⠜⡱⣌⠺⡜⡜⣎⠴⡣⢽⡸⢎⡳⢎⡳⢎⠳⡜⣜⢲⡡⢛⢆⡘⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⣀⠦⢓⣬⠳⡍⢎⠴⣉⠜⣡⠍⣜⢩⠬⣑⢮⣙⠦⡝⣎⢳⡜⣲⠱⡯⣜⢮⡳⣭⠏⣖⢯⡳⣍⣎⢧⣏⢷⣫⣝⢧⡟⣮⢗⣯⣛⡮⣟⣥⢳⣝⢢⡑⢦⡙⢎⡜⢧⠎⠄⠄⠄</tspan></text>
+<text x="13" y="745.80" textLength="1142.40" lengthAdjust="spacingAndGlyphs"><tspan fill="#c0caf5">⢁⠢⢁⠌⢂⠜⡀⠆⢌⠡⡐⢡⠐⡈⠔⡈⢆⠵⣊⢖⣡⢋⠵⣌⢳⡹⢜⢢⡝⡜⡣⡝⢣⡕⣫⡖⣭⠳⡍⡖⡣⢭⢍⡂⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⣀⠴⣊⢴⡫⢖⠭⡘⣌⠲⣌⡚⢥⡚⡜⢮⡱⢭⡲⣍⢞⡱⣎⢷⡙⢦⡛⣵⣊⢷⡹⢮⡝⣞⢧⣛⣴⢫⡞⣎⢧⡳⢎⠷⡹⢎⡛⢶⡩⢳⢍⡞⡱⣊⠧⡘⢦⡘⡜⡘⢦⠩⠄⠄⠄</tspan></text>
+<text x="13" y="761.80" textLength="1142.40" lengthAdjust="spacingAndGlyphs"><tspan fill="#c0caf5">⠢⡑⢌⠢⣁⠒⡌⡘⢄⠣⡘⢄⠣⡘⠤⡑⢎⡲⣝⢪⢔⡋⠶⣌⠷⣩⠎⢧⡜⡜⡱⣌⠳⣜⢻⡛⢴⠹⡜⣱⡙⢆⠎⠄⠄⠄⠄⠄⠄⠄⠄⢀⢠⢚⣬⠲⣍⠶⡙⢎⠲⡱⢌⡓⢦⡙⢦⡹⣜⢣⡝⣲⠳⡜⢮⠳⡝⡮⣝⢦⡙⢶⣩⢞⡽⣣⠟⣮⢳⡞⣎⢷⡙⢮⡱⢎⣍⡚⣥⢫⡜⢦⢳⠭⡶⡘⡵⢃⢮⡑⢦⠱⣌⠳⢌⠱⠄⠄⠄</tspan></text>
+<text x="13" y="777.80" textLength="1142.40" lengthAdjust="spacingAndGlyphs"><tspan fill="#c0caf5">⠱⡈⢆⠱⢠⠃⡔⢡⠊⡔⢡⠊⡔⠡⢢⡙⢢⣓⢮⢓⠮⣍⠳⢮⡝⣲⡙⢦⡹⢌⠳⢌⠳⡌⢦⡙⢮⡱⡹⢤⣋⡜⠄⠄⠄⠄⠄⠄⠄⠄⣀⢎⣥⡹⢮⡙⣎⠧⡙⣌⢧⡱⢫⡜⣣⡝⣲⡱⣎⢷⡹⣇⢯⡝⣮⠷⣝⡳⡽⣎⠷⣌⢲⣫⢞⡧⡟⡼⢧⡻⣜⢣⡙⢦⡓⣭⢲⣝⣲⢳⡞⣭⣏⠿⣜⣳⡔⡩⢲⡙⢦⡓⡌⢎⠄⢣⠄⠄⠄</tspan></text>
+<text x="13" y="793.80" textLength="1142.40" lengthAdjust="spacingAndGlyphs"><tspan fill="#c0caf5">⢡⠐⡌⢢⢁⠒⡈⢄⠒⡌⢢⠑⡌⡑⢦⡙⢦⡙⣎⢮⡱⢎⡝⢣⠞⣡⠞⣥⠳⣌⡚⣤⢓⡜⣢⠙⣆⢳⡙⢦⡱⠌⠄⠄⢀⠄⠂⠄⠄⡱⡜⣎⠶⣙⠶⣙⠆⡧⣙⢖⡪⣕⣣⡝⡶⣙⢶⡹⣎⢷⡹⣜⣣⢻⣜⠻⣜⢳⣙⣞⡳⢌⠲⣭⢎⢷⡹⣝⢧⡛⣤⢧⡝⡶⡽⣎⠷⣎⢷⣫⢞⡷⣭⢿⡹⣖⢯⣳⠠⡙⢦⡹⠜⡬⡘⠤⠄⠄⠄</tspan></text>
+<text x="13" y="809.80" textLength="1142.40" lengthAdjust="spacingAndGlyphs"><tspan fill="#c0caf5">⢢⠱⣈⠦⡘⢢⠉⢆⠱⡈⢆⠱⢂⡑⢦⡙⣦⠝⣎⢖⡹⢎⡜⣣⢛⣬⢛⡴⢓⡌⠳⡜⢪⡜⢥⡛⢬⢧⣙⠶⡑⠄⠄⢀⠄⠄⠄⢀⡼⣱⢚⡼⣙⢮⠳⣌⢏⡴⢭⢎⡵⣚⠶⣹⢼⣙⢮⡳⡝⢮⡕⢮⡵⢳⣎⠿⣬⢳⡱⢎⡝⣮⡝⡾⣍⢮⢵⣫⢶⡹⣎⢷⣹⡳⣝⠾⣹⢎⡳⡝⢮⠳⡝⢮⢳⡹⢎⡵⢣⠘⠤⣩⠛⡴⢡⠂⠄⠄⠄</tspan></text>
+<text x="13" y="825.80" textLength="1142.40" lengthAdjust="spacingAndGlyphs"><tspan fill="#c0caf5">⢢⠑⡤⢒⠡⢆⡩⢢⡑⡌⠦⣉⠖⣌⠲⣙⢦⡛⣜⠮⣱⢋⡼⡱⣏⠶⣩⡜⣣⢞⡳⣍⡳⡜⢦⡙⢎⡶⣩⢓⠁⠄⠄⠄⠄⠄⠄⣜⡲⣣⠟⡼⣩⠞⡱⢎⡾⣘⡗⢮⠳⡭⣏⡳⢮⡝⣮⢱⡛⢦⡹⣓⣞⡳⣎⠿⣜⡳⣝⠯⣜⡳⡼⡱⢎⣛⢮⢧⢫⢷⡹⢎⢳⠹⣌⠳⡱⢪⡑⣎⢇⠻⡜⢭⠲⣙⠞⡴⢃⢣⠒⡄⣛⢌⠧⡘⠄⠄⠄</tspan></text>
+<text x="13" y="841.80" textLength="1142.40" lengthAdjust="spacingAndGlyphs"><tspan fill="#c0caf5">⠆⣍⡐⢣⠉⢆⡑⠢⠔⡡⢒⠡⢊⡄⠣⡝⢮⡱⣎⠳⣅⠮⡵⣛⣬⢛⡵⢎⡳⣎⡵⢮⢵⡩⢇⡝⢮⡕⣏⠎⠄⠄⠈⠄⠄⢀⢠⢯⢵⢣⡛⡼⡱⢎⡳⣏⡞⡵⡺⣍⢟⣱⢏⣳⢏⠾⣜⢣⡛⢦⣛⡵⣎⠷⣭⢻⡼⣹⢎⣟⣸⢳⡱⡹⠜⡜⣊⢎⡣⢦⣙⢎⣧⢳⣬⡳⣍⣧⢽⣘⢮⣳⣙⢦⡛⣤⡛⡴⣉⠆⢣⡐⢡⢎⠳⣐⣤⣾⣿</tspan></text>
+<text x="13" y="857.80" textLength="1142.40" lengthAdjust="spacingAndGlyphs"><tspan fill="#c0caf5">⡘⠤⡘⠤⡉⢆⡘⢡⠃⡜⠠⢍⠢⢌⠱⡎⢧⢳⣌⠳⣬⣛⡵⡳⣎⠟⣜⢣⡝⣲⡙⣎⠶⣙⢎⡜⣣⠟⡤⠄⠄⠠⠄⠄⡀⠄⡼⣩⢎⡶⣙⢶⣙⢮⣳⢓⢮⡱⣋⣬⢋⠶⣩⢖⣫⢛⡬⢳⡙⢦⢏⡼⣭⡛⣖⠯⣜⡣⢏⠶⣸⢇⠲⣍⡹⢜⣡⢮⡵⣣⢟⡞⢮⡛⢶⣙⠳⣎⠷⣩⠗⣧⣛⢾⣹⢣⡟⣵⢋⡦⣁⠜⣠⣏⢷⣿⣿⣿⣿</tspan></text>
+<text x="13" y="873.80" textLength="1142.40" lengthAdjust="spacingAndGlyphs"><tspan fill="#c0caf5">⡘⠤⡑⢢⠑⢢⠘⡄⠣⠌⡱⢈⠒⡌⢲⡹⢌⡳⣌⠳⡼⣱⢞⡵⣫⢝⡎⠶⡱⢥⠳⣬⢳⡩⢚⡼⢣⠏⠄⠄⠄⠄⠄⠄⠄⠄⣏⢗⣫⡜⣭⢺⡭⢞⡬⣏⠶⣱⢣⠖⣭⠺⡵⢎⡳⣝⠺⢥⡛⡼⢮⡝⢶⡝⣎⣛⢦⡝⣎⡳⣙⢎⡱⢜⡢⢏⡼⣣⠟⡵⢫⢞⡳⢋⠷⣩⢛⡼⢫⢷⡻⢶⣛⣮⢳⢯⡝⢮⣝⣲⣳⣾⣿⣞⣿⣿⣿⣿⣿</tspan></text>
+<text x="13" y="889.80" textLength="1142.40" lengthAdjust="spacingAndGlyphs"><tspan fill="#c0caf5">⡘⠤⡑⢢⠉⢆⠱⡈⢆⠱⣀⠣⡘⢄⡣⢝⢦⡑⢎⣳⢣⡝⣮⢳⡱⡞⣜⣣⢓⣎⠳⣌⢧⠓⣭⠞⡭⠂⠄⠄⠁⠄⠄⢀⠄⢸⢎⡟⢦⡝⣮⢳⡜⣧⢛⡴⣋⡖⣏⠾⡱⣏⠷⣫⠳⢬⣼⢡⢞⡱⢏⡞⣣⣛⡬⡝⢦⡹⣎⠵⣙⠮⡜⢢⡝⢦⡹⢖⡹⡜⣩⢎⡜⣍⠳⡥⢏⢶⡩⢖⡭⢳⡹⢎⣟⡮⣝⡳⣬⣿⣿⣟⡳⣞⢿⣻⡟⣿⣹</tspan></text>
+<text x="13" y="905.80" textLength="1142.40" lengthAdjust="spacingAndGlyphs"><tspan fill="#c0caf5">⠰⢡⠘⠤⢉⠂⠥⠘⡄⠣⠄⢃⠜⡠⢝⠪⡖⣭⢚⢄⣣⡞⣥⢳⠽⡜⠦⣧⢏⡼⢫⡜⢮⡙⡶⣋⠖⠄⠄⠈⠄⠄⠄⠄⠄⡞⣭⣚⢧⠻⡜⣧⢛⣬⢓⢮⡱⡝⢮⣝⡳⢎⡟⣱⢋⡤⢣⢏⠮⣵⢫⡞⣵⢣⡳⡭⣇⢟⡬⢳⣙⠮⡝⢦⡙⢆⡹⢌⠳⠍⠳⠮⢜⣎⢧⣙⢎⠶⣩⠳⣜⢣⡝⣎⢲⡹⢮⡱⣯⣟⣾⢣⣟⡼⢯⣷⢻⡵⣯</tspan></text>
+<text x="13" y="921.80" textLength="1142.40" lengthAdjust="spacingAndGlyphs"><tspan fill="#c0caf5">⢁⢂⡉⠰⠈⡔⡈⠆⠰⡁⠜⡠⠒⢄⢫⢖⡹⠤⣏⡌⡛⡴⣎⠟⡮⡝⢳⡘⢮⢼⣷⡼⣡⢹⡱⢃⠄⠄⠈⠄⠄⡀⠁⠄⠠⣟⡲⣭⢺⡽⣹⢬⢏⠶⣙⣮⢱⣭⢳⢎⣳⢫⠼⣡⢋⠖⣩⢎⡽⣎⡷⣹⢎⡷⡹⣖⢭⣞⡱⣇⢏⠞⡹⠂⠙⢂⠰⣀⠲⢌⠣⢖⡢⣔⠨⡙⢮⡳⣍⠷⣎⡳⡜⣜⢣⡝⣭⣷⣿⡿⣭⡟⣼⣽⣻⣞⡯⣷⣫</tspan></text>
+<text x="13" y="937.80" textLength="1142.40" lengthAdjust="spacingAndGlyphs"><tspan fill="#c0caf5">⢂⠂⠌⠡⠡⢐⠠⠉⡔⠈⡔⢠⠑⡈⢆⣏⠲⡙⢶⣩⠳⣝⠼⡹⢖⣍⠣⢎⡵⢊⢭⡒⢥⡛⡬⠁⠄⠄⠄⠄⠄⠄⠄⠄⢸⡵⢳⣣⢟⡼⣣⢏⠮⣝⡳⣎⠧⣎⡹⢎⠵⣋⠷⡡⢎⠳⣬⢻⡜⣧⢻⣥⢻⡜⣳⢎⠷⠌⠓⢈⠠⡐⠤⣨⠑⡎⣔⢢⠣⣌⠹⡌⠵⣊⢳⡑⣆⠹⣬⠳⣍⢷⡹⣌⠳⣜⣷⣿⣿⣟⣧⡟⣷⣿⣿⣿⣽⣳⢯</tspan></text>
+<text x="13" y="953.80" textLength="1142.40" lengthAdjust="spacingAndGlyphs"><tspan fill="#c0caf5">⠠⢌⡐⢡⠊⠔⢂⠱⣀⠣⠘⡄⢣⠘⠤⢎⡳⣙⠖⣦⠹⣜⢲⡙⠶⣨⢛⡼⡰⣉⠦⣙⢦⢛⠄⠄⠄⠄⢀⠄⠠⠐⠄⠠⢸⡝⣧⣛⢮⢳⡱⣎⢟⡼⢳⣍⡖⣧⡹⣎⢷⣩⠶⣙⢎⡳⣭⡳⡟⡼⠳⠎⠣⠙⠄⡌⣄⢢⠱⣌⠱⡩⢖⣡⠛⡴⣊⠧⡳⣌⠳⢬⡑⢎⡱⡘⡜⢢⢌⠻⣜⢎⡳⣭⢳⣽⣿⣿⣿⢿⣼⣿⣿⣿⣿⣿⣿⣿⣯</tspan></text>
+<text x="13" y="969.80" textLength="1142.40" lengthAdjust="spacingAndGlyphs"><tspan fill="#c0caf5">⢁⠂⠔⢂⠡⢊⠄⡃⠤⡈⢅⠒⡤⣉⠎⡥⠳⣍⠾⣰⢋⢦⢣⡝⢣⢇⡫⡔⢣⠜⢢⡙⡎⠌⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⡽⣸⢠⡍⣎⢧⣓⠮⣏⢞⡱⠎⡼⠲⠹⢌⠓⠎⠓⠉⠈⠁⠁⢁⠄⢄⠠⣐⢢⠡⢣⠔⣢⢃⡳⣌⢣⢓⡭⢲⡙⢶⡡⢏⡱⢎⡝⡢⢍⠲⡱⣩⠜⡡⢎⡅⢛⣮⢱⣫⣿⣿⣿⣿⣿⣿⣾⣿⣿⣿⣿⣿⣿⣿⣿</tspan></text>
+<text x="13" y="985.80" textLength="1142.40" lengthAdjust="spacingAndGlyphs"><tspan fill="#c0caf5">⠢⡉⠜⡠⠃⡌⠢⠑⠢⢑⡈⠴⡱⢌⣎⢱⢫⡜⣣⠇⣯⠸⣥⢚⡕⢮⣱⣭⣷⣾⡷⣼⣤⣀⣀⢀⠄⠄⠄⠄⠄⠄⠄⢠⠳⣥⠳⡜⢎⡳⣈⢣⡄⢦⣄⡱⢤⡡⢅⢢⡐⢆⢆⠳⡘⡬⡑⣎⡘⢆⣇⠲⣌⢣⠓⡎⡴⢫⠴⣙⡎⣎⡜⣣⠝⣦⡙⢮⡑⠮⣜⡱⣉⠶⡱⢡⠞⡱⢌⡜⢢⠜⣧⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿</tspan></text>
+<text x="13" y="1001.80" textLength="1142.40" lengthAdjust="spacingAndGlyphs"><tspan fill="#c0caf5">⢡⠘⡠⢁⠒⡄⢣⠉⢆⢡⢂⠷⣈⠒⣌⢒⢣⢞⣡⢛⡴⣋⠶⣭⣾⣿⣿⣿⣿⣿⣿⣿⡾⣽⣎⡿⣜⣳⢲⡤⢤⣄⢠⣈⠱⣄⡳⣜⣣⠷⣩⣗⢾⣣⣞⡼⣣⢳⡍⡶⢩⠞⣌⢣⡝⣴⡙⢶⡙⣎⢦⢳⣬⢣⢟⡸⡱⣋⡼⢣⠞⣤⡙⢦⡛⡴⣙⠦⣝⠣⡔⣣⠳⣌⠱⣉⢞⡱⢎⡼⣡⠚⡼⣻⢯⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿</tspan></text>
+<text x="13" y="1017.80" textLength="1142.40" lengthAdjust="spacingAndGlyphs"><tspan fill="#c0caf5">⠢⡑⢄⠣⡘⢄⠣⡘⢌⠢⢌⢳⡉⡖⣐⢊⡞⡜⢦⣫⣶⢿⣿⣿⣿⣿⣿⣿⢿⣻⡽⣧⣿⣱⣟⡾⣵⣫⢷⣹⠷⣮⢷⣎⡷⣎⡷⣮⣳⢯⡷⣯⣟⡷⣯⢷⣫⢷⡹⡞⣥⠻⣔⡫⢼⡲⣝⢣⡟⣬⢓⡧⣞⣣⢏⠶⣱⢣⣝⢣⣛⠴⣙⢦⡙⢶⡩⢞⡬⣓⢬⡑⢳⣌⠳⣌⠺⣔⢫⡖⣥⢛⡴⣯⣿⣯⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿</tspan></text>
+</g>
+</g>
+<text fill="#c0caf5" font-size="10px">
+<tspan x="24" y="492" fill="#565f89">-------------------------------------------------</tspan>
+<tspan x="24" y="512"><tspan fill="#bb9af7">[#] BIOMETRIC NEURAL MATRIX</tspan>       <tspan fill="#7dcfff">[SYS: OK]</tspan></tspan>
+<tspan x="24" y="532"><tspan class="dots">. </tspan><tspan class="key">HNSW Vector Retrieval</tspan>:<tspan class="dots"> ........ </tspan><tspan class="value">Sub-200ms RAG</tspan></tspan>
+<tspan x="24" y="552"><tspan class="dots">. </tspan><tspan class="key">OrderCore Engine</tspan>:<tspan class="dots"> ......... </tspan><tspan class="value">136k ops | 4.3µs</tspan></tspan>
+<tspan x="24" y="572"><tspan class="dots">. </tspan><tspan class="key">Production Tests</tspan>:<tspan class="dots"> .......... </tspan><tspan class="value">555+ Passing ⚡</tspan></tspan>
+<tspan x="24" y="592" fill="#565f89">-------------------------------------------------</tspan>
 </text>
 
 <text fill="#c0caf5" font-size="16px">
@@ -98,25 +126,25 @@ text, tspan {white-space: pre;}
 <tspan x="369" y="586"><tspan class="dots">- </tspan>Status <tspan class="dots">-------------------------------------------------------</tspan></tspan>
 <tspan x="369" y="606"><tspan class="dots">. </tspan><tspan class="key">Currently</tspan>:<tspan class="dots"> ............ </tspan><tspan class="value">shipping_ai_systems() // top 0.000001%</tspan></tspan>
 </text>
-<text class="thought" x="56" y="159" font-size="12px" fill="#bb9af7" style="--drift: -12px; animation-duration: 6.45s; animation-delay: -4.20s">AI</text>
-<text class="thought" x="57" y="159" font-size="16px" fill="#7dcfff" style="--drift: -5px; animation-duration: 6.17s; animation-delay: -3.13s">LLM</text>
-<text class="thought" x="57" y="159" font-size="12px" fill="#565f89" style="--drift: -13px; animation-duration: 6.27s; animation-delay: -2.66s">RAG</text>
-<text class="thought" x="57" y="159" font-size="13px" fill="#bb9af7" style="--drift: -10px; animation-duration: 7.19s; animation-delay: -7.02s">PyTorch</text>
-<text class="thought" x="58" y="159" font-size="13px" fill="#7dcfff" style="--drift: 10px; animation-duration: 6.43s; animation-delay: -0.76s">FastAPI</text>
-<text class="thought" x="58" y="159" font-size="12px" fill="#565f89" style="--drift: -9px; animation-duration: 7.71s; animation-delay: -1.45s">ChromaDB</text>
-<text class="thought" x="58" y="159" font-size="16px" fill="#bb9af7" style="--drift: 12px; animation-duration: 7.86s; animation-delay: -3.90s">HNSW</text>
-<text class="thought" x="58" y="159" font-size="13px" fill="#7dcfff" style="--drift: -11px; animation-duration: 7.36s; animation-delay: -2.21s">136k ops/s</text>
-<text class="thought" x="58" y="159" font-size="14px" fill="#565f89" style="--drift: 11px; animation-duration: 6.90s; animation-delay: -3.42s">4.3µs</text>
-<text class="thought" x="59" y="159" font-size="13px" fill="#bb9af7" style="--drift: -12px; animation-duration: 6.22s; animation-delay: -3.18s">CUDA</text>
-<text class="thought" x="59" y="148" font-size="14px" fill="#7dcfff" style="--drift: -12px; animation-duration: 7.27s; animation-delay: -6.99s">loss</text>
-<text class="thought" x="59" y="148" font-size="12px" fill="#565f89" style="--drift: 5px; animation-duration: 7.05s; animation-delay: -3.50s">weights</text>
-<text class="thought" x="60" y="148" font-size="14px" fill="#bb9af7" style="--drift: -11px; animation-duration: 7.42s; animation-delay: -4.93s">e^iπ</text>
-<text class="thought" x="60" y="148" font-size="14px" fill="#7dcfff" style="--drift: 11px; animation-duration: 8.98s; animation-delay: -7.38s">O(log n)</text>
-<text class="thought" x="60" y="148" font-size="13px" fill="#565f89" style="--drift: -9px; animation-duration: 7.39s; animation-delay: -1.24s">def</text>
-<text class="thought" x="60" y="148" font-size="16px" fill="#bb9af7" style="--drift: 13px; animation-duration: 6.39s; animation-delay: -1.58s">async</text>
-<text class="thought" x="61" y="148" font-size="14px" fill="#7dcfff" style="--drift: -12px; animation-duration: 7.35s; animation-delay: -4.04s">await</text>
-<text class="thought" x="61" y="148" font-size="13px" fill="#565f89" style="--drift: 14px; animation-duration: 8.96s; animation-delay: -6.12s">optimizer.step</text>
-<text class="thought" x="61" y="148" font-size="13px" fill="#bb9af7" style="--drift: -9px; animation-duration: 6.45s; animation-delay: -4.25s">MCP</text>
-<text class="thought" x="61" y="148" font-size="14px" fill="#7dcfff" style="--drift: 10px; animation-duration: 6.01s; animation-delay: -2.52s">agent.run</text>
-<text class="thought" x="62" y="148" font-size="16px" fill="#565f89" style="--drift: -9px; animation-duration: 8.07s; animation-delay: -4.16s">Grounded</text>
+<text class="thought" x="90" y="158" font-size="12px" fill="#bb9af7" style="--drift: -12px; animation-duration: 6.45s; animation-delay: -4.20s">AI</text>
+<text class="thought" x="127" y="153" font-size="16px" fill="#7dcfff" style="--drift: -5px; animation-duration: 6.17s; animation-delay: -3.13s">LLM</text>
+<text class="thought" x="164" y="148" font-size="12px" fill="#565f89" style="--drift: -13px; animation-duration: 6.27s; animation-delay: -2.66s">RAG</text>
+<text class="thought" x="201" y="155" font-size="13px" fill="#bb9af7" style="--drift: -10px; animation-duration: 7.19s; animation-delay: -7.02s">PyTorch</text>
+<text class="thought" x="238" y="150" font-size="13px" fill="#7dcfff" style="--drift: 10px; animation-duration: 6.43s; animation-delay: -0.76s">FastAPI</text>
+<text class="thought" x="125" y="157" font-size="12px" fill="#565f89" style="--drift: -9px; animation-duration: 7.71s; animation-delay: -1.45s">ChromaDB</text>
+<text class="thought" x="162" y="152" font-size="16px" fill="#bb9af7" style="--drift: 12px; animation-duration: 7.86s; animation-delay: -3.90s">HNSW</text>
+<text class="thought" x="199" y="147" font-size="13px" fill="#7dcfff" style="--drift: -11px; animation-duration: 7.36s; animation-delay: -2.21s">136k ops/s</text>
+<text class="thought" x="236" y="154" font-size="14px" fill="#565f89" style="--drift: 11px; animation-duration: 6.90s; animation-delay: -3.42s">4.3µs</text>
+<text class="thought" x="123" y="149" font-size="13px" fill="#bb9af7" style="--drift: -12px; animation-duration: 6.22s; animation-delay: -3.18s">CUDA</text>
+<text class="thought" x="160" y="156" font-size="14px" fill="#7dcfff" style="--drift: -12px; animation-duration: 7.27s; animation-delay: -6.99s">loss</text>
+<text class="thought" x="197" y="151" font-size="12px" fill="#565f89" style="--drift: 5px; animation-duration: 7.05s; animation-delay: -3.50s">weights</text>
+<text class="thought" x="234" y="158" font-size="14px" fill="#bb9af7" style="--drift: -11px; animation-duration: 7.42s; animation-delay: -4.93s">e^iπ</text>
+<text class="thought" x="121" y="153" font-size="14px" fill="#7dcfff" style="--drift: 11px; animation-duration: 8.98s; animation-delay: -7.38s">O(log n)</text>
+<text class="thought" x="158" y="148" font-size="13px" fill="#565f89" style="--drift: -9px; animation-duration: 7.39s; animation-delay: -1.24s">def</text>
+<text class="thought" x="195" y="155" font-size="16px" fill="#bb9af7" style="--drift: 13px; animation-duration: 6.39s; animation-delay: -1.58s">async</text>
+<text class="thought" x="232" y="150" font-size="14px" fill="#7dcfff" style="--drift: -12px; animation-duration: 7.35s; animation-delay: -4.04s">await</text>
+<text class="thought" x="119" y="157" font-size="13px" fill="#565f89" style="--drift: 14px; animation-duration: 8.96s; animation-delay: -6.12s">optimizer.step</text>
+<text class="thought" x="156" y="152" font-size="13px" fill="#bb9af7" style="--drift: -9px; animation-duration: 6.45s; animation-delay: -4.25s">MCP</text>
+<text class="thought" x="193" y="147" font-size="14px" fill="#7dcfff" style="--drift: 10px; animation-duration: 6.01s; animation-delay: -2.52s">agent.run</text>
+<text class="thought" x="230" y="154" font-size="16px" fill="#565f89" style="--drift: -9px; animation-duration: 8.07s; animation-delay: -4.16s">Grounded</text>
 </svg>

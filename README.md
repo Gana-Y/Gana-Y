@@ -83,11 +83,15 @@
 ---
 
 <!-- ================================================================ -->
-<!--             Personal ASCII / Braille Matrix Portrait             -->
+<!--           Neural Workstation Animated ASCII Profile Card         -->
 <!-- ================================================================ -->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Gana-Y/Gana-Y/main/ascii-portrait.svg" width="720" alt="Ganesh Yandigeri ASCII Matrix Portrait"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gana-Y/Gana-Y/main/dark_mode.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gana-Y/Gana-Y/main/light_mode.svg">
+    <img alt="Ganesh Yandigeri Animated ASCII Terminal Profile Card" src="https://raw.githubusercontent.com/Gana-Y/Gana-Y/main/dark_mode.svg" width="850">
+  </picture>
 </div>
 
 ---
