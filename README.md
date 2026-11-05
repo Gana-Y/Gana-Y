@@ -221,15 +221,28 @@ print(me.ship_code())
 
 ## ⚡ Live Infographics & Architecture Metrics
 
-<div align="center">
-  <br/>
+<br/>
+
+### 📊 System Overview & Languages Activity
+<p align="center">
   <img src="github-metrics-overview.svg" alt="Overview Metrics"/>
-  <br/><br/>
+</p>
+
+<br/>
+
+### 📅 3D Isometric Commit Matrix
+<p align="center">
   <img src="github-metrics-calendar.svg" alt="3D Isometric Contributions Calendar"/>
-  <br/><br/>
+</p>
+
+<br/>
+
+### 🎭 Community Sentiment & Reactions
+<p align="center">
   <img src="github-metrics-reactions.svg" alt="Community Reactions"/>
-  <br/><br/>
-</div>
+</p>
+
+<br/>
 
 ---
 
