@@ -223,7 +223,11 @@ print(me.ship_code())
 
 <div align="center">
   <br/>
-  <img src="github-metrics.svg" alt="GitHub Metrics Infographic"/>
+  <img src="github-metrics-overview.svg" alt="Overview Metrics"/>
+  <br/><br/>
+  <img src="github-metrics-calendar.svg" alt="3D Isometric Contributions Calendar"/>
+  <br/><br/>
+  <img src="github-metrics-reactions.svg" alt="Community Reactions"/>
   <br/><br/>
 </div>
 
