@@ -222,7 +222,7 @@ print(me.ship_code())
 ## ⚡ Live Infographics & Architecture Metrics
 
 <div align="center">
-  <img src="github-metrics.svg" alt="GitHub Metrics Infographic" width="650"/>
+  <img src="github-metrics.svg" alt="GitHub Metrics Infographic" width="560"/>
 </div>
 
 ---
