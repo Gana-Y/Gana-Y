@@ -24,12 +24,6 @@ jobs:
           config_timezone: Asia/Kolkata
           filename: github-metrics.svg
 
-          # 🏆 Achievements (Ignored 'manager' to fix sunsetted Projects Classic GraphQL error)
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: C
-          plugin_achievements_ignored: manager
-
           # 📅 3D Isometric Commit Calendar
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
@@ -41,12 +35,6 @@ jobs:
           plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 8
 
-          # 📰 Recent Activity Stream (Fixed event types to avoid API undefined filter error)
-          plugin_activity: yes
-          plugin_activity_limit: 5
-          plugin_activity_days: 14
-          plugin_activity_filter: push, issue, pr, release, star, fork
-
           # 🎟️ Issues & Pull Requests Followup
           plugin_followup: yes
           plugin_followup_sections: user, repositories
@@ -56,3 +44,7 @@ jobs:
           plugin_reactions: yes
           plugin_reactions_display: ring
           plugin_reactions_limit: 200
+
+          # Disabled upstream broken plugins (DOM scraping on sunsetted GitHub search / events API)
+          plugin_achievements: no
+          plugin_activity: no
