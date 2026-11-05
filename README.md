@@ -88,9 +88,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gana-Y/Gana-Y/main/dark_mode.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gana-Y/Gana-Y/main/light_mode.svg">
-    <img alt="Ganesh Yandigeri Animated ASCII Terminal Profile Card" src="https://raw.githubusercontent.com/Gana-Y/Gana-Y/main/dark_mode.svg" width="850">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gana-Y/Gana-Y/main/dark_mode.svg?v=20261105b">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gana-Y/Gana-Y/main/light_mode.svg?v=20261105b">
+    <img alt="Ganesh Yandigeri Animated ASCII Terminal Profile Card" src="https://raw.githubusercontent.com/Gana-Y/Gana-Y/main/dark_mode.svg?v=20261105b" width="850">
   </picture>
 </div>
 

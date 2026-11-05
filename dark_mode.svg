@@ -95,7 +95,7 @@ text, tspan {white-space: pre;}
 </g>
 <text fill="#c0caf5" font-size="10px">
 <tspan x="24" y="492" fill="#565f89">-------------------------------------------------</tspan>
-<tspan x="24" y="512"><tspan fill="#bb9af7">[#] BIOMETRIC NEURAL MATRIX</tspan>       <tspan fill="#7dcfff">[SYS: OK]</tspan></tspan>
+<tspan x="24" y="512"><tspan fill="#bb9af7">[#] AI ENGINEER // NEURAL CORE</tspan>       <tspan fill="#7dcfff">[SYS: OK]</tspan></tspan>
 <tspan x="24" y="532"><tspan class="dots">. </tspan><tspan class="key">HNSW Vector Retrieval</tspan>:<tspan class="dots"> ........ </tspan><tspan class="value">Sub-200ms RAG</tspan></tspan>
 <tspan x="24" y="552"><tspan class="dots">. </tspan><tspan class="key">OrderCore Engine</tspan>:<tspan class="dots"> ......... </tspan><tspan class="value">136k ops | 4.3µs</tspan></tspan>
 <tspan x="24" y="572"><tspan class="dots">. </tspan><tspan class="key">Production Tests</tspan>:<tspan class="dots"> .......... </tspan><tspan class="value">555+ Passing ⚡</tspan></tspan>
@@ -147,6 +147,7 @@ text, tspan {white-space: pre;}
 <text class="thought" x="156" y="152" font-size="13px" fill="#bb9af7" style="--drift: -9px; animation-duration: 6.45s; animation-delay: -4.25s">MCP</text>
 <text class="thought" x="193" y="147" font-size="14px" fill="#7dcfff" style="--drift: 10px; animation-duration: 6.01s; animation-delay: -2.52s">agent.run</text>
 <text class="thought" x="230" y="154" font-size="16px" fill="#565f89" style="--drift: -9px; animation-duration: 8.07s; animation-delay: -4.16s">Grounded</text>
-<text class="thought" x="145" y="152" font-size="16px" font-weight="bold" fill="#7dcfff" style="--drift: 8px; animation-duration: 6.80s; animation-delay: -1.80s">AI Engineer</text>
-<text class="thought" x="180" y="148" font-size="15px" font-weight="bold" fill="#bb9af7" style="--drift: -10px; animation-duration: 7.40s; animation-delay: -5.10s">AI Engineer</text>
+<text class="thought" x="100" y="152" font-size="15px" font-weight="bold" fill="#7dcfff" style="--drift: 8px; animation-duration: 6.50s; animation-delay: 0.00s">AI Engineer</text>
+<text class="thought" x="155" y="148" font-size="16px" font-weight="bold" fill="#bb9af7" style="--drift: -8px; animation-duration: 6.80s; animation-delay: -2.20s">AI Engineer</text>
+<text class="thought" x="200" y="154" font-size="15px" font-weight="bold" fill="#7dcfff" style="--drift: 6px; animation-duration: 7.10s; animation-delay: -4.40s">AI Engineer</text>
 </svg>
