@@ -237,6 +237,13 @@ print(me.ship_code())
 
 <br/>
 
+### 🏆 Engineering Milestones & Achievements
+<p align="center">
+  <img src="github-metrics-achievements.svg" alt="Engineering Achievements Badges"/>
+</p>
+
+<br/>
+
 ### 🎭 Community Sentiment & Reactions
 <p align="center">
   <img src="github-metrics-reactions.svg" alt="Community Reactions"/>
