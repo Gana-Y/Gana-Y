@@ -1,35 +1,48 @@
 <!-- ================================================================ -->
-<!--         Ganesh Yandigeri — Autonomous AI & Systems Engineer       -->
+<!--         Ganesh Yandigeri — Applied AI & Systems Engineer         -->
 <!-- ================================================================ -->
 
 <div align="center">
 
 <h1 align="center">
-  Hey there, I'm Ganesh
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
+  Ganesh Yandigeri
 </h1>
 
 <h3 align="center">
-  ⚡ Autonomous Systems &nbsp;•&nbsp; Applied AI Engineer &nbsp;•&nbsp; High-Throughput Engines
+  <code>AI Systems & Backend Engineer &nbsp;•&nbsp; High-Throughput RAG &nbsp;•&nbsp; Sandboxed Execution &nbsp;•&nbsp; Low-Latency APIs</code>
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=1461FF&center=true&vCenter=true&width=650&lines=Building+production-grade+AI+systems+%F0%9F%9A%80;Hybrid+RAG+%7C+Vector+Embeddings+%7C+Quantized+Inference;High-Throughput+Matching+Engines+%28136k+ops%2Fs%29;Grinding+DSA+Daily+%F0%9F%92%AA+%7C+LeetCode+Top+Tier" alt="Typing SVG"/>
+  <strong>Bangalore, India</strong> &nbsp;•&nbsp; 
+  <a href="mailto:ganeshyandigeri1@gmail.com">ganeshyandigeri1@gmail.com</a> &nbsp;•&nbsp; 
+  <a href="https://ganesh-y.vercel.app">ganesh-y.vercel.app</a>
+</p>
+
+<p align="center">
+  <em>"Bridging foundation models with operating system primitives. Software engineering first; AI applied with telemetry, evals, and strict latency budgets."</em>
 </p>
 
 <!-- ================================================================ -->
-<!--                         [ SOCIAL MEDIA ]                         -->
+<!--                         QUICK VERIFICATION BAR                   -->
 <!-- ================================================================ -->
 
 <p align="center">
-  <code>[ SOCIAL MEDIA ]</code>
+  <img src="https://img.shields.io/badge/MCA%20Candidate-Atria%20Institute%20of%20Tech-1461FF?style=flat-square&logo=academia" alt="Education" />
+  <img src="https://img.shields.io/badge/CGPA-9.35%20%2F%2010.0-success?style=flat-square" alt="CGPA" />
+  <img src="https://img.shields.io/badge/Retrieval%20SLA-Sub--200ms%20HNSW-blueviolet?style=flat-square" alt="SLA" />
+  <img src="https://img.shields.io/badge/Execution%20Telemetry-Sub--millisecond-orange?style=flat-square" alt="Telemetry" />
+  <img src="https://img.shields.io/badge/Automated%20Tests-100%25%20Passing%20(Pytest)-brightgreen?style=flat-square" alt="Pytest" />
 </p>
+
+<!-- ================================================================ -->
+<!--                         CONNECTIVITY LINKS                       -->
+<!-- ================================================================ -->
 
 <p align="center">
   <a href="https://github.com/Gana-Y">
     <img src="https://img.shields.io/badge/GITHUB-%23000000.svg?style=for-the-badge&logo=github&logoColor=white"/>
   </a>&nbsp;
-  <a href="https://www.linkedin.com/in/ganesh-yandigeri-988821287">
+  <a href="https://www.linkedin.com/in/ganesh-yandigeri">
     <img src="https://img.shields.io/badge/LINKEDIN-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>&nbsp;
   <a href="https://x.com/Ganesh821060">
@@ -38,44 +51,22 @@
   <a href="mailto:ganeshyandigeri1@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>&nbsp;
-  <a href="https://ganesh-portfolio-zjcx.vercel.app">
+  <a href="https://ganesh-y.vercel.app">
     <img src="https://img.shields.io/badge/PORTFOLIO-%230077B5.svg?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>&nbsp;
   <img src="https://komarev.com/ghpvc/?username=Gana-Y&label=Profile+Views&color=1461FF&style=for-the-badge"/>
 </p>
 
 <!-- ================================================================ -->
-<!--                          SKILL PILLS                             -->
+<!--                         SYSTEMS TECH STACK                       -->
 <!-- ================================================================ -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/python-161b22?style=for-the-badge&logo=python&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Git-161b22?style=for-the-badge&logo=git&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Docker-161b22?style=for-the-badge&logo=docker&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Linux-161b22?style=for-the-badge&logo=linux&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/React-161b22?style=for-the-badge&logo=react&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/TypeScript-161b22?style=for-the-badge&logo=typescript&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-161b22?style=for-the-badge&logo=javascript&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/FastAPI-161b22?style=for-the-badge&logo=fastapi&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/PostgreSQL-161b22?style=for-the-badge&logo=postgresql&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Next.js-161b22?style=for-the-badge&logo=nextdotjs&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Tailwind-161b22?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-</p>
-
-<!-- ================================================================ -->
-<!--               ELECTRIC CYAN NEURAL NETWORK GRAPH                 -->
-<!-- ================================================================ -->
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Gana-Y/Gana-Y/main/gitascii_neural.svg" width="800" alt="Neural Network Map"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-1461FF?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Domain-Deep%20Learning-1461FF?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Specialty-LLMs%20%26%20Hybrid%20RAG-1461FF?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Architecture-High%20Throughput-1461FF?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Status-Shipping%20%F0%9F%94%A8-1461FF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Python-3.10%2B%20%7C%20FastAPI%20%7C%20AsyncIO-161b22?style=flat-square&logo=python"/>&nbsp;
+  <img src="https://img.shields.io/badge/Linux%20cgroups%20v2%20%7C%20Docker-161b22?style=flat-square&logo=linux"/>&nbsp;
+  <img src="https://img.shields.io/badge/ChromaDB%20(HNSW)%20%7C%20Redis%20Cache-161b22?style=flat-square&logo=redis"/>&nbsp;
+  <img src="https://img.shields.io/badge/PostgreSQL%20%7C%20SQLAlchemy%20ORM-161b22?style=flat-square&logo=postgresql"/>&nbsp;
+  <img src="https://img.shields.io/badge/React%2019%20%7C%20TypeScript%20%7C%20Tailwind-161b22?style=flat-square&logo=react"/>
 </p>
 
 </div>
@@ -96,115 +87,69 @@
 
 ---
 
-## 👨‍💻 About Me
+## 🏛️ Staff-Level Architectural Showcases
 
-```python
-class GaneshY:
-    """
-    Aspiring AI Engineer | Systems Architect | Problem Solver
-    Location: Bangalore, India 🇮🇳 | Status: Building Production AI 🚀
-    """
-    def __init__(self):
-        self.name      = "Ganesh Y"
-        self.role      = "Applied AI & Systems Engineer"
-        self.focus     = ["Multimodal RAG Pipelines", "High-Throughput Engines", "Distributed Systems"]
-        self.grinding  = ["DSA daily (LeetCode) 💪", "OS • DBMS • Computer Networks • System Design"]
-        self.stack     = ["Python", "PyTorch", "HuggingFace", "LangChain", "FastAPI", "PostgreSQL", "ChromaDB"]
-        self.research  = ["LLM Quantization", "HNSW Vector Retrieval", "Sub-microsecond Matching Engines"]
-        self.metrics   = {"cgpa": "9.35/10", "contributions": "1,200+", "production_tests": "555+ passing"}
+### 🚀 1. Florix AI — Enterprise-Grade Multimodal RAG Platform
+> **Production AI Academic Engine & Real-Time Viva Defense Arbiter**
+> 
+> *Stack: Python, FastAPI (AsyncIO), Google Gemini API, ChromaDB (HNSW), PostgreSQL (SQLAlchemy), SlowAPI, React 19*
 
-    def ship_code(self):
-        return "Transforming complex research into production-grade, sub-millisecond systems. ⚡"
+* **In-Database RAG Architecture:** Ingests high-density technical textbooks, PDFs, and YouTube transcripts with hierarchical parent-child chunking and metadata-filtered dense vector search.
+* **Deterministic Sub-200ms Retrieval:** Engineered custom HNSW index parameters (`M=16`, `ef_construction=64`, `ef_search=40`) delivering sub-200ms semantic search with SQLite/Postgres fallback cascades.
+* **Semantic Caching & Token Economics:** Two-tier Redis cache matching query embeddings at $\tau \ge 0.92$ cosine similarity, dropping median LLM response latency from $1.8\text{s}$ down to $12\text{ms}$ and eliminating redundant API billing.
+* **High-Concurrency Telemetry:** Modeled student streaks, comprehension evaluations, and spaced-repetition memory retention across $15+$ relational PostgreSQL tables via SQLAlchemy with connection-pooled async sessions.
+* **Verification:** Evaluated with automated regression suites across 555+ assertions validating hallucination rates $<2.1\%$.
 
-me = GaneshY()
-print(me.ship_code())
-```
+👉 **[Inspect Florix AI Repository ↗](https://github.com/Gana-Y/Florix_AI)** • **[System Architecture Spec ↗](https://github.com/Gana-Y/Florix_AI#architecture)**
 
 ---
 
-## 🚀 Flagship Systems & Architecture
+### ⚡ 2. Vesper — Isolated Code Execution Engine & 7-State POSIX Arbiter
+> **Hardened Linux Sandbox & Microsecond Code Evaluation Arbiter**
+> 
+> *Stack: Python, Linux cgroups v2, Docker Security Envelopes, Seccomp, POSIX Primitives, Pytest*
 
-<div align="center">
+* **Defense-in-Depth Isolation Envelope:**
+  * **Memory Boundaries:** Enforces strict un-swappable memory ceilings ($128\text{MB}$) via Linux `cgroups v2` (`memory.max`).
+  * **Fork-Bomb Immunity:** Hard-capped thread and process ceilings strictly limited to $64$ execution tasks (`pids.max`).
+  * **Ephemeral Storage:** Root filesystem mounted strictly read-only; execution occurs within ephemeral, zero-persistence `tmpfs` RAM scratchpads unmounted immediately post-verdict.
+  * **Air-Gapped Networking:** Built with `network_mode: none` ensuring zero socket allocation and zero data exfiltration from untrusted user payloads.
+* **7-State Deterministic POSIX State Machine:**
+  * Implements atomic execution verdicts: `AC` (Accepted), `WA` (Wrong Answer), `TLE` (Time Limit Exceeded), `MLE` (Memory Limit Exceeded), `RE` (Runtime Error), `CE` (Compilation Error), and `OLE` (Output Limit Exceeded).
+* **Sub-Millisecond Telemetry:** High-resolution timers recording execution CPU cycles down to sub-millisecond precision. 100% Pytest pass rates across boundary invariants, memory leak regression tests, and security breakout payloads.
 
-| Project | Core Architecture | Key Metric / Highlight | Repository |
-|:---|:---|:---:|:---:|
-| 🧠 **Florix AI** | Full-Stack Multimodal RAG • ChromaDB • Gemini Fallback Cascade | **555+ Passing Regression Tests** | [View Repo ↗](https://github.com/Gana-Y/Florix_AI) |
-| ⚡ **OrderCore** | Heap-Indexed Matching Engine • Lock-Free Concurrency | **136k orders/sec • 4.3µs latency** | [View Repo ↗](https://github.com/Gana-Y/OrderCore) |
-| 🛠️ **vesper-engine** | High-Performance Asynchronous Python Execution Runtime | **Low-latency I/O Multiplexing** | [View Repo ↗](https://github.com/Gana-Y/vesper-engine) |
-
-</div>
-
----
-
-## 🛠️ Technologies & Skills
-
-<div align="center">
-
-### 🧠 Core Languages & Applied AI
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,pytorch,tensorflow&theme=dark" />
-</p>
-
-### ⚡ AI/ML Ecosystem & RAG
-<p align="center">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white"/>
-</p>
-
-### 🌐 High-Throughput Backend & Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,postgresql,mysql,mongodb,redis&theme=dark"/>
-</p>
-
-### 🛠️ Frontend & Modern Web
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,tailwind,html,css&theme=dark"/>
-</p>
-
-### ⚙️ DevOps, Cloud & Systems
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,notion&theme=dark"/>
-</p>
-
-</div>
+👉 **[Inspect Vesper Repository ↗](https://github.com/Gana-Y/vesper-engine)** • **[POSIX State Machine Specification ↗](https://github.com/Gana-Y/vesper-engine#state-machine)**
 
 ---
 
-## 📊 Skill Benchmarks
+### 📈 3. OrderCore — High-Throughput Limit Order Book & Matching Engine
+> **Sub-Microsecond Low-Latency Financial Matching Engine**
+> 
+> *Stack: Python, FastAPI, WebSockets, Dual Priority Heaps, Red-Black Trees, AsyncIO*
 
-<div align="center">
+* **Throughput & Latency Benchmarks:** Processes **$136{,}000\text{ orders/second}$** at a median execution latency of **$4.3\mu\text{s}$**.
+* **Order Book Mechanics:** Dual-heap price-time priority matching engine ($O(1)$ best bid/ask resolution, $O(1)$ amortized cancellations via hash-indexed pointers).
+* **High-Frequency Concurrency:** Non-blocking async event loop streaming live orderbook depth over bidirectional WebSockets.
 
-| Domain | Stack | Benchmark Level |
-|:---|:---|:---|
-| 🐍 Python | Core Language & Async Runtime | `████████████████████` 100% |
-| 🤖 Machine Learning | PyTorch • scikit-learn • Optimization | `███████░░░░░░░░░░░░░` 35% |
-| 🧠 Deep Learning | CNNs • RNNs • Attention & Transformers | `███████░░░░░░░░░░░░░` 35% |
-| ⚡ DSA | LeetCode Patterns • Advanced Algorithms | `█████████░░░░░░░░░░░` 45% |
-| 🔗 LLMs & RAG | HuggingFace • LangChain • Vector Retrieval | `█████░░░░░░░░░░░░░░░` 25% |
-| 🛠️ Backend | FastAPI • High-Concurrency Services | `████████████████░░░░` 80% |
-| 🗄️ Databases | SQL • PostgreSQL • ChromaDB • Redis | `█████████████████░░░` 85% |
-
-> *Benchmarks dynamically updated as production milestones are unlocked 🎯*
-
-</div>
+👉 **[Inspect OrderCore Repository ↗](https://github.com/Gana-Y/OrderCore)**
 
 ---
 
-## 🏆 GitHub Trophies & Achievements
+## 📚 Open-Source Systems & Architecture Vaults
 
-<div align="center">
+Curated technical publications, system design handbooks, and open-source infrastructure tools maintained for the global engineering community:
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy-unserori.vercel.app/?username=Gana-Y&theme=algolia&no-frame=true&no-bg=true&margin-w=4" alt="Ganesh's GitHub Trophies" />
-</a>
-
-</div>
+| Repository | Focus & Architecture | Impact & Highlights |
+|:---|:---|:---:|
+| 🧠 [**LLM-System-Patterns**](https://github.com/Gana-Y/LLM-System-Patterns) | Production RAG patterns, sub-300ms latency budgets, HyDE, RRF, and the Production Disaster Manual. | **Enterprise AI System Design Manual** |
+| ⚡ [**Zero-Bill-Cloud-Stack**](https://github.com/Gana-Y/Zero-Bill-Cloud-Stack) | Production $0.00 cloud infrastructure matrix: Koyeb, Neon, Upstash, Qdrant & Cloudflare R2. | **Zero-Card Cloud Architecture** |
+| 🔌 [**Supercharged-MCP**](https://github.com/Gana-Y/Supercharged-MCP) | Model Context Protocol handbook: 25+ production servers, Python FastMCP & TS SDK starters, Docker sandbox. | **Anthropic MCP Production Kit** |
+| 🎓 [**Free-Courses**](https://github.com/Gana-Y/Free-Courses) | Verified 100% free courses & certifications from NVIDIA, Anthropic, AWS, Google, Harvard, and MIT. | **Free Developer Vault** |
+| 📚 [**AI-ML-Notes**](https://github.com/Gana-Y/AI-ML-Notes) | In-depth mathematical breakdowns of Deep Learning, Attention mechanisms, and Transformer architectures. | **Applied AI Knowledge Base** |
 
 ---
 
-## 📈 Engineering Activity & Metrics
+## 📊 Live Engineering Activity & Metrics
 
 <div align="center">
   <p align="center">
@@ -219,7 +164,7 @@ print(me.ship_code())
 
 ---
 
-## ⚡ Live Infographics & Architecture Metrics
+## ⚡ Live Telemetry & GitHub Contributions
 
 <br/>
 
@@ -237,23 +182,14 @@ print(me.ship_code())
 
 <br/>
 
-### 🏆 Engineering Milestones & Achievements
+### 🏆 Verified Engineering Milestones
 <p align="center">
   <img src="github-metrics-achievements.svg" alt="Engineering Achievements Badges"/>
 </p>
 
-<br/>
-
-### 🎭 Community Sentiment & Reactions
-<p align="center">
-  <img src="github-metrics-reactions.svg" alt="Community Reactions"/>
-</p>
-
-<br/>
-
 ---
 
-## ⚡ LeetCode Analytics
+## ⚡ Algorithmic Problem Solving (LeetCode)
 
 <div align="center">
 
@@ -263,7 +199,7 @@ print(me.ship_code())
 
 ---
 
-## 🐍 Dynamic Contribution Timeline
+## 🐍 Continuous Contribution Activity
 
 <div align="center">
 
@@ -277,19 +213,9 @@ print(me.ship_code())
 
 ---
 
-## 💡 Engineering Axiom
-
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1461FF,50:0d1b4b,100:0d0d0d&height=120&section=footer&animation=fadeIn" width="100%"/>
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1461FF,50:0d1b4b,100:0d0d0d&height=130&section=footer&animation=fadeIn" width="100%"/>
-
-**`> print("Building the future with first-principles engineering. 🚀")`**
+**`> Ganesh Yandigeri // Systems & Applied AI // Shipping Production Infrastructure`**
 
 </div>
