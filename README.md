@@ -87,7 +87,7 @@
 
 ---
 
-## 🏛️ Staff-Level Architectural Showcases
+## 🏛️ Flagship Production Systems
 
 ### 🚀 1. Florix AI — Enterprise-Grade Multimodal RAG Platform
 > **Production AI Academic Engine & Real-Time Viva Defense Arbiter**
