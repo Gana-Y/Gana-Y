@@ -14,7 +14,7 @@
 <p align="center">
   <strong>Bangalore, India</strong> &nbsp;•&nbsp; 
   <a href="mailto:ganeshyandigeri1@gmail.com">ganeshyandigeri1@gmail.com</a> &nbsp;•&nbsp; 
-  <a href="https://ganesh-y.vercel.app">ganesh-y.vercel.app</a>
+  <a href="https://ganesh-portfolio-silk-five.vercel.app">ganesh-portfolio-silk-five.vercel.app</a>
 </p>
 
 <p align="center">
@@ -50,7 +50,7 @@
   <a href="mailto:ganeshyandigeri1@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>&nbsp;
-  <a href="https://ganesh-y.vercel.app">
+  <a href="https://ganesh-portfolio-silk-five.vercel.app">
     <img src="https://img.shields.io/badge/PORTFOLIO-%230077B5.svg?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>&nbsp;
   <img src="https://komarev.com/ghpvc/?username=Gana-Y&label=Profile+Views&color=1461FF&style=for-the-badge"/>
