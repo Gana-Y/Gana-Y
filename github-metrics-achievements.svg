@@ -76,14 +76,14 @@
         <text x="12" y="22.5" class="badge-num">★</text>
     </g>
 
-    <!-- Manager -->
+    <!-- Manager (Dynamically Unlocked with Projects!) -->
     <g transform="translate(426, 96)">
-        
-        <text x="0" y="-10" class="badge-sub locked-text" fill="#484f58">Manager</text>
-        <circle cx="0" cy="12" r="18" class="locked-ring" stroke="#30363d"/>
-        <rect x="-6" y="6" width="12" height="12" rx="2" fill="none" stroke="#484f58" stroke-width="1.5"/>
-        <rect x="5" y="16" width="14" height="13" rx="6.5" fill="#21262d"/>
-        <text x="12" y="22.5" class="badge-num" fill="#8b949e">0</text>
+        <text x='0' y='-22' class='badge-title' fill='#38bdf8'>Active</text>
+        <text x="0" y="-10" class="badge-sub " fill="#38bdf8">Manager</text>
+        <circle cx="0" cy="12" r="18" class="unlocked-ring" stroke="#38bdf8"/>
+        <rect x="-6" y="6" width="12" height="12" rx="2" fill="none" stroke="#38bdf8" stroke-width="1.5"/>
+        <rect x="4" y="16" width="16" height="13" rx="6.5" fill="#38bdf8"/>
+        <text x="12" y="22.5" class="badge-num" fill="#ffffff">2</text>
     </g>
 
     <!-- Row 2: Secondary / Unlocked / Locked Trackers -->
@@ -100,7 +100,7 @@
     <!-- Polyglot (Dynamically Unlocked with 5 languages!) -->
     <g transform="translate(126, 165)">
         <text x='0' y='-22' class='badge-title' fill='#06b6d4'>Active</text>
-        <text x="0" y="-10" class="badge-sub " fill="#06b6d4">Polyglot</text>
+        <text x="0" y="-10" class="badge-sub" fill="#06b6d4">Polyglot</text>
         <circle cx="0" cy="12" r="16" class="unlocked-ring" stroke="#06b6d4"/>
         <path d="M-4 8 L-4 18 M0 6 L0 18 M4 8 L4 18" stroke="#06b6d4" stroke-width="1.5"/>
         <rect x="5" y="14" width="14" height="13" rx="6.5" fill="#06b6d4"/>
@@ -120,20 +120,20 @@
     <!-- Deployer (Dynamically Unlocked with 30 deployments!) -->
     <g transform="translate(278, 165)">
         <text x='0' y='-22' class='badge-title' fill='#10b981'>Active</text>
-        <text x="0" y="-10" class="badge-sub " fill="#10b981">Deployer</text>
+        <text x="0" y="-10" class="badge-sub" fill="#10b981">Deployer</text>
         <circle cx="0" cy="12" r="16" class="unlocked-ring" stroke="#10b981"/>
         <path d="M-5 16 L0 7 L5 16 Z" fill="#10b981"/>
         <rect x="2" y="14" width="22" height="13" rx="6.5" fill="#10b981"/>
         <text x="13" y="20.5" class="badge-num" fill="#ffffff">30+</text>
     </g>
 
-    <!-- Infographile -->
+    <!-- Infographile (Dynamically Unlocked!) -->
     <g transform="translate(354, 165)">
-        
-        <text x="0" y="-10" class="badge-sub locked-text" fill="#484f58">Infographile</text>
-        <circle cx="0" cy="12" r="16" class="locked-ring" stroke="#30363d"/>
-        <path d="M-5 15 L-2 11 L1 13 L5 8" fill="none" stroke="#484f58" stroke-width="1.5"/>
-        <rect x="5" y="14" width="14" height="13" rx="6.5" fill="#21262d"/>
-        <text x="12" y="20.5" class="badge-num" fill="#8b949e">?</text>
+        <text x='0' y='-22' class='badge-title' fill='#22c55e'>Active</text>
+        <text x="0" y="-10" class="badge-sub " fill="#22c55e">Infographile</text>
+        <circle cx="0" cy="12" r="16" class="unlocked-ring" stroke="#22c55e"/>
+        <path d="M-5 15 L-2 11 L1 13 L5 8" fill="none" stroke="#22c55e" stroke-width="1.5"/>
+        <rect x="4" y="14" width="16" height="13" rx="6.5" fill="#22c55e"/>
+        <text x="12" y="20.5" class="badge-num" fill="#ffffff">✓</text>
     </g>
 </svg>
