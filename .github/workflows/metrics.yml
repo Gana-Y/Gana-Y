@@ -25,7 +25,7 @@ jobs:
           config_timezone: Asia/Kolkata
           filename: github-metrics-overview.svg
 
-          # 🈷️ Languages Activity
+          # 🈸 Languages Activity
           plugin_languages: yes
           plugin_languages_analysis_details: lines, bytes
           plugin_languages_sections: most-used, recently-used
@@ -68,19 +68,28 @@ jobs:
           plugin_reactions_display: ring
           plugin_reactions_limit: 200
 
-      # Card 4: Achievements Badges Card (Compact Display)
-      - name: Achievements Badges Card
-        uses: lowlighter/metrics@latest
+      # Card 4: Dynamic Achievements Badges (Native High-Reliability Generator)
+      - name: Checkout repository
+        uses: actions/checkout@v4
         with:
-          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
-          user: Gana-Y
-          template: classic
-          base: ""
-          config_timezone: Asia/Kolkata
-          filename: github-metrics-achievements.svg
+          ref: main
+          fetch-depth: 0
 
-          # 🏆 Achievements Plugin
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: X
-          plugin_achievements_secrets: yes
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Generate Dynamic Achievements Badges
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python scripts/generate_achievements.py
+
+      - name: Commit and Push Achievements Card
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git pull --rebase origin main
+          git add github-metrics-achievements.svg
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update github-metrics-achievements.svg - [Skip GitHub Action]" && git push origin main)
