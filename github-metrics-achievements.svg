@@ -87,14 +87,14 @@
     </g>
 
     <!-- Row 2: Secondary / Unlocked / Locked Trackers -->
-    <!-- Packager -->
+    <!-- Packager (Dynamically Unlocked with GHCR Package!) -->
     <g transform="translate(50, 165)">
-        
-        <text x="0" y="-10" class="badge-sub locked-text" fill="#484f58">Packager</text>
-        <circle cx="0" cy="12" r="16" class="locked-ring" stroke="#30363d"/>
-        <polygon points="0,5 7,9 7,16 0,20 -7,16 -7,9" fill="none" stroke="#484f58" stroke-width="1.2"/>
-        <rect x="5" y="14" width="14" height="13" rx="6.5" fill="#21262d"/>
-        <text x="12" y="20.5" class="badge-num" fill="#8b949e">0</text>
+        <text x='0' y='-22' class='badge-title' fill='#a855f7'>Active</text>
+        <text x="0" y="-10" class="badge-sub " fill="#a855f7">Packager</text>
+        <circle cx="0" cy="12" r="16" class="unlocked-ring" stroke="#a855f7"/>
+        <polygon points="0,5 7,9 7,16 0,20 -7,16 -7,9" fill="none" stroke="#a855f7" stroke-width="1.2"/>
+        <rect x="4" y="14" width="16" height="13" rx="6.5" fill="#a855f7"/>
+        <text x="12" y="20.5" class="badge-num" fill="#ffffff">1</text>
     </g>
 
     <!-- Polyglot (Dynamically Unlocked with 5 languages!) -->
@@ -130,7 +130,7 @@
     <!-- Infographile (Dynamically Unlocked!) -->
     <g transform="translate(354, 165)">
         <text x='0' y='-22' class='badge-title' fill='#22c55e'>Active</text>
-        <text x="0" y="-10" class="badge-sub " fill="#22c55e">Infographile</text>
+        <text x="0" y="-10" class="badge-sub" fill="#22c55e">Infographile</text>
         <circle cx="0" cy="12" r="16" class="unlocked-ring" stroke="#22c55e"/>
         <path d="M-5 15 L-2 11 L1 13 L5 8" fill="none" stroke="#22c55e" stroke-width="1.5"/>
         <rect x="4" y="14" width="16" height="13" rx="6.5" fill="#22c55e"/>
