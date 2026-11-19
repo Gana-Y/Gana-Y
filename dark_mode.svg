@@ -61,8 +61,6 @@ text, tspan {white-space: pre;}
     <tspan fill="#38bdf8" font-weight="bold">[SYS: OK]</tspan>
   </text>
   
-  <line x1="28" y1="524" x2="336" y2="524" stroke="#1c1d24" stroke-width="1" stroke-dasharray="4 4"/>
-  
   <!-- Row 1: HNSW Vector Retrieval -->
   <text x="32" y="545" font-size="12px">
     <tspan fill="#94a3b8">HNSW Vector Retrieval</tspan>
@@ -127,16 +125,11 @@ text, tspan {white-space: pre;}
   
 
   <!-- Subtle Divider Line -->
-  <line x1="380" y1="524.0" x2="955" y2="524.0" stroke="#1e222b" stroke-width="1.2" stroke-dasharray="4 4"/>
-  
   <!-- Contact Info Row -->
   <text x="380" y="556.0" font-size="13.5px">
     <tspan fill="#94a3b8" font-weight="600">Contact: </tspan>
     <tspan fill="#38bdf8">ganeshyandigeri1@gmail.com</tspan>
-    <tspan fill="#475569"> &#160;|&#160; </tspan>
-    <tspan fill="#94a3b8" font-weight="600">GitHub: </tspan>
-    <tspan fill="#38bdf8">Gana-Y</tspan>
-    <tspan fill="#475569"> &#160;|&#160; </tspan>
+    <tspan fill="#475569"> &#160;&#160;|&#160;&#160; </tspan>
     <tspan fill="#38bdf8">ganesh-portfolio-silk-five.vercel.app</tspan>
   </text>
 
