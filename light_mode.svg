@@ -6,33 +6,45 @@
 .dots {fill: #565f89;}
 text, tspan {white-space: pre;}
 .thought {
-  opacity: 0.92;
+  font-family: Consolas, 'SFMono-Regular', Menlo, monospace;
+  opacity: 0;
+  text-anchor: middle;
   transform-box: fill-box;
   transform-origin: center;
-  animation: think 7s ease-in-out infinite alternate;
+  will-change: transform, opacity;
+  animation: floatThought 22.4s ease-out infinite;
 }
-@keyframes think {
+@keyframes floatThought {
   0% {
-    opacity: 0.75;
-    transform: translate(0, 0) scale(0.95);
+    opacity: 0;
+    transform: translate(0, 0) scale(0.8);
   }
-  50% {
-    opacity: 1.0;
-    transform: translate(var(--drift), -22px) scale(1.05);
+  3.5% {
+    opacity: 0.95;
+    transform: translate(calc(var(--drift) * 0.1), -15px) scale(0.85);
+  }
+  22% {
+    opacity: 0.95;
+    transform: translate(calc(var(--drift) * 0.75), -85px) scale(1.0);
+  }
+  28% {
+    opacity: 0;
+    transform: translate(var(--drift), -105px) scale(1.0);
   }
   100% {
-    opacity: 0.82;
-    transform: translate(calc(var(--drift) * 1.4), -46px) scale(1.0);
+    opacity: 0;
+    transform: translate(var(--drift), -105px) scale(1.0);
   }
 }
-.rain {opacity: 0.35; animation: fall linear infinite;}
-@keyframes fall {from {transform: translateY(-100%);} to {transform: translateY(var(--fall));}}
-.cursor {animation: blink 1s step-end infinite;}
-@keyframes blink {0%, 100% {opacity: 1;} 50% {opacity: 0;}}
 @media (prefers-reduced-motion: reduce) {
-  .thought { animation: none; opacity: 0.92; }
-  .rain { display: none; }
-  .cursor { animation: none; }
+  .thought {
+    animation: none;
+    opacity: 0;
+  }
+  .thought-static {
+    opacity: 0.95;
+    transform: translate(calc(var(--drift) * 0.5), -55px) scale(1.0);
+  }
 }
 </style>
 <defs><clipPath id="card"><rect width="1008" height="634" rx="15"/></clipPath></defs>
@@ -40,6 +52,29 @@ text, tspan {white-space: pre;}
 <path d="M15 0H993A15 15 0 0 1 1008 15V34H0V15A15 15 0 0 1 15 0Z" fill="#c0caf5" fill-opacity="0.07"/>
 <circle cx="24" cy="17" r="6" fill="#ff5f56"/><circle cx="42" cy="17" r="6" fill="#ffbd2e"/><circle cx="60" cy="17" r="6" fill="#27c93f"/>
 <text x="504" y="21" font-size="12px" text-anchor="middle" fill="#8b949e">ganesh@neural-core — zsh</text>
+<defs>
+  <clipPath id="thought-bounds">
+    <rect x="15" y="35" width="335" height="150"/>
+  </clipPath>
+</defs>
+<g id="floating-thoughts" clip-path="url(#thought-bounds)" style="pointer-events: none;">
+  <text class="thought thought-static" x="206" y="175" font-size="15.5px" fill="#38bdf8" font-weight="bold" style="--drift: 2px; animation-delay: -0.0s;">AI Engineer</text>
+  <text class="thought thought-static" x="296" y="175" font-size="14.0px" fill="#c084fc" style="--drift: 10px; animation-delay: -1.4s;">LLM</text>
+  <text class="thought thought-static" x="68" y="175" font-size="14.0px" fill="#4ade80" style="--drift: -10px; animation-delay: -2.8s;">RAG</text>
+  <text class="thought thought-static" x="252" y="175" font-size="14.0px" fill="#38bdf8" style="--drift: 6px; animation-delay: -4.2s;">FastAPI</text>
+  <text class="thought thought-static" x="112" y="175" font-size="14.0px" fill="#fde047" style="--drift: -6px; animation-delay: -5.6s;">PyTorch</text>
+  <text class="thought thought-static" x="206" y="175" font-size="13.5px" fill="#ffffff" style="--drift: 2px; animation-delay: -7.0s;">ChromaDB</text>
+  <text class="thought" x="112" y="175" font-size="14.0px" fill="#c084fc" style="--drift: -6px; animation-delay: -8.4s;">HNSW</text>
+  <text class="thought" x="296" y="175" font-size="14.0px" fill="#4ade80" style="--drift: 10px; animation-delay: -9.8s;">CUDA</text>
+  <text class="thought" x="206" y="175" font-size="14.0px" fill="#38bdf8" style="--drift: 2px; animation-delay: -11.2s;">async</text>
+  <text class="thought" x="68" y="175" font-size="14.0px" fill="#ffffff" style="--drift: -10px; animation-delay: -12.6s;">await</text>
+  <text class="thought" x="252" y="175" font-size="13.5px" fill="#c084fc" style="--drift: 6px; animation-delay: -14.0s;">agent.run()</text>
+  <text class="thought" x="68" y="175" font-size="13.0px" fill="#fde047" style="--drift: -10px; animation-delay: -15.4s;">optimizer.step()</text>
+  <text class="thought" x="252" y="175" font-size="13.5px" fill="#4ade80" style="--drift: 6px; animation-delay: -16.8s;">136k ops/s</text>
+  <text class="thought" x="158" y="175" font-size="14.0px" fill="#38bdf8" style="--drift: -2px; animation-delay: -18.2s;">4.3µs</text>
+  <text class="thought" x="296" y="175" font-size="14.0px" fill="#c084fc" style="--drift: 10px; animation-delay: -19.6s;">MCP</text>
+  <text class="thought" x="112" y="175" font-size="13.5px" fill="#ffffff" style="--drift: -6px; animation-delay: -21.0s;">Grounded</text>
+</g>
 <clipPath id="portrait-clip">
   <rect x="18" y="166" width="328" height="305" rx="10" fill="none" stroke="none"/>
 </clipPath>
@@ -134,30 +169,5 @@ text, tspan {white-space: pre;}
   </text>
 
 </g>
-
-<text class="thought" x="88" y="158" font-size="12px" fill="#c084fc" style="--drift: -12px; animation-duration: 6.45s; animation-delay: -4.20s">AI</text>
-<text class="thought" x="128" y="153" font-size="16px" fill="#38bdf8" style="--drift: -5px; animation-duration: 6.17s; animation-delay: -3.13s">LLM</text>
-<text class="thought" x="165" y="146" font-size="13px" fill="#4ade80" style="--drift: -13px; animation-duration: 6.27s; animation-delay: -2.66s">RAG</text>
-<text class="thought" x="205" y="155" font-size="13px" fill="#ffffff" style="--drift: -10px; animation-duration: 7.19s; animation-delay: -7.02s">PyTorch</text>
-<text class="thought" x="242" y="148" font-size="13px" fill="#38bdf8" style="--drift: 10px; animation-duration: 6.43s; animation-delay: -0.76s">FastAPI</text>
-<text class="thought" x="120" y="158" font-size="12px" fill="#94a3b8" style="--drift: -9px; animation-duration: 7.71s; animation-delay: -1.45s">ChromaDB</text>
-<text class="thought" x="162" y="150" font-size="16px" fill="#c084fc" style="--drift: 12px; animation-duration: 7.86s; animation-delay: -3.90s">HNSW</text>
-<text class="thought" x="202" y="146" font-size="13px" fill="#38bdf8" style="--drift: -11px; animation-duration: 7.36s; animation-delay: -2.21s">136k ops/s</text>
-<text class="thought" x="240" y="154" font-size="14px" fill="#4ade80" style="--drift: 11px; animation-duration: 6.90s; animation-delay: -3.42s">4.3µs</text>
-<text class="thought" x="115" y="149" font-size="13px" fill="#fcd34d" style="--drift: -12px; animation-duration: 6.22s; animation-delay: -3.18s">CUDA</text>
-<text class="thought" x="158" y="156" font-size="14px" fill="#38bdf8" style="--drift: -12px; animation-duration: 7.27s; animation-delay: -6.99s">loss</text>
-<text class="thought" x="198" y="151" font-size="12px" fill="#ffffff" style="--drift: 5px; animation-duration: 7.05s; animation-delay: -3.50s">weights</text>
-<text class="thought" x="238" y="158" font-size="14px" fill="#c084fc" style="--drift: -11px; animation-duration: 7.42s; animation-delay: -4.93s">e^iπ</text>
-<text class="thought" x="124" y="152" font-size="14px" fill="#38bdf8" style="--drift: 11px; animation-duration: 8.98s; animation-delay: -7.38s">O(log n)</text>
-<text class="thought" x="160" y="146" font-size="13px" fill="#4ade80" style="--drift: -9px; animation-duration: 7.39s; animation-delay: -1.24s">def</text>
-<text class="thought" x="196" y="155" font-size="16px" fill="#c084fc" style="--drift: 13px; animation-duration: 6.39s; animation-delay: -1.58s">async</text>
-<text class="thought" x="234" y="150" font-size="14px" fill="#38bdf8" style="--drift: -12px; animation-duration: 7.35s; animation-delay: -4.04s">await</text>
-<text class="thought" x="116" y="157" font-size="13px" fill="#fcd34d" style="--drift: 14px; animation-duration: 8.96s; animation-delay: -6.12s">optimizer.step</text>
-<text class="thought" x="154" y="152" font-size="13px" fill="#c084fc" style="--drift: -9px; animation-duration: 6.45s; animation-delay: -4.25s">MCP</text>
-<text class="thought" x="194" y="147" font-size="14px" fill="#38bdf8" style="--drift: 10px; animation-duration: 6.01s; animation-delay: -2.52s">agent.run</text>
-<text class="thought" x="232" y="154" font-size="15px" fill="#ffffff" style="--drift: -9px; animation-duration: 8.07s; animation-delay: -4.16s">Grounded</text>
-<text class="thought" x="70" y="156" font-size="15px" font-weight="bold" fill="#38bdf8" style="--drift: 6px; animation-duration: 6.50s; animation-delay: 0.00s">AI Engineer</text>
-<text class="thought" x="148" y="140" font-size="15.5px" font-weight="bold" fill="#c084fc" style="--drift: -6px; animation-duration: 6.80s; animation-delay: -2.20s">AI Engineer</text>
-<text class="thought" x="226" y="152" font-size="15px" font-weight="bold" fill="#ffffff" style="--drift: 7px; animation-duration: 7.10s; animation-delay: -4.40s">AI Engineer</text>
 
 </svg>
