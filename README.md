@@ -3,6 +3,10 @@
 <!-- ================================================================ -->
 <div align="center">
 
+<p align="center">
+  <img src="header.gif" alt="Header Banner" width="850" />
+</p>
+
 <h1 align="center">
   Ganesh Yandigeri
 </h1>
