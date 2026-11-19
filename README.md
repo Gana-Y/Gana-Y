@@ -217,7 +217,10 @@ Curated technical publications, system design handbooks, and open-source infrast
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1461FF,50:0d1b4b,100:0d0d0d&height=120&section=footer&animation=fadeIn" width="100%"/>
+
+<p align="center">
+  <img src="footer.gif" alt="Math &amp; Astronomy Visuals" width="850" />
+</p>
 
 **`> Ganesh Yandigeri // Systems & Applied AI // Shipping Production Infrastructure`**
 
