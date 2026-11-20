@@ -134,21 +134,21 @@
 * **Order Book Mechanics:** Dual-heap price-time priority matching engine ($O(1)$ best bid/ask resolution, $O(1)$ amortized cancellations via hash-indexed pointers).
 * **High-Frequency Concurrency:** Non-blocking async event loop streaming live orderbook depth over bidirectional WebSockets.
 
-👉 **[Inspect OrderCore Repository ↗](https://github.com/Gana-Y/OrderCore)**
+👉 **[Inspect OrderCore Repository ↗](https://github.com/Gana-Y/OrderCore)** • **[Live Trading Terminal ↗](https://ordercore.onrender.com)**
 
 ---
 
-## 📚 Open-Source Systems & Architecture Vaults
+## 🛠️ Open-Source Infrastructure & Developer Tooling
 
-Curated technical publications, system design handbooks, and open-source infrastructure tools maintained for the global engineering community:
+Production developer tools, systems libraries, and architectural handbooks maintained for engineers:
 
 | Repository | Focus & Architecture | Impact & Highlights |
 |:---|:---|:---:|
-| 🧠 [**LLM-System-Patterns**](https://github.com/Gana-Y/LLM-System-Patterns) | Production RAG patterns, sub-300ms latency budgets, HyDE, RRF, and the Production Disaster Manual. | **Enterprise AI System Design Manual** |
-| ⚡ [**Zero-Bill-Cloud-Stack**](https://github.com/Gana-Y/Zero-Bill-Cloud-Stack) | Production $0.00 cloud infrastructure matrix: Koyeb, Neon, Upstash, Qdrant & Cloudflare R2. | **Zero-Card Cloud Architecture** |
+| 🧪 [**promptunit**](https://github.com/Gana-Y/promptunit) | Unit testing framework for LLM prompts, chains & agents with fluent assertions, response caching & automated evaluation. | **AI Evaluation & Testing Framework** |
+| 🏦 [**bankstmt**](https://github.com/Gana-Y/bankstmt) | 100% local parser for Indian bank statement PDFs to clean CSV/JSON/Excel with running balance verification & zero cloud leaks. | **Local Financial Data Parser** |
+| 🌐 [**indickit**](https://github.com/Gana-Y/indickit) | Zero-dependency text toolkit & rule-based LLM benchmark evaluating token efficiency across 10 Indian languages. | **Indic NLP & Token Benchmark** |
+| 🧠 [**LLM-System-Patterns**](https://github.com/Gana-Y/LLM-System-Patterns) | Production RAG patterns, sub-300ms latency budgets, HyDE, RRF, and system design tradeoffs. | **Enterprise AI Architecture Handbook** |
 | 🔌 [**Supercharged-MCP**](https://github.com/Gana-Y/Supercharged-MCP) | Model Context Protocol handbook: 25+ production servers, Python FastMCP & TS SDK starters, Docker sandbox. | **Anthropic MCP Production Kit** |
-| 🎓 [**Free-Courses**](https://github.com/Gana-Y/Free-Courses) | Verified 100% free courses & certifications from NVIDIA, Anthropic, AWS, Google, Harvard, and MIT. | **Free Developer Vault** |
-| 📚 [**AI-ML-Notes**](https://github.com/Gana-Y/AI-ML-Notes) | In-depth mathematical breakdowns of Deep Learning, Attention mechanisms, and Transformer architectures. | **Applied AI Knowledge Base** |
 
 ---
 

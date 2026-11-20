@@ -1,12 +1,9 @@
 name: Metrics
 
 on:
-  schedule:
-    - cron: "0 0 * * *"   # runs daily at midnight UTC
-  workflow_dispatch:
-  push:
-    branches:
-      - main
+  workflow_dispatch: # Run on manual trigger
+  # Disabled automated daily cron to prevent bot commit pollution on main
+
 
 jobs:
   github-metrics:
