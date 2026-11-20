@@ -57,12 +57,12 @@
 
     <!-- Developer -->
     <g transform="translate(278, 96)">
-        <text x="0" y="-22" class="badge-title" fill="#818cf8">Master</text>
+        <text x="0" y="-22" class="badge-title" fill="#818cf8">Great</text>
         <text x="0" y="-10" class="badge-sub" fill="#818cf8">Developer</text>
         <circle cx="0" cy="12" r="18" class="unlocked-ring" stroke="#818cf8"/>
         <text x="0" y="15" fill="#818cf8" font-size="11" font-weight="bold" text-anchor="middle">&lt;/&gt;</text>
         <rect x="3" y="16" width="20" height="13" rx="6.5" fill="#818cf8"/>
-        <text x="13" y="22.5" class="badge-num">21</text>
+        <text x="13" y="22.5" class="badge-num">18</text>
     </g>
 
     <!-- Explorer -->
@@ -104,7 +104,7 @@
         <circle cx="0" cy="12" r="16" class="unlocked-ring" stroke="#06b6d4"/>
         <path d="M-4 8 L-4 18 M0 6 L0 18 M4 8 L4 18" stroke="#06b6d4" stroke-width="1.5"/>
         <rect x="5" y="14" width="14" height="13" rx="6.5" fill="#06b6d4"/>
-        <text x="12" y="20.5" class="badge-num" fill="#ffffff">5</text>
+        <text x="12" y="20.5" class="badge-num" fill="#ffffff">4</text>
     </g>
 
     <!-- Sponsor -->
