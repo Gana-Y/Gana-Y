@@ -167,17 +167,19 @@ Production developer tools, systems libraries, and architectural handbooks maint
 
 ---
 
-## 🏆 GitHub Trophies & Badges
+## 🏆 Verified GitHub Trophies
 
 <div align="center">
   <p align="center">
-    <img src="github-profile-trophy.svg?v=20261124" alt="Ganesh Yandigeri GitHub Trophies" />
+    <img src="github-profile-trophy.svg?v=20261124_clean" alt="Ganesh Yandigeri GitHub Trophies" />
   </p>
+  <!-- Holopin Badge Board (Re-enable as badges are earned):
   <p align="center">
     <a href="https://holopin.io/@ganay">
       <img src="https://holopin.me/ganay" alt="@ganay's Holopin Badges Board" />
     </a>
   </p>
+  -->
 </div>
 
 ---
